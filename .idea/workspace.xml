@@ -1,8 +1,235 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="DesignPatternsInCpp" targetName="124ClassicVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="123ReflectiveVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="122IntrusiveVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="126Multimethods" />
+      <config projectName="DesignPatternsInCpp" targetName="125AcyclicVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="127Variantandstdvisit" />
+    </generated>
+  </component>
   <component name="CMakeSettings">
     <configurations>
       <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
     </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/[02]SOLID Design Principles/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[06]Adapter Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[06]Adapter Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[06]Adapter Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[14]Chair of Responsibility/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[14]Chair of Responsibility/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[14]Chair of Responsibility/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[21]State Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[21]State Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[21]State Pattern/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingletonPattern/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingletonPattern/Singleton.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingletonPattern/readme.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bx0f9tg6" />
+  </component>
+  <component name="ProjectId" id="1hQLzfcn0n5KoDkKRP61avrMkjS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[22]Strategy Pattern" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[22]Strategy Pattern" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[21]State Pattern" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[20]Observer Pattern" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[19]Memento Pattern" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[18]Mediator Pattern" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.122IntrusiveVisitor">
+    <configuration name="122IntrusiveVisitor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="122IntrusiveVisitor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="122IntrusiveVisitor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="123ReflectiveVisitor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="123ReflectiveVisitor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="123ReflectiveVisitor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="124ClassicVisitor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="124ClassicVisitor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="124ClassicVisitor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="125AcyclicVisitor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="125AcyclicVisitor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="125AcyclicVisitor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="126Multimethods" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="126Multimethods" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="126Multimethods">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="127Variantandstdvisit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="127Variantandstdvisit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="127Variantandstdvisit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.122IntrusiveVisitor" />
+      <item itemvalue="CMake Application.123ReflectiveVisitor" />
+      <item itemvalue="CMake Application.124ClassicVisitor" />
+      <item itemvalue="CMake Application.125AcyclicVisitor" />
+      <item itemvalue="CMake Application.126Multimethods" />
+      <item itemvalue="CMake Application.127Variantandstdvisit" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="" />
+      <created>1599938632873</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599938632873</updated>
+      <workItem from="1599938634211" duration="209000" />
+      <workItem from="1600576090306" duration="644000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="765" y="391" key="Github.ShareDialog" timestamp="1599938725870">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="391" key="Github.ShareDialog/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1599938725870" />
+    <state x="668" y="146" key="Github.UntrackedFilesDialog" timestamp="1599938737090">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="146" key="Github.UntrackedFilesDialog/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1599938737090" />
   </component>
 </project>

@@ -3,4 +3,4 @@ project(DesignPatternsInCpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
-add_executable(DesignPatternsInCpp main.cpp)
+add_subdirectory(src)
