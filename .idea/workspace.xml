@@ -34,70 +34,76 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/[02]SOLID Design Principles/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[06]Adapter Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[06]Adapter Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[06]Adapter Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[14]Chair of Responsibility/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[14]Chair of Responsibility/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[14]Chair of Responsibility/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[21]State Pattern/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[21]State Pattern/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[21]State Pattern/readme.md" afterDir="false" />
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[09]Gamma Categorization/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[11]Life Without Builders/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[11]Life Without Builders/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[11]Life Without Builders/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[13]Fluent Builder/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[13]Fluent Builder/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[13]Fluent Builder/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[14]Groovy-Style Builder/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[14]Groovy-Style Builder/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[14]Groovy-Style Builder/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[15]Builder Facets/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[15]Builder Facets/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[15]Builder Facets/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[Exercise]Builder Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[Exercise]Builder Coding Exercise/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[Exercise]Builder Coding Exercise/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[19]Factory Method/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[19]Factory Method/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[19]Factory Method/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[20]Factory/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[20]Factory/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[20]Factory/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[21]Inner Factory/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[21]Inner Factory/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[21]Inner Factory/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[22]Abstract Factory/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[22]Abstract Factory/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[22]Abstract Factory/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[23]Functional Factory/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[23]Functional Factory/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[23]Functional Factory/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[Exercise]Factory Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[Exercise]Factory Coding Exercise/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[Exercise]Factory Coding Exercise/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[25]Overview/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[25]Overview/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[25]Overview/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[26]Record Keeping/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[26]Record Keeping/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[26]Record Keeping/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[27]Prototype/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[27]Prototype/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[27]Prototype/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[28]Prototype Factory/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[28]Prototype Factory/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[28]Prototype Factory/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[29]Prototype Via serialization/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[29]Prototype Via serialization/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[29]Prototype Via serialization/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[Exercise]Prototype Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[Exercise]Prototype Coding Exercise/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[Exercise]Prototype Coding Exercise/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonPattern/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonPattern/Singleton.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingletonPattern/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Adapter Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Adapter Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[09]Gamma Categorization/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Adapter Pattern/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[09]Gamma Categorization/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,18 +137,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[22]Strategy Pattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[05]Prototype Pattern/[Exercise]Prototype Coding Exercise" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[22]Strategy Pattern" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[21]State Pattern" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[20]Observer Pattern" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[19]Memento Pattern" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[18]Mediator Pattern" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern\[Exercise]Prototype Coding Exercise" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern\[29]Prototype Via serialization" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern\[28]Prototype Factory" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern\[27]Prototype" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern\[26]Record Keeping" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.122IntrusiveVisitor">
@@ -204,8 +210,23 @@
       <option name="presentableId" value="Default" />
       <updated>1599938632873</updated>
       <workItem from="1599938634211" duration="209000" />
-      <workItem from="1600576090306" duration="644000" />
+      <workItem from="1600576090306" duration="6528000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1600576756090</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1600576756090</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial Commit">
+      <created>1600576847348</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1600576847348</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,6 +243,10 @@
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+  </component>
   <component name="WindowStateProjectService">
     <state x="765" y="391" key="Github.ShareDialog" timestamp="1599938725870">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -231,5 +256,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="146" key="Github.UntrackedFilesDialog/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1599938737090" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1600576851569">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1600576851569" />
+    <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600576789918">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1600576789918" />
   </component>
 </project>
