@@ -22,13 +22,17 @@
     <generated>
       <config projectName="DesignPatternsInCpp" targetName="124ClassicVisitor" />
       <config projectName="DesignPatternsInCpp" targetName="11LifeWithoutBuilders" />
-      <config projectName="DesignPatternsInCpp" targetName="09GammaCategorization" />
+      <config projectName="DesignPatternsInCpp" targetName="15BuilderFacets" />
       <config projectName="DesignPatternsInCpp" targetName="123ReflectiveVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="14GroovyStyleBuilder" />
+      <config projectName="DesignPatternsInCpp" targetName="127Variantandstdvisit" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseBuilderCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="09GammaCategorization" />
+      <config projectName="DesignPatternsInCpp" targetName="13FluentBuilder" />
       <config projectName="DesignPatternsInCpp" targetName="12Builder" />
       <config projectName="DesignPatternsInCpp" targetName="122IntrusiveVisitor" />
       <config projectName="DesignPatternsInCpp" targetName="126Multimethods" />
       <config projectName="DesignPatternsInCpp" targetName="125AcyclicVisitor" />
-      <config projectName="DesignPatternsInCpp" targetName="127Variantandstdvisit" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -37,24 +41,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Initial Commit">
-      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[09]Gamma Categorization/[09]GammaCategorization.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[10]Overview/readme.md" afterDir="false" />
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Builder Pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[09]Gamma Categorization/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[09]Gamma Categorization/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[09]Gamma Categorization/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[11]Life Without Builders/[11]LifeWithoutBuilders.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[09]Gamma Categorization/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[09]Gamma Categorization/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[11]Life Without Builders/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[11]Life Without Builders/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[11]Life Without Builders/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/[12]Builder.cpp.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[13]Fluent Builder/[13]FluentBuilder.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[13]Fluent Builder/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[13]Fluent Builder/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[13]Fluent Builder/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[14]Groovy-Style Builder/[14]GroovyStyleBuilder.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[14]Groovy-Style Builder/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[15]Builder Facets/[15]BuilderFacets.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[15]Builder Facets/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[Exercise]Builder Coding Exercise/[Exercise]BuilderCodingExercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[Exercise]Builder Coding Exercise/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/[12]Builder.cpp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/[12]Builder.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[14]Groovy-Style Builder/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[14]Groovy-Style Builder/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[15]Builder Facets/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[15]Builder Facets/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[Exercise]Builder Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[Exercise]Builder Coding Exercise/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +95,7 @@
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern\[26]Record Keeping" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.11LifeWithoutBuilders">
+  <component name="RunManager" selected="CMake Application.12Builder">
     <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="CLION.EXTERNAL.BUILD" enabled="true" />
@@ -153,6 +146,26 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="13FluentBuilder" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="13FluentBuilder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="13FluentBuilder">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="14GroovyStyleBuilder" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="14GroovyStyleBuilder" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="14GroovyStyleBuilder">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="15BuilderFacets" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="15BuilderFacets" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="15BuilderFacets">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseBuilderCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseBuilderCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseBuilderCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -162,6 +175,10 @@
       <item itemvalue="CMake Application.09GammaCategorization" />
       <item itemvalue="CMake Application.11LifeWithoutBuilders" />
       <item itemvalue="CMake Application.12Builder" />
+      <item itemvalue="CMake Application.13FluentBuilder" />
+      <item itemvalue="CMake Application.14GroovyStyleBuilder" />
+      <item itemvalue="CMake Application.15BuilderFacets" />
+      <item itemvalue="CMake Application.ExerciseBuilderCodingExercise" />
       <item itemvalue="CMake Application.122IntrusiveVisitor" />
       <item itemvalue="CMake Application.123ReflectiveVisitor" />
       <item itemvalue="CMake Application.124ClassicVisitor" />
@@ -183,7 +200,7 @@
       <workItem from="1600679360499" duration="656000" />
       <workItem from="1601153701904" duration="106000" />
       <workItem from="1601568473164" duration="4205000" />
-      <workItem from="1601905731060" duration="5615000" />
+      <workItem from="1601905731060" duration="9891000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600576756090</created>
@@ -220,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601153731432</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Builder Pattern">
+      <created>1601917711422</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1601917711422</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -240,7 +264,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Builder Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Builder Pattern" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="391" key="Github.ShareDialog" timestamp="1599938725870">
@@ -251,21 +276,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="146" key="Github.UntrackedFilesDialog/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1599938737090" />
-    <state width="932" height="266" key="GridCell.Tab.0.bottom" timestamp="1601916921293">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="612" height="247" key="GridCell.Tab.0.bottom" timestamp="1601926197006">
+      <screen x="-1280" y="0" width="1280" height="984" />
     </state>
+    <state width="612" height="247" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601926197006" />
     <state width="932" height="266" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1601916921293" />
-    <state width="932" height="266" key="GridCell.Tab.0.center" timestamp="1601916921292">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="612" height="247" key="GridCell.Tab.0.center" timestamp="1601926197006">
+      <screen x="-1280" y="0" width="1280" height="984" />
     </state>
+    <state width="612" height="247" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601926197006" />
     <state width="932" height="266" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1601916921292" />
-    <state width="932" height="266" key="GridCell.Tab.0.left" timestamp="1601916921292">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="612" height="247" key="GridCell.Tab.0.left" timestamp="1601926197006">
+      <screen x="-1280" y="0" width="1280" height="984" />
     </state>
+    <state width="612" height="247" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601926197006" />
     <state width="932" height="266" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1601916921292" />
-    <state width="932" height="266" key="GridCell.Tab.0.right" timestamp="1601916921292">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="612" height="247" key="GridCell.Tab.0.right" timestamp="1601926197006">
+      <screen x="-1280" y="0" width="1280" height="984" />
     </state>
+    <state width="612" height="247" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601926197006" />
     <state width="932" height="266" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1601916921292" />
     <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1601153733525">
       <screen x="0" y="0" width="1920" height="1040" />
