@@ -43,11 +43,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Builder Pattern">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/[12]Builder.cpp.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/[12]Builder.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[14]Groovy-Style Builder/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[14]Groovy-Style Builder/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[15]Builder Facets/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[15]Builder Facets/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[Exercise]Builder Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[Exercise]Builder Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/[12]Builder.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/[12]Builder.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,25 +162,20 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="CMake Application.09GammaCategorization" />
-      <item itemvalue="CMake Application.11LifeWithoutBuilders" />
-      <item itemvalue="CMake Application.12Builder" />
-      <item itemvalue="CMake Application.13FluentBuilder" />
-      <item itemvalue="CMake Application.14GroovyStyleBuilder" />
-      <item itemvalue="CMake Application.15BuilderFacets" />
-      <item itemvalue="CMake Application.ExerciseBuilderCodingExercise" />
       <item itemvalue="CMake Application.122IntrusiveVisitor" />
       <item itemvalue="CMake Application.123ReflectiveVisitor" />
       <item itemvalue="CMake Application.124ClassicVisitor" />
       <item itemvalue="CMake Application.125AcyclicVisitor" />
       <item itemvalue="CMake Application.126Multimethods" />
       <item itemvalue="CMake Application.127Variantandstdvisit" />
+      <item itemvalue="CMake Application.09GammaCategorization" />
+      <item itemvalue="CMake Application.11LifeWithoutBuilders" />
+      <item itemvalue="CMake Application.13FluentBuilder" />
+      <item itemvalue="CMake Application.14GroovyStyleBuilder" />
+      <item itemvalue="CMake Application.15BuilderFacets" />
+      <item itemvalue="CMake Application.ExerciseBuilderCodingExercise" />
+      <item itemvalue="CMake Application.12Builder" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -200,7 +191,7 @@
       <workItem from="1600679360499" duration="656000" />
       <workItem from="1601153701904" duration="106000" />
       <workItem from="1601568473164" duration="4205000" />
-      <workItem from="1601905731060" duration="9891000" />
+      <workItem from="1601905731060" duration="11248000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600576756090</created>
@@ -244,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601917711422</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Builder Pattern">
+      <created>1601930607501</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1601930607501</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,9 +294,10 @@
     </state>
     <state width="612" height="247" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601926197006" />
     <state width="932" height="266" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1601916921292" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1601153733525">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="-1016" y="177" key="Vcs.Push.Dialog.v2" timestamp="1601930610722">
+      <screen x="-1280" y="0" width="1280" height="984" />
     </state>
+    <state x="-1016" y="177" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601930610722" />
     <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1601153733525" />
     <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600576789918">
       <screen x="0" y="0" width="1920" height="1040" />
