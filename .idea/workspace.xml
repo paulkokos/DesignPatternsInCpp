@@ -20,19 +20,19 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="DesignPatternsInCpp" targetName="124ClassicVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="127Variantandstdvisit" />
+      <config projectName="DesignPatternsInCpp" targetName="123ReflectiveVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="125AcyclicVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseBuilderCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="12Builder" />
+      <config projectName="DesignPatternsInCpp" targetName="14GroovyStyleBuilder" />
+      <config projectName="DesignPatternsInCpp" targetName="13FluentBuilder" />
+      <config projectName="DesignPatternsInCpp" targetName="126Multimethods" />
+      <config projectName="DesignPatternsInCpp" targetName="09GammaCategorization" />
       <config projectName="DesignPatternsInCpp" targetName="11LifeWithoutBuilders" />
       <config projectName="DesignPatternsInCpp" targetName="15BuilderFacets" />
-      <config projectName="DesignPatternsInCpp" targetName="123ReflectiveVisitor" />
-      <config projectName="DesignPatternsInCpp" targetName="14GroovyStyleBuilder" />
-      <config projectName="DesignPatternsInCpp" targetName="127Variantandstdvisit" />
-      <config projectName="DesignPatternsInCpp" targetName="ExerciseBuilderCodingExercise" />
-      <config projectName="DesignPatternsInCpp" targetName="09GammaCategorization" />
-      <config projectName="DesignPatternsInCpp" targetName="13FluentBuilder" />
-      <config projectName="DesignPatternsInCpp" targetName="12Builder" />
       <config projectName="DesignPatternsInCpp" targetName="122IntrusiveVisitor" />
-      <config projectName="DesignPatternsInCpp" targetName="126Multimethods" />
-      <config projectName="DesignPatternsInCpp" targetName="125AcyclicVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="124ClassicVisitor" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -41,9 +41,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Builder Pattern">
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Initial Commit corrections">
+      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[17]Overview/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/[12]Builder.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/[12]Builder/[12]Builder.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/[18]Point Example.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,11 +94,6 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.12Builder">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="09GammaCategorization" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="09GammaCategorization" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="09GammaCategorization">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -162,6 +159,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -196,7 +198,8 @@
       <workItem from="1600679360499" duration="656000" />
       <workItem from="1601153701904" duration="106000" />
       <workItem from="1601568473164" duration="4205000" />
-      <workItem from="1601905731060" duration="11248000" />
+      <workItem from="1601905731060" duration="12022000" />
+      <workItem from="1602187869263" duration="561000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600576756090</created>
@@ -247,7 +250,28 @@
       <option name="project" value="LOCAL" />
       <updated>1601930607501</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Builder Pattern">
+      <created>1602021129376</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1602021129378</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Builder Pattern">
+      <created>1602021139837</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1602021139837</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Initial Commit corrections">
+      <created>1602021270698</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1602021270698</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,7 +292,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Builder Pattern" />
-    <option name="LAST_COMMIT_MESSAGE" value="Builder Pattern" />
+    <MESSAGE value="Initial Commit corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit corrections" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="391" key="Github.ShareDialog" timestamp="1599938725870">
@@ -279,31 +304,31 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="146" key="Github.UntrackedFilesDialog/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1599938737090" />
-    <state width="612" height="247" key="GridCell.Tab.0.bottom" timestamp="1601926197006">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state width="612" height="247" key="GridCell.Tab.0.bottom" timestamp="1602026197592">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="612" height="247" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601926197006" />
-    <state width="932" height="266" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1601916921293" />
-    <state width="612" height="247" key="GridCell.Tab.0.center" timestamp="1601926197006">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state width="612" height="247" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602026197592" />
+    <state width="612" height="247" key="GridCell.Tab.0.center" timestamp="1602026197592">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="612" height="247" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601926197006" />
-    <state width="932" height="266" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1601916921292" />
-    <state width="612" height="247" key="GridCell.Tab.0.left" timestamp="1601926197006">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state width="612" height="247" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602026197592" />
+    <state width="612" height="247" key="GridCell.Tab.0.left" timestamp="1602026197591">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="612" height="247" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601926197006" />
-    <state width="932" height="266" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1601916921292" />
-    <state width="612" height="247" key="GridCell.Tab.0.right" timestamp="1601926197006">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state width="612" height="247" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602026197590" />
+    <state width="612" height="247" key="GridCell.Tab.0.right" timestamp="1602026197592">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="612" height="247" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601926197006" />
-    <state width="932" height="266" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1601916921292" />
-    <state x="-1016" y="177" key="Vcs.Push.Dialog.v2" timestamp="1601930610722">
-      <screen x="-1280" y="0" width="1280" height="984" />
+    <state width="612" height="247" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602026197592" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1602021283259">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1016" y="177" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601930610722" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1601153733525" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602021283259" />
     <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600576789918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
