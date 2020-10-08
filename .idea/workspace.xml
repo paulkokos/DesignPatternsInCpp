@@ -42,10 +42,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Initial Commit corrections">
-      <change afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[17]Overview/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[77]Overview/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[77]Overview/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[77]Overview/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[78]Command/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[78]Command/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[78]Command/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[79]Undo Operations/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[79]Undo Operations/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[79]Undo Operations/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[80]Composive Commands/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[80]Composive Commands/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[80]Composive Commands/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[81]Summary/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[81]Summary/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[81]Summary/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[Exercise]Command Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[Exercise]Command Coding Exercise/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[Exercise]Command Coding Exercise/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/[18]Point Example.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,18 +94,18 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[05]Prototype Pattern/[Exercise]Prototype Coding Exercise" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[15]Command Pattern/[77]Overview" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[15]Command Pattern\[77]Overview" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[15]Command Pattern\[78]Command" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[15]Command Pattern\[79]Undo Operations" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[15]Command Pattern\[80]Composive Commands" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[15]Command Pattern\[81]Summary" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern\[Exercise]Prototype Coding Exercise" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern\[29]Prototype Via serialization" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern\[28]Prototype Factory" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern\[27]Prototype" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern\[26]Record Keeping" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.12Builder">
@@ -199,7 +214,7 @@
       <workItem from="1601153701904" duration="106000" />
       <workItem from="1601568473164" duration="4205000" />
       <workItem from="1601905731060" duration="12022000" />
-      <workItem from="1602187869263" duration="561000" />
+      <workItem from="1602187869263" duration="4532000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600576756090</created>
@@ -271,7 +286,63 @@
       <option name="project" value="LOCAL" />
       <updated>1602021270698</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Initial Commit corrections">
+      <created>1602188564250</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1602188564250</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Initial Commit corrections">
+      <created>1602190385867</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1602190385868</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Initial Commit corrections">
+      <created>1602190760446</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1602190760446</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Initial Commit corrections">
+      <created>1602190802592</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1602190802593</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Initial Commit corrections">
+      <created>1602191310686</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1602191310686</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Initial Commit corrections">
+      <created>1602191530599</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1602191530599</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Initial Commit corrections">
+      <created>1602191761867</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1602191761867</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Initial Commit corrections">
+      <created>1602193320821</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1602193320821</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,11 +395,11 @@
     </state>
     <state width="612" height="247" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601926197006" />
     <state width="612" height="247" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602026197592" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1602021283259">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1602190804051">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1016" y="177" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601930610722" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602021283259" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602190804051" />
     <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600576789918">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
