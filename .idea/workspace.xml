@@ -42,63 +42,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Initial Commit corrections">
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[87]Overview/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[87]Overview/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[87]Overview/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[88]Iterators In The Standard Library/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[88]Iterators In The Standard Library/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[88]Iterators In The Standard Library/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[89]Binary Tree Iterator/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[89]Binary Tree Iterator/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[89]Binary Tree Iterator/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[90]Tree Iterator with Coroutines/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[90]Tree Iterator with Coroutines/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[90]Tree Iterator with Coroutines/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterarot Facade/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterarot Facade/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterarot Facade/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[92]Summary/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[92]Summary/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[92]Summary/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[Exercise]Iterator Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[Exercise]Iterator Coding Exercise/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[Exercise]Iterator Coding Exercise/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[93]Overview/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[93]Overview/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[93]Overview/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[94]Chat Room/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[94]Chat Room/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[94]Chat Room/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[95]Event Broker/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[95]Event Broker/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[95]Event Broker/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[96]Summary/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[96]Summary/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[96]Summary/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[Exercise]Mediator Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[Exercise]Mediator Coding Exercise/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[Exercise]Mediator Coding Exercise/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[100]Automatic Memento/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[100]Automatic Memento/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[100]Automatic Memento/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[101]Summary/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[101]Summary/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[101]Summary/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[97]Overview/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[97]Overview/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[97]Overview/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[98]Memento/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[98]Memento/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[98]Memento/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[99]Undo and Redo/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[99]Undo and Redo/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[99]Undo and Redo/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[Exercise]Memento Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[Exercise]Memento Coding Exercise/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[Exercise]Memento Coding Exercise/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[Exersice]Visitor Coding Exersice/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[Exersice]Visitor Coding Exersice/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[Exersice]Visitor Coding Exersice/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[118]Overview/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[118]Overview/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[118]Overview/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[119]Template Method/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[119]Template Method/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[119]Template Method/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[120]Summary/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[120]Summary/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[120]Summary/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -133,21 +88,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[19]Memento Pattern" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[22]Strategy Pattern" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[19]Memento Pattern\[98]Memento" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[17]Iterator Pattern" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[17]Iterator Pattern\[88]Overview" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[19]Memento Pattern" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[19]Memento Pattern\[97]Overview" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[19]Memento Pattern\[99]Undo and Redo" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[19]Memento Pattern\[100]Automatic Memento" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[19]Memento Pattern\[101]Summary" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[Exercise]Template Method Exercise" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[120]Summary" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[119]Template Method" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[118]Overview" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[22]Strategy Pattern\[Exercise]Strategy Coding Exercise" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.12Builder">
@@ -252,7 +208,7 @@
       <workItem from="1601568473164" duration="4205000" />
       <workItem from="1601905731060" duration="12022000" />
       <workItem from="1602187869263" duration="8304000" />
-      <workItem from="1602534680742" duration="824000" />
+      <workItem from="1602534680742" duration="1681000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600576756090</created>
@@ -422,7 +378,42 @@
       <option name="project" value="LOCAL" />
       <updated>1602324541794</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Initial Commit corrections">
+      <created>1602535786910</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1602535786910</updated>
+    </task>
+    <task id="LOCAL-00026" summary="Initial Commit corrections">
+      <created>1602536013252</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1602536013252</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Initial Commit corrections">
+      <created>1602536091289</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1602536091289</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Initial Commit corrections">
+      <created>1602536160609</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1602536160609</updated>
+    </task>
+    <task id="LOCAL-00029" summary="Initial Commit corrections">
+      <created>1602536247095</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1602536247095</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,11 +466,11 @@
     </state>
     <state width="612" height="247" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601926197006" />
     <state width="612" height="247" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602026197592" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1602324544738">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1602536382489">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1016" y="177" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601930610722" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602324544738" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602536382489" />
     <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602285467832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
