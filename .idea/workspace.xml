@@ -42,18 +42,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Initial Commit corrections">
-      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[118]Overview/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[118]Overview/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[118]Overview/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[119]Template Method/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[119]Template Method/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[119]Template Method/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[120]Summary/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[120]Summary/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[120]Summary/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[128]Summary/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[128]Summary/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[128]Summary/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -88,7 +79,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[24]Visitor Pattern/[128]Summary" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -99,11 +90,11 @@
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[05]Prototype Pattern" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[24]Visitor Pattern\[128]Summary" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[Exercise]Template Method Exercise" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[120]Summary" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[119]Template Method" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[118]Overview" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[22]Strategy Pattern\[Exercise]Strategy Coding Exercise" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.12Builder">
@@ -208,7 +199,7 @@
       <workItem from="1601568473164" duration="4205000" />
       <workItem from="1601905731060" duration="12022000" />
       <workItem from="1602187869263" duration="8304000" />
-      <workItem from="1602534680742" duration="1681000" />
+      <workItem from="1602534680742" duration="3142000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600576756090</created>
@@ -413,7 +404,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602536247095</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="Initial Commit corrections">
+      <created>1602536379772</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1602536379772</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Initial Commit corrections">
+      <created>1602536474113</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1602536474113</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
