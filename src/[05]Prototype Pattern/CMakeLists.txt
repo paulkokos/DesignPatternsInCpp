@@ -1,2 +1,6 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_subdirectory([25]Overview)
+add_subdirectory([26]Record\ Keeping)
+add_subdirectory([27]Prototype)
+add_subdirectory([28]Prototype\ Factory)
+add_subdirectory([29]Prototype\ Via\ serialization)
+add_subdirectory([Exercise]Prototype\ Coding\ Exercise)

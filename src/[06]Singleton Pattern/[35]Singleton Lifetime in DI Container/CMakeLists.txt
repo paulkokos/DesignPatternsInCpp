@@ -1,2 +1,1 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_executable(35SingletonLifetimeinDIContainer [35]Singleton\ Lifetime\ in\ DI\ Container.cpp)

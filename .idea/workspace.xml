@@ -22,22 +22,35 @@
     <generated>
       <config projectName="DesignPatternsInCpp" targetName="gmock" />
       <config projectName="DesignPatternsInCpp" targetName="Google_Tests_run" />
-      <config projectName="DesignPatternsInCpp" targetName="124ClassicVisitor" />
-      <config projectName="DesignPatternsInCpp" targetName="15BuilderFacets" />
-      <config projectName="DesignPatternsInCpp" targetName="11LifeWithoutBuilders" />
       <config projectName="DesignPatternsInCpp" targetName="gtest" />
-      <config projectName="DesignPatternsInCpp" targetName="123ReflectiveVisitor" />
-      <config projectName="DesignPatternsInCpp" targetName="14GroovyStyleBuilder" />
+      <config projectName="DesignPatternsInCpp" targetName="15BuilderFacets" />
+      <config projectName="DesignPatternsInCpp" targetName="19FactoryMethod" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseSingletonCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="18PointExample" />
       <config projectName="DesignPatternsInCpp" targetName="gtest_main" />
-      <config projectName="DesignPatternsInCpp" targetName="127Variantandstdvisit" />
-      <config projectName="DesignPatternsInCpp" targetName="ExerciseBuilderCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseFactoryCoding" />
+      <config projectName="DesignPatternsInCpp" targetName="25Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="29PrototypeViaserialization.cpp" />
+      <config projectName="DesignPatternsInCpp" targetName="21InnerFactory" />
+      <config projectName="DesignPatternsInCpp" targetName="32SingletonImplementation" />
+      <config projectName="DesignPatternsInCpp" targetName="23FunctionalFactory" />
       <config projectName="DesignPatternsInCpp" targetName="09GammaCategorization" />
       <config projectName="DesignPatternsInCpp" targetName="13FluentBuilder" />
       <config projectName="DesignPatternsInCpp" targetName="12Builder" />
-      <config projectName="DesignPatternsInCpp" targetName="122IntrusiveVisitor" />
-      <config projectName="DesignPatternsInCpp" targetName="126Multimethods" />
+      <config projectName="DesignPatternsInCpp" targetName="26RecordKeeping" />
+      <config projectName="DesignPatternsInCpp" targetName="33TestabilityIssues" />
+      <config projectName="DesignPatternsInCpp" targetName="35SingletonLifetimeinDIContainer" />
+      <config projectName="DesignPatternsInCpp" targetName="22AbstractFactory" />
+      <config projectName="DesignPatternsInCpp" targetName="11LifeWithoutBuilders" />
+      <config projectName="DesignPatternsInCpp" targetName="ExercisePrototypeCodingExercise.cpp" />
+      <config projectName="DesignPatternsInCpp" targetName="27Prototype" />
+      <config projectName="DesignPatternsInCpp" targetName="28PrototypeFactory" />
+      <config projectName="DesignPatternsInCpp" targetName="14GroovyStyleBuilder" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseBuilderCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="gmock_main" />
-      <config projectName="DesignPatternsInCpp" targetName="125AcyclicVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="20Factory" />
+      <config projectName="DesignPatternsInCpp" targetName="37Multiton" />
+      <config projectName="DesignPatternsInCpp" targetName="38Summary" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -46,18 +59,49 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Initial Commit corrections">
-      <change afterPath="$PROJECT_DIR$/tests/test1.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/test2.cpp" afterDir="false" />
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Tests success">
+      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/Database.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/Database.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/DummyDatabase.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/DummyDatabase.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/[32]Singleton Implementation.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/capitals.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[Exercise]Singleton Coding Exercise/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Libraries/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Google_tests/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Libraries/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Google_tests/lib/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[03]Builder Pattern/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/tests/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/tests.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[19]Factory Method/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[19]Factory Method/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[20]Factory/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[20]Factory/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[21]Inner Factory/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[21]Inner Factory/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[22]Abstract Factory/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[22]Abstract Factory/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[23]Functional Factory/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[23]Functional Factory/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[Exercise]Factory Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[Exercise]Factory Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/[25]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[25]Overview/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/[26]Record Keeping/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[26]Record Keeping/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/[27]Prototype/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[27]Prototype/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/[28]Prototype Factory/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[28]Prototype Factory/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/[29]Prototype Via serialization/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[29]Prototype Via serialization/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/[Exercise]Prototype Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[Exercise]Prototype Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[31]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[Exercise]Singleton Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[31]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[33]Testability Issues/[33]Testability Issues.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[34]Singleton in Dependency Injection/[34]Singleton in Dependency Injection.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[33]Testability Issues/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[33]Testability Issues/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[33]Testability Issues/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[35]Singleton Lifetime in DI Container/[35]Singleton Lifetime in DI Container.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[34]Singleton in Dependency Injection/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[34]Singleton in Dependency Injection/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[34]Singleton in Dependency Injection/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[36]Monostate/[36]Monostate.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[35]Singleton Lifetime in DI Container/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[35]Singleton Lifetime in DI Container/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[35]Singleton Lifetime in DI Container/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[37]Multiton/[37]Multiton.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[36]Monostate/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[36]Monostate/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[36]Monostate/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[38]Summary/[38]Summary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[37]Multiton/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[37]Multiton/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[37]Multiton/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[Exercise]Singleton Coding Exercise/[Exercise]Singleton Coding Exercise.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[38]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[38]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[38]Summary/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/test1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test1.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,16 +136,9 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[24]Visitor Pattern/[128]Summary" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[06]Singleton Pattern/[Exercise]Singleton Coding Exercise" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[24]Visitor Pattern\[128]Summary" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[Exercise]Template Method Exercise" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[120]Summary" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[119]Template Method" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[118]Overview" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\Libraries\lib" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[22]Strategy Pattern" />
@@ -109,13 +146,15 @@
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[17]Iterator Pattern" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[17]Iterator Pattern\[88]Overview" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[06]Singleton Pattern\[Exercise]Singleton Coding Exercise" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[24]Visitor Pattern\[128]Summary" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[Exercise]Template Method Exercise" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[120]Summary" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[119]Template Method" />
+    </key>
   </component>
-  <component name="RunManager" selected="Google Test.All Tests">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.32SingletonImplementation">
     <configuration name="All Tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" nameIsGenerated="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="Google_Tests_run" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -134,36 +173,6 @@
       </method>
     </configuration>
     <configuration name="11LifeWithoutBuilders" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="11LifeWithoutBuilders" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="11LifeWithoutBuilders">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="122IntrusiveVisitor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="122IntrusiveVisitor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="122IntrusiveVisitor">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="123ReflectiveVisitor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="123ReflectiveVisitor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="123ReflectiveVisitor">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="124ClassicVisitor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="124ClassicVisitor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="124ClassicVisitor">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="125AcyclicVisitor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="125AcyclicVisitor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="125AcyclicVisitor">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="126Multimethods" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="126Multimethods" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="126Multimethods">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="127Variantandstdvisit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="127Variantandstdvisit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="127Variantandstdvisit">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -188,7 +197,102 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="18PointExample" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="18PointExample" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="18PointExample">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="19FactoryMethod" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="19FactoryMethod" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="19FactoryMethod">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="20Factory" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="20Factory" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="20Factory">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="21InnerFactory" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="21InnerFactory" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="21InnerFactory">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="22AbstractFactory" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="22AbstractFactory" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="22AbstractFactory">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="23FunctionalFactory" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="23FunctionalFactory" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="23FunctionalFactory">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="25Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="25Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="25Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="26RecordKeeping" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="26RecordKeeping" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="26RecordKeeping">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="27Prototype" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="27Prototype" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="27Prototype">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="28PrototypeFactory" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="28PrototypeFactory" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="28PrototypeFactory">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="29PrototypeViaserialization.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="29PrototypeViaserialization.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="29PrototypeViaserialization.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="32SingletonImplementation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="32SingletonImplementation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="32SingletonImplementation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="33TestabilityIssues" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="33TestabilityIssues" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="33TestabilityIssues">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="35SingletonLifetimeinDIContainer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="35SingletonLifetimeinDIContainer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="35SingletonLifetimeinDIContainer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="37Multiton" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="37Multiton" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="37Multiton">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="38Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="38Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="38Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExerciseBuilderCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseBuilderCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseBuilderCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseFactoryCoding" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseFactoryCoding" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseFactoryCoding">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExercisePrototypeCodingExercise.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExercisePrototypeCodingExercise.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExercisePrototypeCodingExercise.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseSingletonCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseSingletonCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseSingletonCodingExercise">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -223,13 +327,12 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="CMake Application.122IntrusiveVisitor" />
-      <item itemvalue="CMake Application.123ReflectiveVisitor" />
-      <item itemvalue="CMake Application.124ClassicVisitor" />
-      <item itemvalue="CMake Application.125AcyclicVisitor" />
-      <item itemvalue="CMake Application.126Multimethods" />
-      <item itemvalue="CMake Application.127Variantandstdvisit" />
       <item itemvalue="CMake Application.Google_Tests_run" />
       <item itemvalue="CMake Application.gmock" />
       <item itemvalue="CMake Application.gmock_main" />
@@ -241,6 +344,25 @@
       <item itemvalue="CMake Application.14GroovyStyleBuilder" />
       <item itemvalue="CMake Application.15BuilderFacets" />
       <item itemvalue="CMake Application.ExerciseBuilderCodingExercise" />
+      <item itemvalue="CMake Application.18PointExample" />
+      <item itemvalue="CMake Application.19FactoryMethod" />
+      <item itemvalue="CMake Application.20Factory" />
+      <item itemvalue="CMake Application.21InnerFactory" />
+      <item itemvalue="CMake Application.22AbstractFactory" />
+      <item itemvalue="CMake Application.23FunctionalFactory" />
+      <item itemvalue="CMake Application.ExerciseFactoryCoding" />
+      <item itemvalue="CMake Application.25Overview" />
+      <item itemvalue="CMake Application.26RecordKeeping" />
+      <item itemvalue="CMake Application.27Prototype" />
+      <item itemvalue="CMake Application.28PrototypeFactory" />
+      <item itemvalue="CMake Application.29PrototypeViaserialization.cpp" />
+      <item itemvalue="CMake Application.ExercisePrototypeCodingExercise.cpp" />
+      <item itemvalue="CMake Application.32SingletonImplementation" />
+      <item itemvalue="CMake Application.33TestabilityIssues" />
+      <item itemvalue="CMake Application.35SingletonLifetimeinDIContainer" />
+      <item itemvalue="CMake Application.37Multiton" />
+      <item itemvalue="CMake Application.38Summary" />
+      <item itemvalue="CMake Application.ExerciseSingletonCodingExercise" />
       <item itemvalue="CMake Application.12Builder" />
       <item itemvalue="Google Test.All Tests" />
       <item itemvalue="Google Test.CalcTest.Add" />
@@ -262,7 +384,8 @@
       <workItem from="1601905731060" duration="12022000" />
       <workItem from="1602187869263" duration="8304000" />
       <workItem from="1602534680742" duration="3820000" />
-      <workItem from="1602702509071" duration="6387000" />
+      <workItem from="1602702509071" duration="7081000" />
+      <workItem from="1602879521003" duration="12160000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600576756090</created>
@@ -488,7 +611,28 @@
       <option name="project" value="LOCAL" />
       <updated>1602538956419</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Tests success">
+      <created>1602712218382</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1602712218382</updated>
+    </task>
+    <task id="LOCAL-00034" summary="Tests success">
+      <created>1602712238918</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1602712238918</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Tests success">
+      <created>1602791890352</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1602791890352</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -510,13 +654,18 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Builder Pattern" />
     <MESSAGE value="Initial Commit corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit corrections" />
+    <MESSAGE value="Tests success" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tests success" />
   </component>
   <component name="WindowStateProjectService">
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602711181570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602711181570" />
+    <state x="687" y="215" key="FileChooserDialogImpl" timestamp="1602896991762">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="687" y="215" key="FileChooserDialogImpl/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602896991762" />
     <state x="765" y="391" key="Github.ShareDialog" timestamp="1599938725870">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -525,31 +674,31 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="146" key="Github.UntrackedFilesDialog/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1599938737090" />
-    <state width="931" height="387" key="GridCell.Tab.0.bottom" timestamp="1602712179505">
+    <state width="931" height="387" key="GridCell.Tab.0.bottom" timestamp="1602894516917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028094" />
-    <state width="931" height="387" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602712179505" />
-    <state width="931" height="387" key="GridCell.Tab.0.center" timestamp="1602712179505">
+    <state width="931" height="387" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602894516917" />
+    <state width="931" height="387" key="GridCell.Tab.0.center" timestamp="1602894516917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028093" />
-    <state width="931" height="387" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602712179505" />
-    <state width="931" height="387" key="GridCell.Tab.0.left" timestamp="1602712179505">
+    <state width="931" height="387" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602894516917" />
+    <state width="931" height="387" key="GridCell.Tab.0.left" timestamp="1602894516917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028093" />
-    <state width="931" height="387" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602712179505" />
-    <state width="931" height="387" key="GridCell.Tab.0.right" timestamp="1602712179505">
+    <state width="931" height="387" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602894516917" />
+    <state width="931" height="387" key="GridCell.Tab.0.right" timestamp="1602894516917">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028094" />
-    <state width="931" height="387" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602712179505" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1602538958548">
+    <state width="931" height="387" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602894516917" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1602791893628">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1016" y="177" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601930610722" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602538958548" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602791893628" />
     <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602285467832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,2 +1,2 @@
-add_subdirectory([24]Visitor\ Pattern)
+add_executable(19FactoryMethod [19]Factory\ Method.cpp)
 
