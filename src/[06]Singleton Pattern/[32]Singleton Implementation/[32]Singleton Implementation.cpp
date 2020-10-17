@@ -23,6 +23,7 @@ class SinlgetonDatabase {
             getline(ifs,s2);
         }
     }
+
 };
 
 int main() {
