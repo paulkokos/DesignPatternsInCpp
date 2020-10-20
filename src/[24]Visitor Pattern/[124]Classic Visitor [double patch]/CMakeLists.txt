@@ -1,1 +1,1 @@
-add_executable(124ClassicVisitor main.cpp)
+add_executable(124ClassicVisitor "[124]Classic Visitor [double patch].cpp")

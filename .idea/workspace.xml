@@ -21,36 +21,36 @@
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
       <config projectName="DesignPatternsInCpp" targetName="gmock" />
-      <config projectName="DesignPatternsInCpp" targetName="Google_Tests_run" />
-      <config projectName="DesignPatternsInCpp" targetName="gtest" />
-      <config projectName="DesignPatternsInCpp" targetName="15BuilderFacets" />
-      <config projectName="DesignPatternsInCpp" targetName="19FactoryMethod" />
-      <config projectName="DesignPatternsInCpp" targetName="ExerciseSingletonCodingExercise" />
-      <config projectName="DesignPatternsInCpp" targetName="18PointExample" />
-      <config projectName="DesignPatternsInCpp" targetName="gtest_main" />
-      <config projectName="DesignPatternsInCpp" targetName="ExerciseFactoryCoding" />
-      <config projectName="DesignPatternsInCpp" targetName="25Overview" />
-      <config projectName="DesignPatternsInCpp" targetName="29PrototypeViaserialization.cpp" />
-      <config projectName="DesignPatternsInCpp" targetName="21InnerFactory" />
-      <config projectName="DesignPatternsInCpp" targetName="32SingletonImplementation" />
-      <config projectName="DesignPatternsInCpp" targetName="23FunctionalFactory" />
-      <config projectName="DesignPatternsInCpp" targetName="09GammaCategorization" />
-      <config projectName="DesignPatternsInCpp" targetName="13FluentBuilder" />
-      <config projectName="DesignPatternsInCpp" targetName="12Builder" />
-      <config projectName="DesignPatternsInCpp" targetName="26RecordKeeping" />
-      <config projectName="DesignPatternsInCpp" targetName="33TestabilityIssues" />
       <config projectName="DesignPatternsInCpp" targetName="35SingletonLifetimeinDIContainer" />
-      <config projectName="DesignPatternsInCpp" targetName="22AbstractFactory" />
-      <config projectName="DesignPatternsInCpp" targetName="11LifeWithoutBuilders" />
-      <config projectName="DesignPatternsInCpp" targetName="ExercisePrototypeCodingExercise.cpp" />
-      <config projectName="DesignPatternsInCpp" targetName="27Prototype" />
-      <config projectName="DesignPatternsInCpp" targetName="28PrototypeFactory" />
-      <config projectName="DesignPatternsInCpp" targetName="14GroovyStyleBuilder" />
+      <config projectName="DesignPatternsInCpp" targetName="Google_Tests_run" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseBuilderCodingExercise" />
-      <config projectName="DesignPatternsInCpp" targetName="gmock_main" />
+      <config projectName="DesignPatternsInCpp" targetName="12Builder" />
+      <config projectName="DesignPatternsInCpp" targetName="28PrototypeFactory" />
+      <config projectName="DesignPatternsInCpp" targetName="09GammaCategorization" />
+      <config projectName="DesignPatternsInCpp" targetName="ExercisePrototypeCodingExercise.cpp" />
+      <config projectName="DesignPatternsInCpp" targetName="32SingletonImplementation" />
       <config projectName="DesignPatternsInCpp" targetName="20Factory" />
-      <config projectName="DesignPatternsInCpp" targetName="37Multiton" />
+      <config projectName="DesignPatternsInCpp" targetName="27Prototype" />
+      <config projectName="DesignPatternsInCpp" targetName="21InnerFactory" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseFactoryCoding" />
+      <config projectName="DesignPatternsInCpp" targetName="26RecordKeeping" />
+      <config projectName="DesignPatternsInCpp" targetName="15BuilderFacets" />
+      <config projectName="DesignPatternsInCpp" targetName="gmock_main" />
+      <config projectName="DesignPatternsInCpp" targetName="14GroovyStyleBuilder" />
+      <config projectName="DesignPatternsInCpp" targetName="gtest" />
+      <config projectName="DesignPatternsInCpp" targetName="gtest_main" />
+      <config projectName="DesignPatternsInCpp" targetName="19FactoryMethod" />
+      <config projectName="DesignPatternsInCpp" targetName="13FluentBuilder" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseSingletonCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="23FunctionalFactory" />
+      <config projectName="DesignPatternsInCpp" targetName="33TestabilityIssues" />
       <config projectName="DesignPatternsInCpp" targetName="38Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="22AbstractFactory" />
+      <config projectName="DesignPatternsInCpp" targetName="37Multiton" />
+      <config projectName="DesignPatternsInCpp" targetName="29PrototypeViaserialization.cpp" />
+      <config projectName="DesignPatternsInCpp" targetName="25Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="18PointExample" />
+      <config projectName="DesignPatternsInCpp" targetName="11LifeWithoutBuilders" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -59,49 +59,64 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Tests success">
-      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/Database.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/Database.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/DummyDatabase.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/DummyDatabase.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/[32]Singleton Implementation.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/capitals.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[Exercise]Singleton Coding Exercise/readme.md" afterDir="false" />
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Singleton">
+      <change afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[121]Overview/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[121]Overview/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[Exersice]Visitor Coding Exersice/[Exersice]Visitor Coding Exersice.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[18]Point Example/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[19]Factory Method/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[19]Factory Method/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[20]Factory/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[20]Factory/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[21]Inner Factory/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[21]Inner Factory/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[22]Abstract Factory/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[22]Abstract Factory/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[23]Functional Factory/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[23]Functional Factory/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/[Exercise]Factory Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[04]Factories Pattern/[Exercise]Factory Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/[25]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[25]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/[26]Record Keeping/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[26]Record Keeping/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/[27]Prototype/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[27]Prototype/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/[28]Prototype Factory/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[28]Prototype Factory/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/[29]Prototype Via serialization/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[29]Prototype Via serialization/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/[Exercise]Prototype Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[05]Prototype Pattern/[Exercise]Prototype Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[31]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[Exercise]Singleton Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[31]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[33]Testability Issues/[33]Testability Issues.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[32]Singleton Implementation/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[34]Singleton in Dependency Injection/[34]Singleton in Dependency Injection.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[33]Testability Issues/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[33]Testability Issues/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[33]Testability Issues/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[35]Singleton Lifetime in DI Container/[35]Singleton Lifetime in DI Container.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[34]Singleton in Dependency Injection/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[34]Singleton in Dependency Injection/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[34]Singleton in Dependency Injection/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[36]Monostate/[36]Monostate.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[35]Singleton Lifetime in DI Container/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[35]Singleton Lifetime in DI Container/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[35]Singleton Lifetime in DI Container/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[37]Multiton/[37]Multiton.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[36]Monostate/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[36]Monostate/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[36]Monostate/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[38]Summary/[38]Summary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[37]Multiton/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[37]Multiton/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[37]Multiton/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[Exercise]Singleton Coding Exercise/[Exercise]Singleton Coding Exercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[38]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[06]Singleton Pattern/[38]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/[38]Summary/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/tests/test1.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/tests/test1.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[87]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[87]Overview/[87]Overview.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[88]Iterators In The Standard Library/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[88]Iterators In The Standard Library/[88]Iterators In The Standard Library.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[89]Binary Tree Iterator/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[89]Binary Tree Iterator/[89]Binary Tree Iterator.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[90]Tree Iterator with Coroutines/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[90]Tree Iterator with Coroutines/[90]Tree Iterator with Coroutines.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterarot Facade/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterarot Facade/[91]Boost Iterarot Facade.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[92]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[92]Summary/[92]Summary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[93]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[93]Overview/[93]Overview.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[94]Chat Room/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[94]Chat Room/[94]Chat Room.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[95]Event Broker/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[95]Event Broker/[95]Event Broker.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[96]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[96]Summary/[96]Summary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[Exercise]Mediator Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[Exercise]Mediator Coding Exercise/[Exercise]Mediator Coding Exercise.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[100]Automatic Memento/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[100]Automatic Memento/[100]Automatic Memento.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[101]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[101]Summary/[101]Summary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[97]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[97]Overview/[97]Overview.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[98]Memento/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[98]Memento/[98]Memento.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[99]Undo and Redo/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[99]Undo and Redo/[99]Undo and Redo.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[102]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[102]Overview/[102]Overview.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[103]Observer/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[103]Observer/[103]Observer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[104]Observable/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[104]Observable/[104]Observable.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[105]Observable with Boost.Signals/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[105]Observable with Boost.Signals/[105]Observable with Boost.Signals.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[106]The Problem Of Dependencies/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[106]The Problem Of Dependencies/[106]The Problem Of Dependencies.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[107]Thread Safety and Reentrary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[107]Thread Safety and Reentrary/[107]Thread Safety and Reentrary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[108]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[108]Summary/[108]Summary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[Exercise]Observer Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[Exercise]Observer Coding Exercise/[Exercise]Observer Coding Exercise.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[109]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[109]Overview/[109]Overview.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[110]Classic State Implementation/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[110]Classic State Implementation/[110]Classic State Implementation.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[111]Handmade State Machine/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[111]Handmade State Machine/[111]Handmade State Machine.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[112]State Machine With Boost.MSM/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[112]State Machine With Boost.MSM/[112]State Machine With Boost.MSM.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[113]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[113]Summary/[113]Summary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[Exercise]State Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[Exercise]State Coding Exercise/[Exercise]State Coding Exercise.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[114]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[114]Overview/[114]Overview.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[115]Dynamic Strategy/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[115]Dynamic Strategy/[115]Dynamic Strategy.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[116]Static Strategy/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[116]Static Strategy/[116]Static Strategy.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[117]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[117]Summary/[117]Summary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[Exercise]Strategy Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[Exercise]Strategy Coding Exercise/[Exercise]Strategy Coding Exercise.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/[118]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[118]Overview/[118]Overview.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/[119]Template Method/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[119]Template Method/[119]Template Method.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/[120]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[120]Summary/[120]Summary.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise/[Exercise]Template Method Exercise.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[122]Intrusive Visitor/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[122]Intrusive Visitor/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[122]Intrusive Visitor/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[121]Overview/[121]Overview.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[123]Reflective Visitor/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[123]Reflective Visitor/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[123]Reflective Visitor/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[122]Intrusive Visitor/[122]Intrusive Visitor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[124]Classic Visitor [double patch]/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[124]Classic Visitor [double patch]/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[124]Classic Visitor [double patch]/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[123]Reflective Visitor/[123]Reflective Visitor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[125]Acyclic Visitor/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[125]Acyclic Visitor/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[125]Acyclic Visitor/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[124]Classic Visitor [double patch]/[124]Classic Visitor [double patch].cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[126]Multimethods/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[126]Multimethods/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[126]Multimethods/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[125]Acyclic Visitor/[125]Acyclic Visitor.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[127]Variant and std..visit/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[127]Variant and std..visit/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[127]Variant and std..visit/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[126]Multimethods/[126]Multimethods.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[128]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[127]Variant and std..visit/[127]Variant and std..visit.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[Exersice]Visitor Coding Exersice/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[128]Summary/[128]Summary.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,22 +151,22 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[06]Singleton Pattern/[Exercise]Singleton Coding Exercise" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[24]Visitor Pattern/[121]Overview" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[24]Visitor Pattern\[121]Overview" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[06]Singleton Pattern\[Exercise]Singleton Coding Exercise" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[24]Visitor Pattern\[128]Summary" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[Exercise]Template Method Exercise" />
+      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[120]Summary" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\Libraries\lib" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[22]Strategy Pattern" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[19]Memento Pattern\[98]Memento" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[17]Iterator Pattern" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[17]Iterator Pattern\[88]Overview" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[06]Singleton Pattern\[Exercise]Singleton Coding Exercise" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[24]Visitor Pattern\[128]Summary" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[Exercise]Template Method Exercise" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[120]Summary" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[23]Template Pattern\[119]Template Method" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.32SingletonImplementation">
@@ -327,23 +342,19 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="CMake Application.09GammaCategorization" />
+      <item itemvalue="CMake Application.11LifeWithoutBuilders" />
+      <item itemvalue="CMake Application.12Builder" />
+      <item itemvalue="CMake Application.13FluentBuilder" />
+      <item itemvalue="CMake Application.14GroovyStyleBuilder" />
+      <item itemvalue="CMake Application.15BuilderFacets" />
+      <item itemvalue="CMake Application.ExerciseBuilderCodingExercise" />
       <item itemvalue="CMake Application.Google_Tests_run" />
       <item itemvalue="CMake Application.gmock" />
       <item itemvalue="CMake Application.gmock_main" />
       <item itemvalue="CMake Application.gtest" />
       <item itemvalue="CMake Application.gtest_main" />
-      <item itemvalue="CMake Application.09GammaCategorization" />
-      <item itemvalue="CMake Application.11LifeWithoutBuilders" />
-      <item itemvalue="CMake Application.13FluentBuilder" />
-      <item itemvalue="CMake Application.14GroovyStyleBuilder" />
-      <item itemvalue="CMake Application.15BuilderFacets" />
-      <item itemvalue="CMake Application.ExerciseBuilderCodingExercise" />
       <item itemvalue="CMake Application.18PointExample" />
       <item itemvalue="CMake Application.19FactoryMethod" />
       <item itemvalue="CMake Application.20Factory" />
@@ -363,7 +374,6 @@
       <item itemvalue="CMake Application.37Multiton" />
       <item itemvalue="CMake Application.38Summary" />
       <item itemvalue="CMake Application.ExerciseSingletonCodingExercise" />
-      <item itemvalue="CMake Application.12Builder" />
       <item itemvalue="Google Test.All Tests" />
       <item itemvalue="Google Test.CalcTest.Add" />
     </list>
@@ -385,7 +395,8 @@
       <workItem from="1602187869263" duration="8304000" />
       <workItem from="1602534680742" duration="3820000" />
       <workItem from="1602702509071" duration="7081000" />
-      <workItem from="1602879521003" duration="12160000" />
+      <workItem from="1602879521003" duration="14108000" />
+      <workItem from="1603143333786" duration="2750000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600576756090</created>
@@ -632,7 +643,21 @@
       <option name="project" value="LOCAL" />
       <updated>1602791890352</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Singleton">
+      <created>1602969439872</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1602969439872</updated>
+    </task>
+    <task id="LOCAL-00037" summary="Singleton">
+      <created>1602969452331</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1602969452331</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -655,7 +680,8 @@
     <MESSAGE value="Builder Pattern" />
     <MESSAGE value="Initial Commit corrections" />
     <MESSAGE value="Tests success" />
-    <option name="LAST_COMMIT_MESSAGE" value="Tests success" />
+    <MESSAGE value="Singleton" />
+    <option name="LAST_COMMIT_MESSAGE" value="Singleton" />
   </component>
   <component name="WindowStateProjectService">
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602711181570">
@@ -674,31 +700,31 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="146" key="Github.UntrackedFilesDialog/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1599938737090" />
-    <state width="931" height="387" key="GridCell.Tab.0.bottom" timestamp="1602894516917">
+    <state width="931" height="387" key="GridCell.Tab.0.bottom" timestamp="1603143194075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028094" />
-    <state width="931" height="387" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602894516917" />
-    <state width="931" height="387" key="GridCell.Tab.0.center" timestamp="1602894516917">
+    <state width="931" height="387" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603143194075" />
+    <state width="931" height="387" key="GridCell.Tab.0.center" timestamp="1603143194075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028093" />
-    <state width="931" height="387" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602894516917" />
-    <state width="931" height="387" key="GridCell.Tab.0.left" timestamp="1602894516917">
+    <state width="931" height="387" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603143194075" />
+    <state width="931" height="387" key="GridCell.Tab.0.left" timestamp="1603143194075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028093" />
-    <state width="931" height="387" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602894516917" />
-    <state width="931" height="387" key="GridCell.Tab.0.right" timestamp="1602894516917">
+    <state width="931" height="387" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603143194075" />
+    <state width="931" height="387" key="GridCell.Tab.0.right" timestamp="1603143194075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028094" />
-    <state width="931" height="387" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602894516917" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1602791893628">
+    <state width="931" height="387" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603143194075" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1602969457626">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1016" y="177" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601930610722" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602791893628" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602969457626" />
     <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602285467832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

@@ -1,1 +1,1 @@
-add_executable(126Multimethods main.cpp)
+add_executable(126Multimethods [126]Multimethods.cpp)
