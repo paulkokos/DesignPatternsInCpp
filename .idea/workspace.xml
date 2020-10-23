@@ -60,144 +60,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Initial Corrections">
-      <change afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[41]Adapter Caching/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[42]Summary/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[42]Summary/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[Exercise]Adapter Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[Exercise]Adapter Coding Exercise/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[61]Overview/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[61]Overview/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[62]Handmade Flyweight/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[62]Handmade Flyweight/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost.Flyweight/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost.Flyweight/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[64]Text Formating/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[64]Text Formating/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[68]Property Proxy/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[68]Property Proxy/[68]Property Proxy.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[68]Property Proxy/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[69]Virtual Proxy/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[69]Virtual Proxy/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[03]Builder Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[41]Adapter Caching/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[04]Factories Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[39]Overview/[39]Overview.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[05]Prototype Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[40]Vector-Raster Demo/[40]Vector-Raster Demo.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[06]Singleton Pattern/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[07]Adapter Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[07]Adapter Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[41]Adapter Caching/[41]Adapter Caching.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[43]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[43]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[43]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[42]Summary/[42]Summary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[44]Pimpl Idiom/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[44]Pimpl Idiom/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[44]Pimpl Idiom/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[Exercise]Adapter Coding Exercise/[Exercise]Adapter Coding Exercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[45]Shrink-Wrapped Pimpl/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[45]Shrink-Wrapped Pimpl/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[45]Shrink-Wrapped Pimpl/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[43]Overview/[43]Overview.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[46]Bridge Implementation/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[46]Bridge Implementation/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[46]Bridge Implementation/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[44]Pimpl Idiom/[44]Pimpl Idiom.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[47]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[47]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[47]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[45]Shrink-Wrapped Pimpl/[45]Shrink-Wrapped Pimpl.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[Exercise]Bridge Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[Exercise]Bridge Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[Exercise]Bridge Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[46]Bridge Implementation/[46]Bridge Implementation.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[47]Summary/[47]Summary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[48]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[48]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[48]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[Exercise]Bridge Coding Exercise/[Exercise]Bridge Coding Exercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[49]Geometric Shapes/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[49]Geometric Shapes/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[49]Geometric Shapes/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[48]Overview/[48]Overview.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[50]Neural Networks/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[50]Neural Networks/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[50]Neural Networks/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[49]Geometric Shapes/[49]Geometric Shapes.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[51]Array-backed Properties/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[51]Array-backed Properties/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[51]Array-backed Properties/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[50]Neural Networks/[50]Neural Networks.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[52]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[52]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[52]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[51]Array-backed Properties/[51]Array-backed Properties.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[Exercise]Composite Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[Exercise]Composite Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[Exercise]Composite Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[52]Summary/[52]Summary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[Exercise]Composite Coding Exercise/[Exercise]Composite Coding Exercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[53]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[53]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[53]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[53]Overview/[53]Overview.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[54]Dynamic Decorator/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[54]Dynamic Decorator/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[54]Dynamic Decorator/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[54]Dynamic Decorator/[54]Dynamic Decorator.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[55]Static Decorator/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[55]Static Decorator/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[55]Static Decorator/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[55]Static Decorator/[55]Static Decorator.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[56]Functional Decorator/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[56]Functional Decorator/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[56]Functional Decorator/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[56]Functional Decorator/[56]Functional Decorator.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[57]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[57]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[57]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[57]Summary/[57]Summary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[Exercise]Decorator Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[Exercise]Decorator Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[Exercise]Decorator Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[Exercise]Decorator Coding Exercise/[Exercise]Decorator Coding Exercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/[58]Overview/[58]Overview.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[11]Facade Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[11]Facade Pattern/[58]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/[58]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[11]Facade Pattern/[58]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/[59]Facade/[59]Facade.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[11]Facade Pattern/[59]Facade/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/[59]Facade/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[11]Facade Pattern/[59]Facade/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/[60]Summary/[60]Summary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[11]Facade Pattern/[60]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[11]Facade Pattern/[60]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[11]Facade Pattern/[60]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[61]Overview/[61]Overview.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[11]Facade Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[62]Handmade Flyweight/[62]Handmade Flyweight.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[65]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[65]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[65]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost.Flyweight/[63]Boost.Flyweight.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[Exercise]Flyweight Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[Exercise]Flyweight Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[Exercise]Flyweight Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[64]Text Formating/[64]Text Formating.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[65]Summary/[65]Summary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[66]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[66]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[66]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[Exercise]Flyweight Coding Exercise/[Exercise]Flyweight Coding Exercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[67]Smart Pointers/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[67]Smart Pointers/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[67]Smart Pointers/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[66]Overview/[66]Overview.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[68]Virtual Proxy/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[39]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[68]Virtual Proxy/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[67]Smart Pointers/[67]Smart Pointers.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[68]Virtual Proxy/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[39]Overview/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[70]Communication Proxy/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[70]Communication Proxy/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[70]Communication Proxy/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[69]Virtual Proxy/[69]Virtual Proxy.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[71]Proxy VS Decorator/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[71]Proxy VS Decorator/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[71]Proxy VS Decorator/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[70]Communication Proxy/[70]Communication Proxy.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[Exercise]Proxy Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[Exercise]Proxy Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[Exercise]Proxy Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[71]Proxy VS Decorator/[71]Proxy VS Decorator.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[Exercise]Proxy Coding Exercise/[Exercise]Proxy Coding Exercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[73]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[73]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[73]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[73]Overview/[73]Overview.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[74]Pointer Chain/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[74]Pointer Chain/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[74]Pointer Chain/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[74]Pointer Chain/[74]Pointer Chain.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[75]Broker Chain/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[75]Broker Chain/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[75]Broker Chain/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[75]Broker Chain/[75]Broker Chain.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[76]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[76]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[76]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[76]Summary/[76]Summary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[Exercise]/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[40]Vector-Raster Demo/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[Exercise]/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/[Exercise]Chain of Responsibility Coding Exercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[Exercise]/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[40]Vector-Raster Demo/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[77]Overview/[77]Overview.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[77]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[77]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[77]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[78]Command/[78]Command.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[78]Command/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[78]Command/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[78]Command/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[79]Undo Operations/[79]Undo Operations.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[79]Undo Operations/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[79]Undo Operations/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[79]Undo Operations/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[80]Composive Commands/[80]Composive Commands.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[80]Composive Commands/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[80]Composive Commands/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[80]Composive Commands/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[81]Summary/[81]Summary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[81]Summary/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[Exercise]Command Coding Exercise/[Exercise]Command Coding Exercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[Exercise]Command Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[82]Overview/[82]Overview.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[83]Handmade Interpeter - Lexing/[83]Handmade Interpeter - Lexing.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[82]Overview/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[84]Handmade Interpeter - Parsing/[84]Handmade Interpeter - Parsing.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[83]Handmade Interpeter - Lexing/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[85]Coding Parsers with Boost.Spirit/[85]Coding Parsers with Boost.Spirit.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[84]Handmade Interpeter - Parsing/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[86]Summary/[86]Summary.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[85]Coding Parsers with Boost.Spirit/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[Exercise]Memento Coding Exercise/[Exercise]Memento Coding Exercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[86]Summary/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[Exercise]Interpeter Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[Exercise]Interpeter Coding Exercise/[Exercise]Interpeter Coding Exercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[Exercise]Memento Coding Exercise/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[81]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[81]Summary/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -483,7 +347,7 @@
       <workItem from="1602702509071" duration="7081000" />
       <workItem from="1602879521003" duration="14108000" />
       <workItem from="1603143333786" duration="4145000" />
-      <workItem from="1603409015152" duration="9243000" />
+      <workItem from="1603409015152" duration="9889000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600576756090</created>
@@ -758,7 +622,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603176261994</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="Initial Corrections">
+      <created>1603436674729</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1603436674729</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -826,11 +697,11 @@
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028094" />
     <state width="931" height="387" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603143194075" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1603176267144">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1603436683956">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1016" y="177" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601930610722" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603176267144" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603436683956" />
     <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602285467832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
