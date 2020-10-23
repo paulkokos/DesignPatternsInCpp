@@ -1,2 +1,1 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_executable(46BridgeImplementation [46]Bridge\ Implementation.cpp)

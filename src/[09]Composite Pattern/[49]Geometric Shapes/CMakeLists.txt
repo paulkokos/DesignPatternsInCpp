@@ -1,2 +1,1 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_executable(49GeometricShapes [49]Geometric\ Shapes.cpp)

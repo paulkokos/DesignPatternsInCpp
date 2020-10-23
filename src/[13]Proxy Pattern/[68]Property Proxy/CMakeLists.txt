@@ -1,0 +1,1 @@
+add_executable(68PropertyProxy [68]Property\ Proxy.cpp)

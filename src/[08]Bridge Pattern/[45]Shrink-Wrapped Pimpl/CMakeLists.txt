@@ -1,2 +1,1 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_executable(45ShrinkWrappedPimpl [45]Shrink-Wrapped\ Pimpl.cpp)

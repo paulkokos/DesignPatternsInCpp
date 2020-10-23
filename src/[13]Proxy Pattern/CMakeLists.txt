@@ -1,2 +1,6 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_subdirectory([66]Overview)
+add_subdirectory([67]Smart\ Pointers)
+add_subdirectory([68]Property\ Proxy)
+add_subdirectory([69]Virtual\ Proxy)
+add_subdirectory([70]Communication\ Proxy)
+add_subdirectory([71]Proxy\ VS\ Decorator)

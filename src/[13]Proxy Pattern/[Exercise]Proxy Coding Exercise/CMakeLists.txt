@@ -1,2 +1,1 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_executable(ExerciseProxyCodingExercise [Exercise]Proxy\ Coding\ Exercise.cpp)
