@@ -1,2 +1,1 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_executable(94ChatRoom [94]Chat\ Room.cpp)

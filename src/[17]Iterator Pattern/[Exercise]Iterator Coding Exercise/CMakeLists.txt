@@ -1,2 +1,1 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_executable(ExerciseIteratorCodingExercise [Exercise]Iterator\ Coding\ Exercise.cpp)

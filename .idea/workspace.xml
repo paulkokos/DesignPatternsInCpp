@@ -43,14 +43,14 @@
       <config projectName="DesignPatternsInCpp" targetName="22AbstractFactory" />
       <config projectName="DesignPatternsInCpp" targetName="11LifeWithoutBuilders" />
       <config projectName="DesignPatternsInCpp" targetName="ExercisePrototypeCodingExercise.cpp" />
-      <config projectName="DesignPatternsInCpp" targetName="28PrototypeFactory" />
       <config projectName="DesignPatternsInCpp" targetName="27Prototype" />
+      <config projectName="DesignPatternsInCpp" targetName="28PrototypeFactory" />
       <config projectName="DesignPatternsInCpp" targetName="14GroovyStyleBuilder" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseBuilderCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="gmock_main" />
+      <config projectName="DesignPatternsInCpp" targetName="37Multiton" />
       <config projectName="DesignPatternsInCpp" targetName="20Factory" />
       <config projectName="DesignPatternsInCpp" targetName="38Summary" />
-      <config projectName="DesignPatternsInCpp" targetName="37Multiton" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -60,8 +60,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Initial Corrections">
+      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost-Flyweight/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost.Flyweight/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost.Flyweight/[63]Boost.Flyweight.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost-Flyweight/[63]Boost-Flyweight.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost.Flyweight/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost-Flyweight/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[64]Text Formating/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[64]Text Formating/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[65]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[65]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[80]Composive Commands/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[80]Composive Commands/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[81]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[81]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[Exercise]Command Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[Exercise]Command Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[82]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[82]Overview/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[83]Handmade Interpeter - Lexing/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[83]Handmade Interpeter - Lexing/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[84]Handmade Interpeter - Parsing/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[84]Handmade Interpeter - Parsing/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[85]Coding Parsers with Boost.Spirit/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[85]Coding Parsers with Boost.Spirit/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[86]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[86]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[Exercise]Interpeter Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[Exercise]Interpeter Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[87]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[87]Overview/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[88]Iterators In The Standard Library/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[88]Iterators In The Standard Library/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[89]Binary Tree Iterator/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[89]Binary Tree Iterator/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[90]Tree Iterator with Coroutines/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[90]Tree Iterator with Coroutines/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterarot Facade/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterator Facade/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterarot Facade/[91]Boost Iterarot Facade.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterator Facade/[91]Boost Iterator Facade.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterarot Facade/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterator Facade/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[92]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[92]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[Exercise]Iterator Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[Exercise]Iterator Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[Exercise]Iterator Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[Exercise]Iterator Coding Exercise/[Exercise]Iterator Coding Exercise.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[93]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[93]Overview/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[94]Chat Room/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[94]Chat Room/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[95]Event Broker/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[95]Event Broker/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[96]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[96]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[Exercise]Mediator Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[Exercise]Mediator Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,6 +133,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[12]Flyweight Pattern/[65]Summary" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -115,11 +152,6 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.32SingletonImplementation">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="All Tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" nameIsGenerated="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="Google_Tests_run" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -267,6 +299,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="gmock" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -347,7 +384,8 @@
       <workItem from="1602702509071" duration="7081000" />
       <workItem from="1602879521003" duration="14108000" />
       <workItem from="1603143333786" duration="4145000" />
-      <workItem from="1603409015152" duration="9889000" />
+      <workItem from="1603409015152" duration="9907000" />
+      <workItem from="1603511247410" duration="7679000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600576756090</created>
@@ -629,7 +667,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603436674729</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Initial Corrections">
+      <created>1603437720648</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1603437720648</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -697,11 +742,15 @@
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028094" />
     <state width="931" height="387" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603143194075" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1603436683956">
+    <state x="493" y="115" key="SettingsEditor" timestamp="1603600059901">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="493" y="115" key="SettingsEditor/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603600059901" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1603437722335">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1016" y="177" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601930610722" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603436683956" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603437722335" />
     <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602285467832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

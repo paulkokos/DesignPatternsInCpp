@@ -1,6 +1,6 @@
 add_subdirectory([61]Overview)
 add_subdirectory([62]Handmade\ Flyweight)
-add_subdirectory([63]Boost.Flyweight)
+add_subdirectory([63]Boost-Flyweight)
 add_subdirectory([64]Text\ Formating)
 add_subdirectory([65]Summary)
 add_subdirectory([Exercise]Flyweight\ Coding\ Exercise)

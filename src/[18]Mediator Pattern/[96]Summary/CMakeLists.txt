@@ -1,2 +1,2 @@
-add_subdirectory([24]Visitor\ Pattern)
+add_subdirectory(96Summary [96]Summary.cpp)
 

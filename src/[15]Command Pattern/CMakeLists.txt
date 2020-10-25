@@ -1,2 +1,6 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_subdirectory([77]Overview)
+add_subdirectory([78]Command)
+add_subdirectory([79]Undo\ Operations)
+add_subdirectory([80]Composive\ Commands)
+add_subdirectory([81]Summary)
+add_subdirectory([Exercise]Command\ Coding\ Exercise)

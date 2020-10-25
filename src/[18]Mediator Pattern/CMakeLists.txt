@@ -1,2 +1,5 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_subdirectory([93]Overview)
+add_subdirectory([94]Chat\ Room)
+add_subdirectory([95]Event\ Broker)
+add_subdirectory([96]Summary)
+add_subdirectory([Exercise]Mediator\ Coding\ Exercise)

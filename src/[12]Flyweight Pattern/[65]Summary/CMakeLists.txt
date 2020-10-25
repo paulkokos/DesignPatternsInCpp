@@ -1,1 +1,1 @@
-add_subdirectory(65Summary [65]Summary.cpp)
+add_executable(65Summary [65]Summary.cpp)

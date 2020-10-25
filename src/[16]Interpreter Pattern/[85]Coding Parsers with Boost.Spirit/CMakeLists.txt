@@ -1,2 +1,1 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_executable(85CodingParserswithBoost.Spirit [85]Coding\ Parsers\ with\ Boost.Spirit.cpp)
