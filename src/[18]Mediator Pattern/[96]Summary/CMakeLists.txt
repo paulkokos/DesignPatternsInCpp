@@ -1,2 +1,2 @@
-add_subdirectory(96Summary [96]Summary.cpp)
+add_executable(96Summary [96]Summary.cpp)
 

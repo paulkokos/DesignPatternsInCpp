@@ -1,1 +1,1 @@
-add_executable(ExerciseCompositeCodingExercise [Exercise]Composite Coding Exercise.cpp)
+add_executable(ExerciseCompositeCodingExercise [Exercise]Composite\ Coding\ Exercise.cpp)

@@ -1,2 +1,8 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_subdirectory([102]Overview)
+add_subdirectory([103]Observer)
+add_subdirectory([104]Observable)
+add_subdirectory([105]Observable\ with\ Boost.Signals)
+add_subdirectory([106]The\ Problem\ Of\ Dependencies)
+add_subdirectory([107]Thread\ Safety\ and\ Reentrary)
+add_subdirectory([108]Summary)
+add_subdirectory([Exercise]Observer\ Coding\ Exercise)

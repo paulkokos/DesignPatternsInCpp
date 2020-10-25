@@ -1,2 +1,1 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_executable(111HandmadeStateMachine [111]Handmade\ State\ Machine.cpp)

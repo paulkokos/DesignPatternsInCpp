@@ -1,1 +1,1 @@
-add_executable(ExerciseDecoratorCodingExercise [Exercise]Decorator Coding Exercise.cpp)
+add_executable(ExerciseDecoratorCodingExercise [Exercise]Decorator\ Coding\ Exercise.cpp)

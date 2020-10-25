@@ -1,1 +1,3 @@
-add_executable(ExerciseChainofResponsibilityCodingExercise [Exercise]Chain\ of\ Responsibility\ Coding\ Exercise.cpp)
+
+
+add_executable(ExerciseChainofResponsibilityCoding [Exercise]Chain\ of\ Responsibility\ Coding\ Exercise.cpp)

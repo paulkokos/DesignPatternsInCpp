@@ -1,2 +1,6 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_subdirectory([97]Overview)
+add_subdirectory([98]Memento)
+add_subdirectory([99]Undo\ and\ Redo)
+add_subdirectory([100]Automatic\ Memento)
+add_subdirectory([101]Summary)
+add_subdirectory([Exercise]Memento\ Coding\ Exercise)

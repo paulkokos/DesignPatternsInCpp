@@ -1,2 +1,1 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_executable(ExerciseMementoCodingExercise [Exercise]Memento\ Coding\ Exercise.cpp)

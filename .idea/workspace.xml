@@ -20,37 +20,141 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="DesignPatternsInCpp" targetName="gmock" />
-      <config projectName="DesignPatternsInCpp" targetName="Google_Tests_run" />
-      <config projectName="DesignPatternsInCpp" targetName="15BuilderFacets" />
-      <config projectName="DesignPatternsInCpp" targetName="gtest" />
+      <config projectName="DesignPatternsInCpp" targetName="40Vector-RasterDemo" />
+      <config projectName="DesignPatternsInCpp" targetName="76Summary" />
       <config projectName="DesignPatternsInCpp" targetName="19FactoryMethod" />
-      <config projectName="DesignPatternsInCpp" targetName="ExerciseSingletonCodingExercise" />
-      <config projectName="DesignPatternsInCpp" targetName="18PointExample" />
-      <config projectName="DesignPatternsInCpp" targetName="gtest_main" />
-      <config projectName="DesignPatternsInCpp" targetName="ExerciseFactoryCoding" />
-      <config projectName="DesignPatternsInCpp" targetName="25Overview" />
-      <config projectName="DesignPatternsInCpp" targetName="29PrototypeViaserialization.cpp" />
+      <config projectName="DesignPatternsInCpp" targetName="123ReflectiveVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="103Observer" />
+      <config projectName="DesignPatternsInCpp" targetName="119TemplateMethod" />
+      <config projectName="DesignPatternsInCpp" targetName="43Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="90TreeIteratorwithCoroutines" />
       <config projectName="DesignPatternsInCpp" targetName="32SingletonImplementation" />
-      <config projectName="DesignPatternsInCpp" targetName="21InnerFactory" />
-      <config projectName="DesignPatternsInCpp" targetName="23FunctionalFactory" />
+      <config projectName="DesignPatternsInCpp" targetName="107ThreadSafetyandReentrary" />
+      <config projectName="DesignPatternsInCpp" targetName="75BrokerChain" />
       <config projectName="DesignPatternsInCpp" targetName="09GammaCategorization" />
+      <config projectName="DesignPatternsInCpp" targetName="68PropertyProxy" />
       <config projectName="DesignPatternsInCpp" targetName="13FluentBuilder" />
-      <config projectName="DesignPatternsInCpp" targetName="26RecordKeeping" />
+      <config projectName="DesignPatternsInCpp" targetName="ExersiceVisitorCodingExersice" />
       <config projectName="DesignPatternsInCpp" targetName="12Builder" />
-      <config projectName="DesignPatternsInCpp" targetName="33TestabilityIssues" />
-      <config projectName="DesignPatternsInCpp" targetName="35SingletonLifetimeinDIContainer" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseInterpeterCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="89BinaryTreeIterator" />
+      <config projectName="DesignPatternsInCpp" targetName="125AcyclicVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="97Overview" />
       <config projectName="DesignPatternsInCpp" targetName="22AbstractFactory" />
+      <config projectName="DesignPatternsInCpp" targetName="66Overview" />
       <config projectName="DesignPatternsInCpp" targetName="11LifeWithoutBuilders" />
-      <config projectName="DesignPatternsInCpp" targetName="ExercisePrototypeCodingExercise.cpp" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseStateCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="27Prototype" />
       <config projectName="DesignPatternsInCpp" targetName="28PrototypeFactory" />
-      <config projectName="DesignPatternsInCpp" targetName="14GroovyStyleBuilder" />
-      <config projectName="DesignPatternsInCpp" targetName="ExerciseBuilderCodingExercise" />
-      <config projectName="DesignPatternsInCpp" targetName="gmock_main" />
+      <config projectName="DesignPatternsInCpp" targetName="88IteratorsInTheStandardLibrary" />
+      <config projectName="DesignPatternsInCpp" targetName="93Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="42Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="128Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="111HandmadeStateMachine" />
+      <config projectName="DesignPatternsInCpp" targetName="45ShrinkWrappedPimpl" />
       <config projectName="DesignPatternsInCpp" targetName="37Multiton" />
       <config projectName="DesignPatternsInCpp" targetName="20Factory" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseIteratorCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseBridgeCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="Google_Tests_run" />
+      <config projectName="DesignPatternsInCpp" targetName="101Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="109Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="69VirtualProxy" />
+      <config projectName="DesignPatternsInCpp" targetName="86Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="78Command" />
+      <config projectName="DesignPatternsInCpp" targetName="108Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseFactoryCoding" />
+      <config projectName="DesignPatternsInCpp" targetName="25Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="74PointerChain" />
+      <config projectName="DesignPatternsInCpp" targetName="115DynamicStrategy" />
+      <config projectName="DesignPatternsInCpp" targetName="21InnerFactory" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseCompositeCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="87Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="23FunctionalFactory" />
+      <config projectName="DesignPatternsInCpp" targetName="81Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="26RecordKeeping" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseTemplateMethodExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="41AdapterCaching" />
+      <config projectName="DesignPatternsInCpp" targetName="83HandmadeInterpeter-Lexing" />
+      <config projectName="DesignPatternsInCpp" targetName="106TheProblemOfDependencies" />
+      <config projectName="DesignPatternsInCpp" targetName="35SingletonLifetimeinDIContainer" />
+      <config projectName="DesignPatternsInCpp" targetName="118Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="ExercisePrototypeCodingExercise.cpp" />
+      <config projectName="DesignPatternsInCpp" targetName="104Observable" />
+      <config projectName="DesignPatternsInCpp" targetName="105ObservablewithBoost.Signals" />
+      <config projectName="DesignPatternsInCpp" targetName="55StaticDecorator" />
+      <config projectName="DesignPatternsInCpp" targetName="95EventBroker" />
+      <config projectName="DesignPatternsInCpp" targetName="50NeuralNetworks" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseStrategyCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="114Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="102Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="110ClassicStateImplementation" />
       <config projectName="DesignPatternsInCpp" targetName="38Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="gmock" />
+      <config projectName="DesignPatternsInCpp" targetName="15BuilderFacets" />
+      <config projectName="DesignPatternsInCpp" targetName="gtest" />
+      <config projectName="DesignPatternsInCpp" targetName="57Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseAdapterCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="58Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="gtest_main" />
+      <config projectName="DesignPatternsInCpp" targetName="54DynamicDecorator" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseFlyweightCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="73Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="113Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="117Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="70CommunicationProxy" />
+      <config projectName="DesignPatternsInCpp" targetName="29PrototypeViaserialization.cpp" />
+      <config projectName="DesignPatternsInCpp" targetName="62HandmadeFlyweight" />
+      <config projectName="DesignPatternsInCpp" targetName="99UndoandRedo" />
+      <config projectName="DesignPatternsInCpp" targetName="71ProxyVSDecorator" />
+      <config projectName="DesignPatternsInCpp" targetName="84HandmadeInterpeter-Parsing" />
+      <config projectName="DesignPatternsInCpp" targetName="49GeometricShapes" />
+      <config projectName="DesignPatternsInCpp" targetName="63BoostFlyweight" />
+      <config projectName="DesignPatternsInCpp" targetName="91BoostIteratorFacade" />
+      <config projectName="DesignPatternsInCpp" targetName="92Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="96Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseMementoCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseCommandCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="124ClassicVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="67SmartPointers" />
+      <config projectName="DesignPatternsInCpp" targetName="52Summary.cpp" />
+      <config projectName="DesignPatternsInCpp" targetName="112StateMachineWithBoost.MSM" />
+      <config projectName="DesignPatternsInCpp" targetName="14GroovyStyleBuilder" />
+      <config projectName="DesignPatternsInCpp" targetName="64TextFormating" />
+      <config projectName="DesignPatternsInCpp" targetName="100AutomaticMemento" />
+      <config projectName="DesignPatternsInCpp" targetName="79UndoOperations" />
+      <config projectName="DesignPatternsInCpp" targetName="60Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="51Array-backedProperties" />
+      <config projectName="DesignPatternsInCpp" targetName="gmock_main" />
+      <config projectName="DesignPatternsInCpp" targetName="56FunctionalDecorator" />
+      <config projectName="DesignPatternsInCpp" targetName="116StaticStrategy" />
+      <config projectName="DesignPatternsInCpp" targetName="44PimplIdiom" />
+      <config projectName="DesignPatternsInCpp" targetName="120Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="98Memento" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseSingletonCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="18PointExample" />
+      <config projectName="DesignPatternsInCpp" targetName="80ComposiveCommands" />
+      <config projectName="DesignPatternsInCpp" targetName="48Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="65Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="94ChatRoom" />
+      <config projectName="DesignPatternsInCpp" targetName="53Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="122IntrusiveVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="33TestabilityIssues" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseMediatorCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseObserverCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="39Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="46BridgeImplementation" />
+      <config projectName="DesignPatternsInCpp" targetName="127Variantandstdvisit" />
+      <config projectName="DesignPatternsInCpp" targetName="82Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseBuilderCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseChainofResponsibilityCoding" />
+      <config projectName="DesignPatternsInCpp" targetName="61Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="77Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseDecoratorCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="47Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="s59Facade" />
+      <config projectName="DesignPatternsInCpp" targetName="85CodingParserswithBoost.Spirit" />
+      <config projectName="DesignPatternsInCpp" targetName="126Multimethods" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -60,44 +164,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Initial Corrections">
-      <change afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost-Flyweight/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost.Flyweight/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost.Flyweight/[63]Boost.Flyweight.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost-Flyweight/[63]Boost-Flyweight.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost.Flyweight/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[63]Boost-Flyweight/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[64]Text Formating/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[64]Text Formating/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[65]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[12]Flyweight Pattern/[65]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[80]Composive Commands/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[80]Composive Commands/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[81]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[81]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[15]Command Pattern/[Exercise]Command Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[15]Command Pattern/[Exercise]Command Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[82]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[82]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[83]Handmade Interpeter - Lexing/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[83]Handmade Interpeter - Lexing/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[84]Handmade Interpeter - Parsing/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[84]Handmade Interpeter - Parsing/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[85]Coding Parsers with Boost.Spirit/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[85]Coding Parsers with Boost.Spirit/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[86]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[86]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[Exercise]Interpeter Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[16]Interpreter Pattern/[Exercise]Interpeter Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[87]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[87]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[88]Iterators In The Standard Library/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[88]Iterators In The Standard Library/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[89]Binary Tree Iterator/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[89]Binary Tree Iterator/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[90]Tree Iterator with Coroutines/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[90]Tree Iterator with Coroutines/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterarot Facade/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterator Facade/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterarot Facade/[91]Boost Iterarot Facade.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterator Facade/[91]Boost Iterator Facade.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterarot Facade/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterator Facade/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[92]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[92]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[Exercise]Iterator Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[Exercise]Iterator Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[Exercise]Iterator Coding Exercise/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[Exercise]Iterator Coding Exercise/[Exercise]Iterator Coding Exercise.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[93]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[93]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[94]Chat Room/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[94]Chat Room/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[95]Event Broker/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[95]Event Broker/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[07]Adapter Pattern/[40]Vector-Raster Demo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[40]Vector-Raster Demo/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[07]Adapter Pattern/[Exercise]Adapter Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[Exercise]Adapter Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[47]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[47]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[50]Neural Networks/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[50]Neural Networks/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[51]Array-backed Properties/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[51]Array-backed Properties/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[Exercise]Composite Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[Exercise]Composite Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[Exercise]Decorator Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[Exercise]Decorator Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[69]Virtual Proxy/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[69]Virtual Proxy/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterator Facade/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterator Facade/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[96]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[96]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[Exercise]Mediator Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[Exercise]Mediator Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[100]Automatic Memento/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[100]Automatic Memento/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[101]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[101]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[97]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[97]Overview/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[98]Memento/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[98]Memento/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[99]Undo and Redo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[99]Undo and Redo/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[Exercise]Memento Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[Exercise]Memento Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[102]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[102]Overview/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[103]Observer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[103]Observer/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[104]Observable/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[104]Observable/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[105]Observable with Boost.Signals/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[105]Observable with Boost.Signals/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[106]The Problem Of Dependencies/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[106]The Problem Of Dependencies/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[107]Thread Safety and Reentrary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[107]Thread Safety and Reentrary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[108]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[108]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[Exercise]Observer Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[Exercise]Observer Coding Exercise/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[109]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[109]Overview/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[110]Classic State Implementation/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[110]Classic State Implementation/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[111]Handmade State Machine/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[111]Handmade State Machine/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[112]State Machine With Boost.MSM/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[112]State Machine With Boost.MSM/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[113]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[113]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[Exercise]State Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[Exercise]State Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[114]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[114]Overview/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[115]Dynamic Strategy/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[115]Dynamic Strategy/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[116]Static Strategy/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[116]Static Strategy/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[117]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[117]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[Exercise]Strategy Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[Exercise]Strategy Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/[118]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[118]Overview/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/[119]Template Method/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[119]Template Method/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/[120]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[120]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[128]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[128]Summary/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[Exersice]Visitor Coding Exersice/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[Exersice]Visitor Coding Exersice/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -169,7 +284,147 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="100AutomaticMemento" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="100AutomaticMemento" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="100AutomaticMemento">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="101Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="101Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="101Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="102Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="102Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="102Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="103Observer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="103Observer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="103Observer">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="104Observable" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="104Observable" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="104Observable">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="105ObservablewithBoost.Signals" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="105ObservablewithBoost.Signals" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="105ObservablewithBoost.Signals">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="106TheProblemOfDependencies" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="106TheProblemOfDependencies" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="106TheProblemOfDependencies">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="107ThreadSafetyandReentrary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="107ThreadSafetyandReentrary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="107ThreadSafetyandReentrary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="108Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="108Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="108Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="109Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="109Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="109Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="110ClassicStateImplementation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="110ClassicStateImplementation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="110ClassicStateImplementation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="111HandmadeStateMachine" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="111HandmadeStateMachine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="111HandmadeStateMachine">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="112StateMachineWithBoost.MSM" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="112StateMachineWithBoost.MSM" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="112StateMachineWithBoost.MSM">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="113Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="113Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="113Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="114Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="114Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="114Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="115DynamicStrategy" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="115DynamicStrategy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="115DynamicStrategy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="116StaticStrategy" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="116StaticStrategy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="116StaticStrategy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="117Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="117Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="117Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="118Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="118Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="118Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="119TemplateMethod" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="119TemplateMethod" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="119TemplateMethod">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="11LifeWithoutBuilders" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="11LifeWithoutBuilders" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="11LifeWithoutBuilders">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="120Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="120Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="120Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="122IntrusiveVisitor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="122IntrusiveVisitor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="122IntrusiveVisitor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="123ReflectiveVisitor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="123ReflectiveVisitor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="123ReflectiveVisitor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="124ClassicVisitor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="124ClassicVisitor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="124ClassicVisitor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="125AcyclicVisitor" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="125AcyclicVisitor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="125AcyclicVisitor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="126Multimethods" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="126Multimethods" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="126Multimethods">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="127Variantandstdvisit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="127Variantandstdvisit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="127Variantandstdvisit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="128Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="128Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="128Summary">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -274,12 +529,367 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="39Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="39Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="39Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="40Vector-RasterDemo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="40Vector-RasterDemo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="40Vector-RasterDemo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="41AdapterCaching" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="41AdapterCaching" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="41AdapterCaching">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="42Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="42Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="42Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="43Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="43Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="43Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="44PimplIdiom" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="44PimplIdiom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="44PimplIdiom">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="45ShrinkWrappedPimpl" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="45ShrinkWrappedPimpl" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="45ShrinkWrappedPimpl">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="46BridgeImplementation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="46BridgeImplementation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="46BridgeImplementation">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="47Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="47Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="47Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="48Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="48Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="48Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="49GeometricShapes" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="49GeometricShapes" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="49GeometricShapes">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="50NeuralNetworks" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="50NeuralNetworks" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="50NeuralNetworks">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="51Array-backedProperties" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="51Array-backedProperties" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="51Array-backedProperties">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="52Summary.cpp" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="52Summary.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="52Summary.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="53Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="53Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="53Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="54DynamicDecorator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="54DynamicDecorator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="54DynamicDecorator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="55StaticDecorator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="55StaticDecorator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="55StaticDecorator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="56FunctionalDecorator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="56FunctionalDecorator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="56FunctionalDecorator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="57Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="57Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="57Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="58Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="58Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="58Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="60Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="60Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="60Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="61Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="61Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="61Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="62HandmadeFlyweight" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="62HandmadeFlyweight" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="62HandmadeFlyweight">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="63BoostFlyweight" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="63BoostFlyweight" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="63BoostFlyweight">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="64TextFormating" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="64TextFormating" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="64TextFormating">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="65Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="65Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="65Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="66Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="66Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="66Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="67SmartPointers" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="67SmartPointers" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="67SmartPointers">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="68PropertyProxy" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="68PropertyProxy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="68PropertyProxy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="69VirtualProxy" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="69VirtualProxy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="69VirtualProxy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="70CommunicationProxy" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="70CommunicationProxy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="70CommunicationProxy">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="71ProxyVSDecorator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="71ProxyVSDecorator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="71ProxyVSDecorator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="73Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="73Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="73Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="74PointerChain" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="74PointerChain" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="74PointerChain">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="75BrokerChain" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="75BrokerChain" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="75BrokerChain">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="76Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="76Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="76Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="77Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="77Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="77Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="78Command" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="78Command" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="78Command">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="79UndoOperations" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="79UndoOperations" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="79UndoOperations">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="80ComposiveCommands" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="80ComposiveCommands" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="80ComposiveCommands">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="81Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="81Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="81Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="82Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="82Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="82Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="83HandmadeInterpeter-Lexing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="83HandmadeInterpeter-Lexing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="83HandmadeInterpeter-Lexing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="84HandmadeInterpeter-Parsing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="84HandmadeInterpeter-Parsing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="84HandmadeInterpeter-Parsing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="85CodingParserswithBoost.Spirit" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="85CodingParserswithBoost.Spirit" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="85CodingParserswithBoost.Spirit">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="86Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="86Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="86Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="87Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="87Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="87Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="88IteratorsInTheStandardLibrary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="88IteratorsInTheStandardLibrary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="88IteratorsInTheStandardLibrary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="89BinaryTreeIterator" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="89BinaryTreeIterator" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="89BinaryTreeIterator">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="90TreeIteratorwithCoroutines" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="90TreeIteratorwithCoroutines" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="90TreeIteratorwithCoroutines">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="91BoostIteratorFacade" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="91BoostIteratorFacade" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="91BoostIteratorFacade">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="92Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="92Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="92Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="93Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="93Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="93Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="94ChatRoom" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="94ChatRoom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="94ChatRoom">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="95EventBroker" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="95EventBroker" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="95EventBroker">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="96Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="96Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="96Summary">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="97Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="97Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="97Overview">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="98Memento" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="98Memento" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="98Memento">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="99UndoandRedo" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="99UndoandRedo" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="99UndoandRedo">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseAdapterCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseAdapterCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseAdapterCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseBridgeCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseBridgeCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseBridgeCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExerciseBuilderCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseBuilderCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseBuilderCodingExercise">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ExerciseChainofResponsibilityCoding" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseChainofResponsibilityCoding" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseChainofResponsibilityCoding">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseCommandCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseCommandCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseCommandCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseCompositeCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseCompositeCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseCompositeCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseDecoratorCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseDecoratorCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseDecoratorCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExerciseFactoryCoding" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseFactoryCoding" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseFactoryCoding">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseFlyweightCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseFlyweightCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseFlyweightCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseInterpeterCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseInterpeterCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseInterpeterCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseIteratorCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseIteratorCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseIteratorCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseMediatorCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseMediatorCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseMediatorCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseMementoCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseMementoCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseMementoCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseObserverCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseObserverCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseObserverCodingExercise">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -290,6 +900,26 @@
       </method>
     </configuration>
     <configuration name="ExerciseSingletonCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseSingletonCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseSingletonCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseStateCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseStateCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseStateCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseStrategyCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseStrategyCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseStrategyCodingExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExerciseTemplateMethodExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseTemplateMethodExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseTemplateMethodExercise">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ExersiceVisitorCodingExersice" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExersiceVisitorCodingExersice" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExersiceVisitorCodingExersice">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -320,6 +950,11 @@
       </method>
     </configuration>
     <configuration name="gtest_main" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="gtest_main" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="s59Facade" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="s59Facade" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="s59Facade">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -361,6 +996,110 @@
       <item itemvalue="CMake Application.37Multiton" />
       <item itemvalue="CMake Application.38Summary" />
       <item itemvalue="CMake Application.ExerciseSingletonCodingExercise" />
+      <item itemvalue="CMake Application.39Overview" />
+      <item itemvalue="CMake Application.40Vector-RasterDemo" />
+      <item itemvalue="CMake Application.41AdapterCaching" />
+      <item itemvalue="CMake Application.42Summary" />
+      <item itemvalue="CMake Application.ExerciseAdapterCodingExercise" />
+      <item itemvalue="CMake Application.43Overview" />
+      <item itemvalue="CMake Application.44PimplIdiom" />
+      <item itemvalue="CMake Application.45ShrinkWrappedPimpl" />
+      <item itemvalue="CMake Application.46BridgeImplementation" />
+      <item itemvalue="CMake Application.47Summary" />
+      <item itemvalue="CMake Application.ExerciseBridgeCodingExercise" />
+      <item itemvalue="CMake Application.48Overview" />
+      <item itemvalue="CMake Application.49GeometricShapes" />
+      <item itemvalue="CMake Application.50NeuralNetworks" />
+      <item itemvalue="CMake Application.51Array-backedProperties" />
+      <item itemvalue="CMake Application.52Summary.cpp" />
+      <item itemvalue="CMake Application.ExerciseCompositeCodingExercise" />
+      <item itemvalue="CMake Application.53Overview" />
+      <item itemvalue="CMake Application.54DynamicDecorator" />
+      <item itemvalue="CMake Application.55StaticDecorator" />
+      <item itemvalue="CMake Application.56FunctionalDecorator" />
+      <item itemvalue="CMake Application.57Summary" />
+      <item itemvalue="CMake Application.ExerciseDecoratorCodingExercise" />
+      <item itemvalue="CMake Application.58Overview" />
+      <item itemvalue="CMake Application.s59Facade" />
+      <item itemvalue="CMake Application.60Summary" />
+      <item itemvalue="CMake Application.61Overview" />
+      <item itemvalue="CMake Application.62HandmadeFlyweight" />
+      <item itemvalue="CMake Application.63BoostFlyweight" />
+      <item itemvalue="CMake Application.64TextFormating" />
+      <item itemvalue="CMake Application.65Summary" />
+      <item itemvalue="CMake Application.ExerciseFlyweightCodingExercise" />
+      <item itemvalue="CMake Application.66Overview" />
+      <item itemvalue="CMake Application.67SmartPointers" />
+      <item itemvalue="CMake Application.68PropertyProxy" />
+      <item itemvalue="CMake Application.69VirtualProxy" />
+      <item itemvalue="CMake Application.70CommunicationProxy" />
+      <item itemvalue="CMake Application.71ProxyVSDecorator" />
+      <item itemvalue="CMake Application.73Overview" />
+      <item itemvalue="CMake Application.74PointerChain" />
+      <item itemvalue="CMake Application.75BrokerChain" />
+      <item itemvalue="CMake Application.76Summary" />
+      <item itemvalue="CMake Application.ExerciseChainofResponsibilityCoding" />
+      <item itemvalue="CMake Application.77Overview" />
+      <item itemvalue="CMake Application.78Command" />
+      <item itemvalue="CMake Application.79UndoOperations" />
+      <item itemvalue="CMake Application.80ComposiveCommands" />
+      <item itemvalue="CMake Application.81Summary" />
+      <item itemvalue="CMake Application.ExerciseCommandCodingExercise" />
+      <item itemvalue="CMake Application.82Overview" />
+      <item itemvalue="CMake Application.83HandmadeInterpeter-Lexing" />
+      <item itemvalue="CMake Application.84HandmadeInterpeter-Parsing" />
+      <item itemvalue="CMake Application.85CodingParserswithBoost.Spirit" />
+      <item itemvalue="CMake Application.86Summary" />
+      <item itemvalue="CMake Application.ExerciseInterpeterCodingExercise" />
+      <item itemvalue="CMake Application.87Overview" />
+      <item itemvalue="CMake Application.88IteratorsInTheStandardLibrary" />
+      <item itemvalue="CMake Application.89BinaryTreeIterator" />
+      <item itemvalue="CMake Application.90TreeIteratorwithCoroutines" />
+      <item itemvalue="CMake Application.91BoostIteratorFacade" />
+      <item itemvalue="CMake Application.92Summary" />
+      <item itemvalue="CMake Application.ExerciseIteratorCodingExercise" />
+      <item itemvalue="CMake Application.93Overview" />
+      <item itemvalue="CMake Application.94ChatRoom" />
+      <item itemvalue="CMake Application.95EventBroker" />
+      <item itemvalue="CMake Application.96Summary" />
+      <item itemvalue="CMake Application.ExerciseMediatorCodingExercise" />
+      <item itemvalue="CMake Application.100AutomaticMemento" />
+      <item itemvalue="CMake Application.101Summary" />
+      <item itemvalue="CMake Application.97Overview" />
+      <item itemvalue="CMake Application.98Memento" />
+      <item itemvalue="CMake Application.99UndoandRedo" />
+      <item itemvalue="CMake Application.ExerciseMementoCodingExercise" />
+      <item itemvalue="CMake Application.102Overview" />
+      <item itemvalue="CMake Application.103Observer" />
+      <item itemvalue="CMake Application.104Observable" />
+      <item itemvalue="CMake Application.105ObservablewithBoost.Signals" />
+      <item itemvalue="CMake Application.106TheProblemOfDependencies" />
+      <item itemvalue="CMake Application.107ThreadSafetyandReentrary" />
+      <item itemvalue="CMake Application.108Summary" />
+      <item itemvalue="CMake Application.ExerciseObserverCodingExercise" />
+      <item itemvalue="CMake Application.109Overview" />
+      <item itemvalue="CMake Application.110ClassicStateImplementation" />
+      <item itemvalue="CMake Application.111HandmadeStateMachine" />
+      <item itemvalue="CMake Application.112StateMachineWithBoost.MSM" />
+      <item itemvalue="CMake Application.113Summary" />
+      <item itemvalue="CMake Application.ExerciseStateCodingExercise" />
+      <item itemvalue="CMake Application.114Overview" />
+      <item itemvalue="CMake Application.115DynamicStrategy" />
+      <item itemvalue="CMake Application.116StaticStrategy" />
+      <item itemvalue="CMake Application.117Summary" />
+      <item itemvalue="CMake Application.ExerciseStrategyCodingExercise" />
+      <item itemvalue="CMake Application.118Overview" />
+      <item itemvalue="CMake Application.119TemplateMethod" />
+      <item itemvalue="CMake Application.120Summary" />
+      <item itemvalue="CMake Application.ExerciseTemplateMethodExercise" />
+      <item itemvalue="CMake Application.122IntrusiveVisitor" />
+      <item itemvalue="CMake Application.123ReflectiveVisitor" />
+      <item itemvalue="CMake Application.124ClassicVisitor" />
+      <item itemvalue="CMake Application.125AcyclicVisitor" />
+      <item itemvalue="CMake Application.126Multimethods" />
+      <item itemvalue="CMake Application.127Variantandstdvisit" />
+      <item itemvalue="CMake Application.128Summary" />
+      <item itemvalue="CMake Application.ExersiceVisitorCodingExersice" />
       <item itemvalue="Google Test.All Tests" />
       <item itemvalue="Google Test.CalcTest.Add" />
     </list>
@@ -385,7 +1124,7 @@
       <workItem from="1602879521003" duration="14108000" />
       <workItem from="1603143333786" duration="4145000" />
       <workItem from="1603409015152" duration="9907000" />
-      <workItem from="1603511247410" duration="7679000" />
+      <workItem from="1603511247410" duration="10902000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600576756090</created>
@@ -674,7 +1413,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603437720648</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Initial Corrections">
+      <created>1603602430426</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1603602430427</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

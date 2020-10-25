@@ -1,2 +1,1 @@
-add_subdirectory([24]Visitor\ Pattern)
-
+add_executable(112StateMachineWithBoost.MSM [112]State\ Machine\ With\ Boost.MSM.cpp)

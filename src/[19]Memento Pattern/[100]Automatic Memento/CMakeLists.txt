@@ -1,2 +1,2 @@
-add_subdirectory([24]Visitor\ Pattern)
+add_executable(100AutomaticMemento [100]Automatic\ Memento.cpp)
 

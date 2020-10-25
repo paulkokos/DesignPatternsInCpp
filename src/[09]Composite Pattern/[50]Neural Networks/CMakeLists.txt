@@ -1,1 +1,1 @@
-add_executable(50NeuralNetworks [50]Neural Networks.cpp)
+add_executable(50NeuralNetworks [50]Neural\ Networks.cpp)

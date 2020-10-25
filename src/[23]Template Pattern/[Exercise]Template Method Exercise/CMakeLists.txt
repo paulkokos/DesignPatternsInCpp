@@ -1,0 +1,1 @@
+add_executable(ExerciseTemplateMethodExercise [Exercise]Template\ Method\ Exercise.cpp)
