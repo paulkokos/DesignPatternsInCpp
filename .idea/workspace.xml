@@ -165,54 +165,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Initial Corrections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[07]Adapter Pattern/[40]Vector-Raster Demo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[40]Vector-Raster Demo/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[07]Adapter Pattern/[Exercise]Adapter Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[07]Adapter Pattern/[Exercise]Adapter Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[08]Bridge Pattern/[47]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[08]Bridge Pattern/[47]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[50]Neural Networks/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[50]Neural Networks/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[51]Array-backed Properties/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[51]Array-backed Properties/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[09]Composite Pattern/[Exercise]Composite Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[09]Composite Pattern/[Exercise]Composite Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[10]Decorator Pattern/[Exercise]Decorator Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[10]Decorator Pattern/[Exercise]Decorator Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[13]Proxy Pattern/[69]Virtual Proxy/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[13]Proxy Pattern/[69]Virtual Proxy/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[14]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterator Facade/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[17]Iterator Pattern/[91]Boost Iterator Facade/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[18]Mediator Pattern/[96]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[18]Mediator Pattern/[96]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[100]Automatic Memento/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[100]Automatic Memento/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[101]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[101]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[97]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[97]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[98]Memento/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[98]Memento/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[99]Undo and Redo/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[99]Undo and Redo/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[19]Memento Pattern/[Exercise]Memento Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[19]Memento Pattern/[Exercise]Memento Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[102]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[102]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[103]Observer/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[103]Observer/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[104]Observable/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[104]Observable/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[105]Observable with Boost.Signals/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[105]Observable with Boost.Signals/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[106]The Problem Of Dependencies/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[106]The Problem Of Dependencies/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[107]Thread Safety and Reentrary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[107]Thread Safety and Reentrary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[108]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[108]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[20]Observer Pattern/[Exercise]Observer Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[20]Observer Pattern/[Exercise]Observer Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[109]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[109]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[110]Classic State Implementation/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[110]Classic State Implementation/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[111]Handmade State Machine/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[111]Handmade State Machine/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[112]State Machine With Boost.MSM/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[112]State Machine With Boost.MSM/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[113]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[113]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[21]State Pattern/[Exercise]State Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[21]State Pattern/[Exercise]State Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[114]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[114]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[115]Dynamic Strategy/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[115]Dynamic Strategy/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[116]Static Strategy/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[116]Static Strategy/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[117]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[117]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[22]Strategy Pattern/[Exercise]Strategy Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[22]Strategy Pattern/[Exercise]Strategy Coding Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/[118]Overview/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[118]Overview/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/[119]Template Method/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[119]Template Method/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/[120]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[120]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[23]Template Pattern/[Exercise]Template Method Exercise/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[128]Summary/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[128]Summary/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[24]Visitor Pattern/[Exersice]Visitor Coding Exersice/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[24]Visitor Pattern/[Exersice]Visitor Coding Exersice/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -266,7 +218,7 @@
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[12]Flyweight Pattern\[61]Overview" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.32SingletonImplementation">
+  <component name="RunManager" selected="Google Test.All Tests">
     <configuration name="All Tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" nameIsGenerated="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="Google_Tests_run" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -929,11 +881,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="gmock" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -965,69 +912,84 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Google Test.All Tests" />
+      <item itemvalue="Google Test.CalcTest.Add" />
       <item itemvalue="CMake Application.09GammaCategorization" />
+      <item itemvalue="CMake Application.100AutomaticMemento" />
+      <item itemvalue="CMake Application.101Summary" />
+      <item itemvalue="CMake Application.102Overview" />
+      <item itemvalue="CMake Application.103Observer" />
+      <item itemvalue="CMake Application.104Observable" />
+      <item itemvalue="CMake Application.105ObservablewithBoost.Signals" />
+      <item itemvalue="CMake Application.106TheProblemOfDependencies" />
+      <item itemvalue="CMake Application.107ThreadSafetyandReentrary" />
+      <item itemvalue="CMake Application.108Summary" />
+      <item itemvalue="CMake Application.109Overview" />
+      <item itemvalue="CMake Application.110ClassicStateImplementation" />
+      <item itemvalue="CMake Application.111HandmadeStateMachine" />
+      <item itemvalue="CMake Application.112StateMachineWithBoost.MSM" />
+      <item itemvalue="CMake Application.113Summary" />
+      <item itemvalue="CMake Application.114Overview" />
+      <item itemvalue="CMake Application.115DynamicStrategy" />
+      <item itemvalue="CMake Application.116StaticStrategy" />
+      <item itemvalue="CMake Application.117Summary" />
+      <item itemvalue="CMake Application.118Overview" />
+      <item itemvalue="CMake Application.119TemplateMethod" />
       <item itemvalue="CMake Application.11LifeWithoutBuilders" />
+      <item itemvalue="CMake Application.120Summary" />
+      <item itemvalue="CMake Application.122IntrusiveVisitor" />
+      <item itemvalue="CMake Application.123ReflectiveVisitor" />
+      <item itemvalue="CMake Application.124ClassicVisitor" />
+      <item itemvalue="CMake Application.125AcyclicVisitor" />
+      <item itemvalue="CMake Application.126Multimethods" />
+      <item itemvalue="CMake Application.127Variantandstdvisit" />
+      <item itemvalue="CMake Application.128Summary" />
       <item itemvalue="CMake Application.12Builder" />
       <item itemvalue="CMake Application.13FluentBuilder" />
       <item itemvalue="CMake Application.14GroovyStyleBuilder" />
       <item itemvalue="CMake Application.15BuilderFacets" />
-      <item itemvalue="CMake Application.ExerciseBuilderCodingExercise" />
-      <item itemvalue="CMake Application.Google_Tests_run" />
-      <item itemvalue="CMake Application.gmock" />
-      <item itemvalue="CMake Application.gmock_main" />
-      <item itemvalue="CMake Application.gtest" />
-      <item itemvalue="CMake Application.gtest_main" />
       <item itemvalue="CMake Application.18PointExample" />
       <item itemvalue="CMake Application.19FactoryMethod" />
       <item itemvalue="CMake Application.20Factory" />
       <item itemvalue="CMake Application.21InnerFactory" />
       <item itemvalue="CMake Application.22AbstractFactory" />
       <item itemvalue="CMake Application.23FunctionalFactory" />
-      <item itemvalue="CMake Application.ExerciseFactoryCoding" />
       <item itemvalue="CMake Application.25Overview" />
       <item itemvalue="CMake Application.26RecordKeeping" />
       <item itemvalue="CMake Application.27Prototype" />
       <item itemvalue="CMake Application.28PrototypeFactory" />
       <item itemvalue="CMake Application.29PrototypeViaserialization.cpp" />
-      <item itemvalue="CMake Application.ExercisePrototypeCodingExercise.cpp" />
       <item itemvalue="CMake Application.32SingletonImplementation" />
       <item itemvalue="CMake Application.33TestabilityIssues" />
       <item itemvalue="CMake Application.35SingletonLifetimeinDIContainer" />
       <item itemvalue="CMake Application.37Multiton" />
       <item itemvalue="CMake Application.38Summary" />
-      <item itemvalue="CMake Application.ExerciseSingletonCodingExercise" />
       <item itemvalue="CMake Application.39Overview" />
       <item itemvalue="CMake Application.40Vector-RasterDemo" />
       <item itemvalue="CMake Application.41AdapterCaching" />
       <item itemvalue="CMake Application.42Summary" />
-      <item itemvalue="CMake Application.ExerciseAdapterCodingExercise" />
       <item itemvalue="CMake Application.43Overview" />
       <item itemvalue="CMake Application.44PimplIdiom" />
       <item itemvalue="CMake Application.45ShrinkWrappedPimpl" />
       <item itemvalue="CMake Application.46BridgeImplementation" />
       <item itemvalue="CMake Application.47Summary" />
-      <item itemvalue="CMake Application.ExerciseBridgeCodingExercise" />
       <item itemvalue="CMake Application.48Overview" />
       <item itemvalue="CMake Application.49GeometricShapes" />
       <item itemvalue="CMake Application.50NeuralNetworks" />
       <item itemvalue="CMake Application.51Array-backedProperties" />
       <item itemvalue="CMake Application.52Summary.cpp" />
-      <item itemvalue="CMake Application.ExerciseCompositeCodingExercise" />
       <item itemvalue="CMake Application.53Overview" />
       <item itemvalue="CMake Application.54DynamicDecorator" />
       <item itemvalue="CMake Application.55StaticDecorator" />
       <item itemvalue="CMake Application.56FunctionalDecorator" />
       <item itemvalue="CMake Application.57Summary" />
-      <item itemvalue="CMake Application.ExerciseDecoratorCodingExercise" />
       <item itemvalue="CMake Application.58Overview" />
-      <item itemvalue="CMake Application.s59Facade" />
       <item itemvalue="CMake Application.60Summary" />
       <item itemvalue="CMake Application.61Overview" />
       <item itemvalue="CMake Application.62HandmadeFlyweight" />
       <item itemvalue="CMake Application.63BoostFlyweight" />
       <item itemvalue="CMake Application.64TextFormating" />
       <item itemvalue="CMake Application.65Summary" />
-      <item itemvalue="CMake Application.ExerciseFlyweightCodingExercise" />
       <item itemvalue="CMake Application.66Overview" />
       <item itemvalue="CMake Application.67SmartPointers" />
       <item itemvalue="CMake Application.68PropertyProxy" />
@@ -1038,70 +1000,55 @@
       <item itemvalue="CMake Application.74PointerChain" />
       <item itemvalue="CMake Application.75BrokerChain" />
       <item itemvalue="CMake Application.76Summary" />
-      <item itemvalue="CMake Application.ExerciseChainofResponsibilityCoding" />
       <item itemvalue="CMake Application.77Overview" />
       <item itemvalue="CMake Application.78Command" />
       <item itemvalue="CMake Application.79UndoOperations" />
       <item itemvalue="CMake Application.80ComposiveCommands" />
       <item itemvalue="CMake Application.81Summary" />
-      <item itemvalue="CMake Application.ExerciseCommandCodingExercise" />
       <item itemvalue="CMake Application.82Overview" />
       <item itemvalue="CMake Application.83HandmadeInterpeter-Lexing" />
       <item itemvalue="CMake Application.84HandmadeInterpeter-Parsing" />
       <item itemvalue="CMake Application.85CodingParserswithBoost.Spirit" />
       <item itemvalue="CMake Application.86Summary" />
-      <item itemvalue="CMake Application.ExerciseInterpeterCodingExercise" />
       <item itemvalue="CMake Application.87Overview" />
       <item itemvalue="CMake Application.88IteratorsInTheStandardLibrary" />
       <item itemvalue="CMake Application.89BinaryTreeIterator" />
       <item itemvalue="CMake Application.90TreeIteratorwithCoroutines" />
       <item itemvalue="CMake Application.91BoostIteratorFacade" />
       <item itemvalue="CMake Application.92Summary" />
-      <item itemvalue="CMake Application.ExerciseIteratorCodingExercise" />
       <item itemvalue="CMake Application.93Overview" />
       <item itemvalue="CMake Application.94ChatRoom" />
       <item itemvalue="CMake Application.95EventBroker" />
       <item itemvalue="CMake Application.96Summary" />
-      <item itemvalue="CMake Application.ExerciseMediatorCodingExercise" />
-      <item itemvalue="CMake Application.100AutomaticMemento" />
-      <item itemvalue="CMake Application.101Summary" />
       <item itemvalue="CMake Application.97Overview" />
       <item itemvalue="CMake Application.98Memento" />
       <item itemvalue="CMake Application.99UndoandRedo" />
+      <item itemvalue="CMake Application.ExerciseAdapterCodingExercise" />
+      <item itemvalue="CMake Application.ExerciseBridgeCodingExercise" />
+      <item itemvalue="CMake Application.ExerciseBuilderCodingExercise" />
+      <item itemvalue="CMake Application.ExerciseChainofResponsibilityCoding" />
+      <item itemvalue="CMake Application.ExerciseCommandCodingExercise" />
+      <item itemvalue="CMake Application.ExerciseCompositeCodingExercise" />
+      <item itemvalue="CMake Application.ExerciseDecoratorCodingExercise" />
+      <item itemvalue="CMake Application.ExerciseFactoryCoding" />
+      <item itemvalue="CMake Application.ExerciseFlyweightCodingExercise" />
+      <item itemvalue="CMake Application.ExerciseInterpeterCodingExercise" />
+      <item itemvalue="CMake Application.ExerciseIteratorCodingExercise" />
+      <item itemvalue="CMake Application.ExerciseMediatorCodingExercise" />
       <item itemvalue="CMake Application.ExerciseMementoCodingExercise" />
-      <item itemvalue="CMake Application.102Overview" />
-      <item itemvalue="CMake Application.103Observer" />
-      <item itemvalue="CMake Application.104Observable" />
-      <item itemvalue="CMake Application.105ObservablewithBoost.Signals" />
-      <item itemvalue="CMake Application.106TheProblemOfDependencies" />
-      <item itemvalue="CMake Application.107ThreadSafetyandReentrary" />
-      <item itemvalue="CMake Application.108Summary" />
       <item itemvalue="CMake Application.ExerciseObserverCodingExercise" />
-      <item itemvalue="CMake Application.109Overview" />
-      <item itemvalue="CMake Application.110ClassicStateImplementation" />
-      <item itemvalue="CMake Application.111HandmadeStateMachine" />
-      <item itemvalue="CMake Application.112StateMachineWithBoost.MSM" />
-      <item itemvalue="CMake Application.113Summary" />
+      <item itemvalue="CMake Application.ExercisePrototypeCodingExercise.cpp" />
+      <item itemvalue="CMake Application.ExerciseSingletonCodingExercise" />
       <item itemvalue="CMake Application.ExerciseStateCodingExercise" />
-      <item itemvalue="CMake Application.114Overview" />
-      <item itemvalue="CMake Application.115DynamicStrategy" />
-      <item itemvalue="CMake Application.116StaticStrategy" />
-      <item itemvalue="CMake Application.117Summary" />
       <item itemvalue="CMake Application.ExerciseStrategyCodingExercise" />
-      <item itemvalue="CMake Application.118Overview" />
-      <item itemvalue="CMake Application.119TemplateMethod" />
-      <item itemvalue="CMake Application.120Summary" />
       <item itemvalue="CMake Application.ExerciseTemplateMethodExercise" />
-      <item itemvalue="CMake Application.122IntrusiveVisitor" />
-      <item itemvalue="CMake Application.123ReflectiveVisitor" />
-      <item itemvalue="CMake Application.124ClassicVisitor" />
-      <item itemvalue="CMake Application.125AcyclicVisitor" />
-      <item itemvalue="CMake Application.126Multimethods" />
-      <item itemvalue="CMake Application.127Variantandstdvisit" />
-      <item itemvalue="CMake Application.128Summary" />
       <item itemvalue="CMake Application.ExersiceVisitorCodingExersice" />
-      <item itemvalue="Google Test.All Tests" />
-      <item itemvalue="Google Test.CalcTest.Add" />
+      <item itemvalue="CMake Application.Google_Tests_run" />
+      <item itemvalue="CMake Application.gmock" />
+      <item itemvalue="CMake Application.gmock_main" />
+      <item itemvalue="CMake Application.gtest" />
+      <item itemvalue="CMake Application.gtest_main" />
+      <item itemvalue="CMake Application.s59Facade" />
     </list>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -1124,7 +1071,7 @@
       <workItem from="1602879521003" duration="14108000" />
       <workItem from="1603143333786" duration="4145000" />
       <workItem from="1603409015152" duration="9907000" />
-      <workItem from="1603511247410" duration="10902000" />
+      <workItem from="1603511247410" duration="15737000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1600576756090</created>
@@ -1420,7 +1367,14 @@
       <option name="project" value="LOCAL" />
       <updated>1603602430427</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="Initial Corrections">
+      <created>1603606152447</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1603606152447</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1492,11 +1446,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="493" y="115" key="SettingsEditor/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603600059901" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1603437722335">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1603606159274">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1016" y="177" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601930610722" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603437722335" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1603606159274" />
     <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602285467832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
