@@ -1,5 +1,0 @@
-add_subdirectory([73]Overview)
-add_subdirectory([74]Pointer\ Chain)
-add_subdirectory([75]Broker\ Chain)
-add_subdirectory([76]Summary)
-add_subdirectory([Exercise]Chain\ of\ Responsibility\ Coding\ Exercise)

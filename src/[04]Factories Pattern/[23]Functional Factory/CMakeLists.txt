@@ -1,1 +1,0 @@
-add_executable(23FunctionalFactory [23]Functional\ Factory.cpp)

@@ -1,1 +1,0 @@
-add_executable(71ProxyVSDecorator [71]Proxy\ VS\ Decorator.cpp)

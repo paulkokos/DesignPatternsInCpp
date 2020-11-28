@@ -1,0 +1,6 @@
+add_subdirectory([061]Overview)
+add_subdirectory("[062]Handmade Flyweight")
+add_subdirectory([063]Boost-Flyweight)
+add_subdirectory("[064]Text Formating")
+add_subdirectory([065]Summary)
+add_subdirectory([Exercise]Flyweight\ Coding\ Exercise)

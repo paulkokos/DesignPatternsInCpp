@@ -1,0 +1,1 @@
+add_executable(023FunctionalFactory "[023]Functional Factory.cpp")

@@ -1,1 +1,0 @@
-add_executable(86Summary [86]Summary.cpp)

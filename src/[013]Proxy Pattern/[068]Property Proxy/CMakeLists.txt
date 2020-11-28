@@ -1,0 +1,1 @@
+add_executable(068PropertyProxy "[068]Property Proxy.cpp")

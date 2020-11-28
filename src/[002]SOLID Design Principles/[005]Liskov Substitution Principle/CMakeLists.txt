@@ -1,0 +1,1 @@
+add_executable(005LiskovSubstitutionPrinciple [005]Liskov\ Substitution\ Principle.cpp)

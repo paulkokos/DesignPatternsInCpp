@@ -1,1 +1,0 @@
-add_executable(47Summary [47]Summary.cpp)

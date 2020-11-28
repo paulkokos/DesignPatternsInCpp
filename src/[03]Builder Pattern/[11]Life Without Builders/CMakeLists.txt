@@ -1,1 +1,0 @@
-add_executable(11LifeWithoutBuilders [11]LifeWithoutBuilders.cpp)

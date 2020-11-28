@@ -1,0 +1,1 @@
+add_executable(007DependencyInversionPrinciple [007]Dependency\ Inversion\ Principle.cpp)

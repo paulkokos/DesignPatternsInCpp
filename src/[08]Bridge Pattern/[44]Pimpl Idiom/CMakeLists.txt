@@ -1,1 +1,0 @@
-add_executable(44PimplIdiom [44]Pimpl\ Idiom.cpp)

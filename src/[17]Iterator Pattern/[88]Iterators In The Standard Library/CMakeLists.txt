@@ -1,1 +1,0 @@
-add_executable(88IteratorsInTheStandardLibrary [88]Iterators\ In\ The\ Standard\ Library.cpp)

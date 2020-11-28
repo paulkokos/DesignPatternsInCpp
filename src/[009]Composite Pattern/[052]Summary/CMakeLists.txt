@@ -1,0 +1,1 @@
+add_executable(052Summary.cpp [052]Summary.cpp)

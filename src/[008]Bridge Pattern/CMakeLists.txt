@@ -1,0 +1,6 @@
+add_subdirectory([043]Overview)
+add_subdirectory("[044]Pimpl Idiom")
+add_subdirectory("[045]Shrink-Wrapped Pimpl")
+add_subdirectory("[046]Bridge Implementation")
+add_subdirectory([047]Summary)
+add_subdirectory([Exercise]Bridge\ Coding\ Exercise)

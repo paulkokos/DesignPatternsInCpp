@@ -1,0 +1,7 @@
+add_subdirectory("[009]Gamma Categorization")
+add_subdirectory("[011]Life Without Builders")
+add_subdirectory([012]Builder)
+add_subdirectory("[013]Fluent Builder")
+add_subdirectory("[014]Groovy-Style Builder")
+add_subdirectory("[015]Builder Facets")
+add_subdirectory([Exercise]Builder\ Coding\ Exercise)

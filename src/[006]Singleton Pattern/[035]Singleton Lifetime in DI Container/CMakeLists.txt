@@ -1,0 +1,1 @@
+add_executable(035SingletonLifetimeinDIContainer [35]Singleton\ Lifetime\ in\ DI\ Container.cpp)

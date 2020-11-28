@@ -1,0 +1,1 @@
+add_executable(067SmartPointers "[067]Smart Pointers.cpp")

@@ -1,0 +1,1 @@
+add_executable(071ProxyVSDecorator "[071]Proxy VS Decorator.cpp")

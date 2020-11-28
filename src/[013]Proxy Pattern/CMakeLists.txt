@@ -1,0 +1,7 @@
+add_subdirectory([066]Overview)
+add_subdirectory("[067]Smart Pointers")
+add_subdirectory("[068]Property Proxy")
+add_subdirectory("[069]Virtual Proxy")
+add_subdirectory("[070]Communication Proxy")
+add_subdirectory("[071]Proxy VS Decorator")
+add_subdirectory([072]Summary)

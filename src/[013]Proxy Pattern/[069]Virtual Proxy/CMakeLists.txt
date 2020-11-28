@@ -1,0 +1,1 @@
+add_executable(069VirtualProxy "[069]Virtual Proxy.cpp")

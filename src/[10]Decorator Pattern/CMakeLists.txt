@@ -1,6 +1,0 @@
-add_subdirectory([53]Overview)
-add_subdirectory([54]Dynamic\ Decorator)
-add_subdirectory([55]Static\ Decorator)
-add_subdirectory([56]Functional\ Decorator)
-add_subdirectory([57]Summary)
-add_subdirectory([Exercise]Decorator\ Coding\ Exercise)

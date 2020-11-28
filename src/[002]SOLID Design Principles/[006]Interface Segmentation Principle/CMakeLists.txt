@@ -1,0 +1,1 @@
+add_executable(006InterfaceSegmentationPrinciple [006]Interface\ Segmentation\ Principle.cpp)

@@ -1,0 +1,1 @@
+add_executable(070CommunicationProxy "[070]Communication Proxy.cpp")

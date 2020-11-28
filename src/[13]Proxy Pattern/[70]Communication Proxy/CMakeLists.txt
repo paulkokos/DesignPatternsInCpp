@@ -1,1 +1,0 @@
-add_executable(70CommunicationProxy [70]Communication\ Proxy.cpp)

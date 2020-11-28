@@ -1,1 +1,0 @@
-add_executable(67SmartPointers [67]Smart\ Pointers.cpp)

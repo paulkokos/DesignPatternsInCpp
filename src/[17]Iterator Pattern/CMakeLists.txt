@@ -1,7 +1,0 @@
-add_subdirectory([87]Overview)
-add_subdirectory([88]Iterators\ In\ The\ Standard\ Library)
-add_subdirectory([89]Binary\ Tree\ Iterator)
-add_subdirectory([90]Tree\ Iterator\ with\ Coroutines)
-add_subdirectory([91]Boost\ Iterator\ Facade)
-add_subdirectory([92]Summary)
-add_subdirectory([Exercise]Iterator\ Coding\ Exercise)

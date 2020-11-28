@@ -1,0 +1,1 @@
+add_executable(003SingleResponsibilityPrinciple [003]Single\ Responsibility\ Principle.cpp Journal.cpp Journal.hpp PersistenceManager.cpp PersistenceManager.hpp)

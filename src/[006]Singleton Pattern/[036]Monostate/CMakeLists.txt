@@ -1,0 +1,1 @@
+add_executable(036Monostate [36]Monostate.cpp)

@@ -1,0 +1,6 @@
+add_subdirectory([082]Overview)
+add_subdirectory("[083]Handmade Interpeter - Lexing")
+add_subdirectory("[084]Handmade Interpeter - Parsing")
+add_subdirectory("[085]Coding Parsers with Boost.Spirit")
+add_subdirectory([086]Summary)
+add_subdirectory([Exercise]Interpeter\ Coding\ Exercise)

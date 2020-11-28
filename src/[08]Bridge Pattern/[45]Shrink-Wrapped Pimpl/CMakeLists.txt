@@ -1,1 +1,0 @@
-add_executable(45ShrinkWrappedPimpl [45]Shrink-Wrapped\ Pimpl.cpp)

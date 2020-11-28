@@ -1,1 +1,0 @@
-add_executable(22AbstractFactory [22]Abstract\ Factory.cpp)

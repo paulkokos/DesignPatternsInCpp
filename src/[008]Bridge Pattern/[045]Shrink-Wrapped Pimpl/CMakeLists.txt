@@ -1,0 +1,1 @@
+add_executable(045ShrinkWrappedPimpl "[045]Shrink-Wrapped Pimpl.cpp")
