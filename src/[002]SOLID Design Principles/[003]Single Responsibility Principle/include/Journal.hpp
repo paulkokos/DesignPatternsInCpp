@@ -13,7 +13,15 @@ private:
     string title;
     vector<string> entries;
 public:
-    Journal(const string &title);
+    const string &getTitle() const;
+
+    void setTitle(const string &title);
+
+    const vector<string> &getEntries() const;
+
+    void setEntries(const vector<string> &entries);
+
+    Journal(string title);
     void addEntry(const string &entry);
 };
 

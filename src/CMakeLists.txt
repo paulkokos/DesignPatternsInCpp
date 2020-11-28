@@ -1,4 +1,4 @@
-add_subdirectory([002]SOLID\ Design\ Principles)
+add_subdirectory("[002]SOLID Design Principles")
 add_subdirectory("[003]Builder Pattern")
 add_subdirectory("[004]Factories Pattern")
 add_subdirectory("[005]Prototype Pattern")
