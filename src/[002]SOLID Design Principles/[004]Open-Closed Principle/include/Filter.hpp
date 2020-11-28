@@ -8,7 +8,7 @@
 #include <vector>
 using std::vector;
 
-template<typename T> class Filter {
+template<typename T> struct Filter {
     virtual vector<T*> filter(vector<T*> items,
                               Specification<T>& spec) =0;
 };
