@@ -1,8 +1,4 @@
 #include <iostream>
-#include <cstdio>
-#include <string>
-#include <vector>
-#include <fstream>
 #include "include/Journal.hpp"
 #include "include/PersistenceManager.hpp"
 using namespace std;
@@ -17,6 +13,7 @@ int main() {
 
     PersistenceManager persistenceManager;
     persistenceManager.save(journal,"diary.txt");
+
     cin.get();
     return 0;
 }

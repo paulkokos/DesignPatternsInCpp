@@ -166,16 +166,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Groovy Style Builder">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/Journal.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/sources/Journal.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/Journal.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/Journal.hpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/PersistenceManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/sources/PersistenceManager.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/PersistenceManager.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/PersistenceManager.hpp" afterDir="false" />
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[003]Single Responsibility Principle">
       <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/[003]Single Responsibility Principle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/[003]Single Responsibility Principle.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[014]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[014]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/Journal.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/Journal.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/PersistenceManager.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/PersistenceManager.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/sources/Journal.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/sources/Journal.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/sources/PersistenceManager.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/sources/PersistenceManager.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1138,14 +1135,7 @@
       <workItem from="1603511247410" duration="15737000" />
       <workItem from="1603835572729" duration="4551000" />
       <workItem from="1604930122856" duration="52000" />
-      <workItem from="1606529112298" duration="12160000" />
-    </task>
-    <task id="LOCAL-00003" summary="Initial Commit">
-      <created>1600652708869</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1600652708870</updated>
+      <workItem from="1606529112298" duration="12716000" />
     </task>
     <task id="LOCAL-00004" summary="Initial Commit">
       <created>1601153718987</created>
@@ -1483,7 +1473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606539397564</updated>
     </task>
-    <option name="localTasksCounter" value="52" />
+    <task id="LOCAL-00052" summary="[003]Single Responsibility Principle">
+      <created>1606542908540</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1606542908540</updated>
+    </task>
+    <option name="localTasksCounter" value="53" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1509,7 +1506,8 @@
     <MESSAGE value="Singleton" />
     <MESSAGE value="Initial Corrections" />
     <MESSAGE value="Groovy Style Builder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Groovy Style Builder" />
+    <MESSAGE value="[003]Single Responsibility Principle" />
+    <option name="LAST_COMMIT_MESSAGE" value="[003]Single Responsibility Principle" />
   </component>
   <component name="WindowStateProjectService">
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606540209698">
@@ -1536,74 +1534,54 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="146" key="Github.UntrackedFilesDialog/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1599938737090" />
-    <state width="1865" height="330" key="GridCell.Tab.0.bottom" timestamp="1606542741514">
+    <state width="1865" height="387" key="GridCell.Tab.0.bottom" timestamp="1606543191806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028094" />
-    <state width="1865" height="330" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606542741514" />
-    <state width="1865" height="330" key="GridCell.Tab.0.center" timestamp="1606542741514">
+    <state width="1865" height="387" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606543191806" />
+    <state width="1865" height="387" key="GridCell.Tab.0.center" timestamp="1606543191806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028093" />
-    <state width="1865" height="330" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606542741514" />
-    <state width="1865" height="330" key="GridCell.Tab.0.left" timestamp="1606542741514">
+    <state width="1865" height="387" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606543191806" />
+    <state width="1865" height="387" key="GridCell.Tab.0.left" timestamp="1606543191806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028093" />
-    <state width="1865" height="330" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606542741514" />
-    <state width="1865" height="330" key="GridCell.Tab.0.right" timestamp="1606542741514">
+    <state width="1865" height="387" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606543191806" />
+    <state width="1865" height="387" key="GridCell.Tab.0.right" timestamp="1606543191806">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028094" />
-    <state width="1865" height="330" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606542741514" />
+    <state width="1865" height="387" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606543191806" />
+    <state width="1865" height="330" key="GridCell.Tab.1.bottom" timestamp="1606543158627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="330" key="GridCell.Tab.1.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606543158627" />
+    <state width="1865" height="330" key="GridCell.Tab.1.center" timestamp="1606543158626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="330" key="GridCell.Tab.1.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606543158626" />
+    <state width="1865" height="330" key="GridCell.Tab.1.left" timestamp="1606543158626">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="330" key="GridCell.Tab.1.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606543158626" />
+    <state width="1865" height="330" key="GridCell.Tab.1.right" timestamp="1606543158627">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1865" height="330" key="GridCell.Tab.1.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606543158627" />
     <state x="493" y="115" key="SettingsEditor" timestamp="1606534925849">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="493" y="115" key="SettingsEditor/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606534925849" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606539401938">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606542911974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1016" y="177" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601930610722" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606539401938" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606542911974" />
     <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602285467832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1602285467832" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/[003]Single Responsibility Principle.cpp</url>
-          <line>11</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/[003]Single Responsibility Principle.cpp</url>
-          <line>12</line>
-          <option name="timeStamp" value="3" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/[003]Single Responsibility Principle.cpp</url>
-          <line>13</line>
-          <option name="timeStamp" value="4" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/[003]Single Responsibility Principle.cpp</url>
-          <line>17</line>
-          <option name="timeStamp" value="7" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/[003]Single Responsibility Principle.cpp</url>
-          <line>18</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/[003]Single Responsibility Principle.cpp</url>
-          <line>19</line>
-          <option name="timeStamp" value="9" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

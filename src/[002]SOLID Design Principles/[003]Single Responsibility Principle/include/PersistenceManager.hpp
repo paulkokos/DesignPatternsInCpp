@@ -1,7 +1,3 @@
-//
-// Created by paulkokos on 11/28/2020.
-//
-
 #ifndef DESIGNPATTERNSINCPP_PERSISTENCEMANAGER_HPP
 #define DESIGNPATTERNSINCPP_PERSISTENCEMANAGER_HPP
 #include "Journal.hpp"
