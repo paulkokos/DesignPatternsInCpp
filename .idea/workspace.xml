@@ -167,8 +167,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[004]Open-Closed Principle">
-      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Filter.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Filter.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1131,14 +1130,7 @@
       <workItem from="1603511247410" duration="15737000" />
       <workItem from="1603835572729" duration="4551000" />
       <workItem from="1604930122856" duration="52000" />
-      <workItem from="1606529112298" duration="20160000" />
-    </task>
-    <task id="LOCAL-00006" summary="Builder Pattern">
-      <created>1601917711422</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1601917711422</updated>
+      <workItem from="1606529112298" duration="20948000" />
     </task>
     <task id="LOCAL-00007" summary="Builder Pattern">
       <created>1601930607501</created>
@@ -1476,7 +1468,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606574228493</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="[004]Open-Closed Principle">
+      <created>1606574701284</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1606574701284</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1571,11 +1570,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="493" y="115" key="SettingsEditor/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606534925849" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606543325901">
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606574705192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="-1016" y="177" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1601930610722" />
-    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606543325901" />
+    <state x="452" y="187" key="Vcs.Push.Dialog.v2/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606574705192" />
     <state x="728" y="412" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1602285467832">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
