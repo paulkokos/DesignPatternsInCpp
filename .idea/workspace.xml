@@ -25,11 +25,11 @@
       <config projectName="DesignPatternsInCpp" targetName="059Facade" />
       <config projectName="DesignPatternsInCpp" targetName="124ClassicVisitor" />
       <config projectName="DesignPatternsInCpp" targetName="128Summary" />
-      <config projectName="DesignPatternsInCpp" targetName="108Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="088IteratorsInTheStandardLibrary" />
       <config projectName="DesignPatternsInCpp" targetName="116StaticStrategy" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseCommandCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="022AbstractFactory" />
-      <config projectName="DesignPatternsInCpp" targetName="115DynamicStrategy" />
+      <config projectName="DesignPatternsInCpp" targetName="064TextFormating" />
       <config projectName="DesignPatternsInCpp" targetName="091BoostIteratorFacade" />
       <config projectName="DesignPatternsInCpp" targetName="011LifeWithoutBuilders" />
       <config projectName="DesignPatternsInCpp" targetName="095EventBroker" />
@@ -47,14 +47,12 @@
       <config projectName="DesignPatternsInCpp" targetName="067SmartPointers" />
       <config projectName="DesignPatternsInCpp" targetName="119TemplateMethod" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseAdapterCodingExercise" />
-      <config projectName="DesignPatternsInCpp" targetName="094ChatRoom" />
+      <config projectName="DesignPatternsInCpp" targetName="015BuilderFacets" />
       <config projectName="DesignPatternsInCpp" targetName="092Summary" />
       <config projectName="DesignPatternsInCpp" targetName="058Overview" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseChainofResponsibilityCoding" />
-      <config projectName="DesignPatternsInCpp" targetName="064TextFormating" />
       <config projectName="DesignPatternsInCpp" targetName="009GammaCategorization" />
       <config projectName="DesignPatternsInCpp" targetName="110ClassicStateImplementation" />
-      <config projectName="DesignPatternsInCpp" targetName="015BuilderFacets" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseSingletonCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseFactoryCoding" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseInterpeterCodingExercise" />
@@ -74,6 +72,7 @@
       <config projectName="DesignPatternsInCpp" targetName="102Overview" />
       <config projectName="DesignPatternsInCpp" targetName="104Observable" />
       <config projectName="DesignPatternsInCpp" targetName="003SingleResponsibilityPrinciple" />
+      <config projectName="DesignPatternsInCpp" targetName="108Summary" />
       <config projectName="DesignPatternsInCpp" targetName="044PimplIdiom" />
       <config projectName="DesignPatternsInCpp" targetName="034SingletoninDependencyInjection" />
       <config projectName="DesignPatternsInCpp" targetName="082Overview" />
@@ -83,7 +82,7 @@
       <config projectName="DesignPatternsInCpp" targetName="ExerciseCompositeCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseTemplateMethodExercise" />
       <config projectName="DesignPatternsInCpp" targetName="018PointExample" />
-      <config projectName="DesignPatternsInCpp" targetName="096Summary" />
+      <config projectName="DesignPatternsInCpp" targetName="115DynamicStrategy" />
       <config projectName="DesignPatternsInCpp" targetName="073Overview" />
       <config projectName="DesignPatternsInCpp" targetName="ExersiceVisitorCodingExersice" />
       <config projectName="DesignPatternsInCpp" targetName="090TreeIteratorwithCoroutines" />
@@ -118,6 +117,7 @@
       <config projectName="DesignPatternsInCpp" targetName="112StateMachineWithBoost.MSM" />
       <config projectName="DesignPatternsInCpp" targetName="014GroovyStyleBuilder" />
       <config projectName="DesignPatternsInCpp" targetName="068PropertyProxy" />
+      <config projectName="DesignPatternsInCpp" targetName="094ChatRoom" />
       <config projectName="DesignPatternsInCpp" targetName="051Array-backedProperties" />
       <config projectName="DesignPatternsInCpp" targetName="045ShrinkWrappedPimpl" />
       <config projectName="DesignPatternsInCpp" targetName="103Observer" />
@@ -127,7 +127,6 @@
       <config projectName="DesignPatternsInCpp" targetName="046BridgeImplementation" />
       <config projectName="DesignPatternsInCpp" targetName="114Overview" />
       <config projectName="DesignPatternsInCpp" targetName="050NeuralNetworks" />
-      <config projectName="DesignPatternsInCpp" targetName="039Overview" />
       <config projectName="DesignPatternsInCpp" targetName="077Overview" />
       <config projectName="DesignPatternsInCpp" targetName="020Factory" />
       <config projectName="DesignPatternsInCpp" targetName="083HandmadeInterpeter-Lexing" />
@@ -141,6 +140,7 @@
       <config projectName="DesignPatternsInCpp" targetName="021InnerFactory" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseStateCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="062HandmadeFlyweight" />
+      <config projectName="DesignPatternsInCpp" targetName="096Summary" />
       <config projectName="DesignPatternsInCpp" targetName="ExercisePrototypeCodingExercise.cpp" />
       <config projectName="DesignPatternsInCpp" targetName="125AcyclicVisitor" />
       <config projectName="DesignPatternsInCpp" targetName="087Overview" />
@@ -150,7 +150,7 @@
       <config projectName="DesignPatternsInCpp" targetName="033TestabilityIssues" />
       <config projectName="DesignPatternsInCpp" targetName="006InterfaceSegmentationPrinciple" />
       <config projectName="DesignPatternsInCpp" targetName="054DynamicDecorator" />
-      <config projectName="DesignPatternsInCpp" targetName="088IteratorsInTheStandardLibrary" />
+      <config projectName="DesignPatternsInCpp" targetName="039Overview" />
       <config projectName="DesignPatternsInCpp" targetName="056FunctionalDecorator" />
       <config projectName="DesignPatternsInCpp" targetName="120Summary" />
       <config projectName="DesignPatternsInCpp" targetName="075BrokerChain" />
@@ -167,13 +167,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[004]Open-Closed Principle">
-      <change afterPath="$PROJECT_DIR$/.idea/DesignPatternsInCpp.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/INSTALL.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -183,6 +180,7 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -227,12 +225,7 @@
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\Libraries\lib" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.004OpenClosedPrinciple">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="CMake Application.Build All">
     <configuration name="All Tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" nameIsGenerated="true" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="Google_Tests_run" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -835,6 +828,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ExerciseAdapterCodingExercise" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="ExerciseAdapterCodingExercise" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="ExerciseAdapterCodingExercise">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -940,6 +938,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="gmock" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -960,12 +963,8 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <list>
+      <item itemvalue="CMake Application.Build All" />
       <item itemvalue="CMake Application.003SingleResponsibilityPrinciple" />
       <item itemvalue="CMake Application.004OpenClosedPrinciple" />
       <item itemvalue="CMake Application.005LiskovSubstitutionPrinciple" />
@@ -1140,6 +1139,8 @@
       <workItem from="1606744216597" duration="11000" />
       <workItem from="1606744265310" duration="874000" />
       <workItem from="1606745179057" duration="35000" />
+      <workItem from="1606753560323" duration="917000" />
+      <workItem from="1606754631874" duration="75000" />
     </task>
     <task id="LOCAL-00007" summary="Builder Pattern">
       <created>1601930607501</created>
@@ -1515,10 +1516,11 @@
     <option name="LAST_COMMIT_MESSAGE" value="[004]Open-Closed Principle" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606540209698">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1690" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606754705774">
+      <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state x="410" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606540209698" />
+    <state x="1690" y="171" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.992/1280.0.1920.1080@1280.0.1920.1080" timestamp="1606754705774" />
     <state x="642" y="299" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603429317137">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
