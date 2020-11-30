@@ -1,7 +1,9 @@
-cmake_minimum_required(VERSION 3.17)
+cmake_minimum_required(VERSION 3.16)
 project(DesignPatternsInCpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
 add_subdirectory(src)
 #add_subdirectory(Google_tests)
+add_executable(main.cpp)
+
