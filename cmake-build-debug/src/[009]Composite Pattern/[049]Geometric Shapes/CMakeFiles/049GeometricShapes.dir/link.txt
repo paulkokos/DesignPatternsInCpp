@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/049GeometricShapes.dir/[049]Geometric_Shapes.cpp.o  -o 049GeometricShapes 

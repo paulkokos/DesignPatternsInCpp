@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[021]State Pattern/[112]State Machine With Boost.MSM/[112]State Machine With Boost.MSM.cpp
+iostream
+-
+

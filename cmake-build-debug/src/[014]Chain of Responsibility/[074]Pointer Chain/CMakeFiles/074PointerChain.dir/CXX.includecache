@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[014]Chain of Responsibility/[074]Pointer Chain/[074]Pointer Chain.cpp
+iostream
+-
+

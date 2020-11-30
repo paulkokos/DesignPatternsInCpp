@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[017]Iterator Pattern/[092]Summary/[092]Summary.cpp
+iostream
+-
+

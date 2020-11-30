@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[008]Bridge Pattern/[047]Summary/[047]Summary.cpp
+iostream
+-
+

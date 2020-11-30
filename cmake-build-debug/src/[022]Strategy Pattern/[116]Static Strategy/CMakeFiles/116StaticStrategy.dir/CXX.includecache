@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[022]Strategy Pattern/[116]Static Strategy/[116]Static Strategy.cpp
+iostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/050NeuralNetworks.dir/[050]Neural_Networks.cpp.o  -o 050NeuralNetworks 

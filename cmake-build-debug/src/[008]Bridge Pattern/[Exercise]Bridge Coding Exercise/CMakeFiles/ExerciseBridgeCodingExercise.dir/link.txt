@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ExerciseBridgeCodingExercise.dir/[Exercise]Bridge_Coding_Exercise.cpp.o  -o ExerciseBridgeCodingExercise 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/054DynamicDecorator.dir/[054]Dynamic_Decorator.cpp.o  -o 054DynamicDecorator 

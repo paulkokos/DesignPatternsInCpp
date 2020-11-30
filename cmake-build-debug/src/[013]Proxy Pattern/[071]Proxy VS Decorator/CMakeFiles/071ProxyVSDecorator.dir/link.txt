@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/071ProxyVSDecorator.dir/[071]Proxy_VS_Decorator.cpp.o  -o 071ProxyVSDecorator 

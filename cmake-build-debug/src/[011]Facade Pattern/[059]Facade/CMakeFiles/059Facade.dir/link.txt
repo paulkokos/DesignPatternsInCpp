@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/059Facade.dir/[059]Facade.cpp.o  -o 059Facade 

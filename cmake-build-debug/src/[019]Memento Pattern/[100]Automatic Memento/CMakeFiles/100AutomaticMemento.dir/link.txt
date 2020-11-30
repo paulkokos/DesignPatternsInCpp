@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/100AutomaticMemento.dir/[100]Automatic_Memento.cpp.o  -o 100AutomaticMemento 

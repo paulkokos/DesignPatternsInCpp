@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/078Command.dir/[078]Command.cpp.o  -o 078Command 

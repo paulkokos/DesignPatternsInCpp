@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/029PrototypeViaserialization.cpp.dir/[029]Prototype_Via_serialization.cpp.o  -o 029PrototypeViaserialization.cpp 

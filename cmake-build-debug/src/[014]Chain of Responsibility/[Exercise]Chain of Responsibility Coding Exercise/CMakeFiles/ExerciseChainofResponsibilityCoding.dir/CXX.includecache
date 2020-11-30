@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[014]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/[Exercise]Chain of Responsibility Coding Exercise.cpp
+iostream
+-
+

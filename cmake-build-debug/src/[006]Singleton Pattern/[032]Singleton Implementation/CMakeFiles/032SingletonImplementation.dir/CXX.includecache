@@ -1,0 +1,62 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[006]Singleton Pattern/[032]Singleton Implementation/Database.cpp
+Database.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[006]Singleton Pattern/[032]Singleton Implementation/Database.h
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[006]Singleton Pattern/[032]Singleton Implementation/Database.h
+iostream
+-
+fstream
+-
+string
+-
+map
+-
+boost/lexical_cast.hpp
+-
+vector
+-
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[006]Singleton Pattern/[032]Singleton Implementation/DummyDatabase.cpp
+DummyDatabase.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[006]Singleton Pattern/[032]Singleton Implementation/DummyDatabase.h
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[006]Singleton Pattern/[032]Singleton Implementation/DummyDatabase.h
+map
+-
+string
+-
+Database.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[006]Singleton Pattern/[032]Singleton Implementation/Database.h
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[006]Singleton Pattern/[032]Singleton Implementation/[32]Singleton Implementation.cpp
+iostream
+-
+cstdio
+-
+string
+-
+vector
+-
+fstream
+-
+tuple
+-
+sstream
+-
+memory
+-
+cmath
+-
+map
+-
+boost/lexical_cast.hpp
+-
+

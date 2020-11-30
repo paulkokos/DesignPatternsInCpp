@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ExerciseMediatorCodingExercise.dir/[Exercise]Mediator_Coding_Exercise.cpp.o  -o ExerciseMediatorCodingExercise 

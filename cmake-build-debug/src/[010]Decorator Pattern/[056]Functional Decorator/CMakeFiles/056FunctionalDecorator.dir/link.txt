@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/056FunctionalDecorator.dir/[056]Functional_Decorator.cpp.o  -o 056FunctionalDecorator 

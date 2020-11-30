@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/094ChatRoom.dir/[094]Chat_Room.cpp.o  -o 094ChatRoom 

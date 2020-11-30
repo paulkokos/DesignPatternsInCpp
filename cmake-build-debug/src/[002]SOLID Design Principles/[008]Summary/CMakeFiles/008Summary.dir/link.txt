@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/008Summary.dir/[008]Summary.cpp.o  -o 008Summary 

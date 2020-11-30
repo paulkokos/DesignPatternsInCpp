@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/098Memento.dir/[098]Memento.cpp.o  -o 098Memento 

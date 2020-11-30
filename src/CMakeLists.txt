@@ -21,4 +21,3 @@ add_subdirectory("[021]State Pattern")
 add_subdirectory("[022]Strategy Pattern")
 add_subdirectory("[023]Template Pattern")
 add_subdirectory("[024]Visitor Pattern")
-

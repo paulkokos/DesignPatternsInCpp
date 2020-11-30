@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/116StaticStrategy.dir/[116]Static_Strategy.cpp.o  -o 116StaticStrategy 

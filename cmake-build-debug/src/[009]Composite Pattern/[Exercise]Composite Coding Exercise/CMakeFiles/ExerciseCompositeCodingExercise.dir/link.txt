@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ExerciseCompositeCodingExercise.dir/[Exercise]Composite_Coding_Exercise.cpp.o  -o ExerciseCompositeCodingExercise 

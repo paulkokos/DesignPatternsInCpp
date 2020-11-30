@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/064TextFormating.dir/[64]Text_Formating.cpp.o  -o 064TextFormating 

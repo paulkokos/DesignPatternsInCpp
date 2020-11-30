@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/028PrototypeFactory.dir/[028]Prototype_Factory.cpp.o  -o 028PrototypeFactory 

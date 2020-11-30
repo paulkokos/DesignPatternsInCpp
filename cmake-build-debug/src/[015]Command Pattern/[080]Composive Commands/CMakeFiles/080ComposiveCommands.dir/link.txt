@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/080ComposiveCommands.dir/[080]Composive_Commands.cpp.o  -o 080ComposiveCommands 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/046BridgeImplementation.dir/[046]Bridge_Implementation.cpp.o  -o 046BridgeImplementation 

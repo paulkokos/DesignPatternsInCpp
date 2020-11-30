@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/099UndoandRedo.dir/[099]Undo_and_Redo.cpp.o  -o 099UndoandRedo 

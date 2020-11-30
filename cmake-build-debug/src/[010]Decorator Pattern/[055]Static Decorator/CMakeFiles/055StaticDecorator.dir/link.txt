@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/055StaticDecorator.dir/[055]Static_Decorator.cpp.o  -o 055StaticDecorator 

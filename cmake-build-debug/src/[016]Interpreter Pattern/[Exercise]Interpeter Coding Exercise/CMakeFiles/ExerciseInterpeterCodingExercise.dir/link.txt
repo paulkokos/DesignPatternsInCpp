@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ExerciseInterpeterCodingExercise.dir/[Exercise]Interpeter_Coding_Exercise.cpp.o  -o ExerciseInterpeterCodingExercise 

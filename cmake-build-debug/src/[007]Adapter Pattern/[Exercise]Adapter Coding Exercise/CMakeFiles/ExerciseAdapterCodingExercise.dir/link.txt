@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ExerciseAdapterCodingExercise.dir/[Exercise]Adapter_Coding_Exercise.cpp.o  -o ExerciseAdapterCodingExercise 

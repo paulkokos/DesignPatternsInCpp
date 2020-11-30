@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/047Summary.dir/[047]Summary.cpp.o  -o 047Summary 

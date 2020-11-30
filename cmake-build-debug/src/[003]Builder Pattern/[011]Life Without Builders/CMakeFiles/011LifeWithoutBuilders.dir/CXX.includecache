@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[011]Life Without Builders/[011]LifeWithoutBuilders.cpp
+iostream
+-
+cstdio
+-
+string
+-
+vector
+-
+fstream
+-
+tuple
+-
+sstream
+-
+memory
+-
+

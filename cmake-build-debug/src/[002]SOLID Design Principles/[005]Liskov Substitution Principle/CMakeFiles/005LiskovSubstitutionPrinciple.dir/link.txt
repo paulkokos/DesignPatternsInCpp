@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/005LiskovSubstitutionPrinciple.dir/[005]Liskov_Substitution_Principle.cpp.o  -o 005LiskovSubstitutionPrinciple 

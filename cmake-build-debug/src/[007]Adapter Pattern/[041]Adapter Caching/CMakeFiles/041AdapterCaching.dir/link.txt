@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/041AdapterCaching.dir/[041]Adapter_Caching.cpp.o  -o 041AdapterCaching 

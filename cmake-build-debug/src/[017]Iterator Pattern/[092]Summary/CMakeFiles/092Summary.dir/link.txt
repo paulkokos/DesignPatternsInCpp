@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/092Summary.dir/[092]Summary.cpp.o  -o 092Summary 

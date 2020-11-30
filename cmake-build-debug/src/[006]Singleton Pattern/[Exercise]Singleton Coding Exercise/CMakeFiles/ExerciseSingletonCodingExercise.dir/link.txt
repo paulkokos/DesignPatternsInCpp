@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ExerciseSingletonCodingExercise.dir/[Exercise]Singleton_Coding_Exercise.cpp.o  -o ExerciseSingletonCodingExercise 

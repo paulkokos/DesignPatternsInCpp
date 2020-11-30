@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/[003]Single Responsibility Principle.cpp
+iostream
+-
+include/Journal.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/Journal.hpp
+include/PersistenceManager.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/PersistenceManager.hpp
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/Journal.hpp
+string
+-
+vector
+-
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/PersistenceManager.hpp
+Journal.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/Journal.hpp
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/sources/Journal.cpp
+../include/Journal.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/Journal.hpp
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/sources/PersistenceManager.cpp
+../include/PersistenceManager.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/PersistenceManager.hpp
+string
+-
+fstream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/060Summary.dir/[060]Summary.cpp.o  -o 060Summary 

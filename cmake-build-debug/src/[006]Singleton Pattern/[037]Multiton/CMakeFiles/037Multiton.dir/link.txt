@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/037Multiton.dir/[37]Multiton.cpp.o  -o 037Multiton 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/019FactoryMethod.dir/[019]Factory_Method.cpp.o  -o 019FactoryMethod 

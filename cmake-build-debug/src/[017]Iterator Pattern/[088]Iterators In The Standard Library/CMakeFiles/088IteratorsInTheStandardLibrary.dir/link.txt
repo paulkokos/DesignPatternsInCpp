@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/088IteratorsInTheStandardLibrary.dir/[088]Iterators_In_The_Standard_Library.cpp.o  -o 088IteratorsInTheStandardLibrary 

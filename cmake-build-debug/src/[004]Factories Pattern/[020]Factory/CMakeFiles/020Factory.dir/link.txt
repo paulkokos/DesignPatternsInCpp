@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/020Factory.dir/[020]Factory.cpp.o  -o 020Factory 

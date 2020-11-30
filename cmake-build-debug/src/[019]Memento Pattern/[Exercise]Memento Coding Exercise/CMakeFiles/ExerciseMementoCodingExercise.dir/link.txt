@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ExerciseMementoCodingExercise.dir/[Exercise]Memento_Coding_Exercise.cpp.o  -o ExerciseMementoCodingExercise 

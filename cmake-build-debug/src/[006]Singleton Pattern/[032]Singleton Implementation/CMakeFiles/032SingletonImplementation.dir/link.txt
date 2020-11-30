@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/032SingletonImplementation.dir/[32]Singleton_Implementation.cpp.o CMakeFiles/032SingletonImplementation.dir/Database.cpp.o CMakeFiles/032SingletonImplementation.dir/DummyDatabase.cpp.o  -o 032SingletonImplementation 

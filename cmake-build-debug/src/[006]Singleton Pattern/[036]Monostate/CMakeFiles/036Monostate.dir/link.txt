@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/036Monostate.dir/[36]Monostate.cpp.o  -o 036Monostate 

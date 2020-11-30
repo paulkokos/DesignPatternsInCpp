@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/052Summary.cpp.dir/[052]Summary.cpp.o  -o 052Summary.cpp 

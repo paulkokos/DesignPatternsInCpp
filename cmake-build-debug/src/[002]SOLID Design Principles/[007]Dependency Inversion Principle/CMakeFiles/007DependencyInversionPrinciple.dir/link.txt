@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/007DependencyInversionPrinciple.dir/[007]Dependency_Inversion_Principle.cpp.o  -o 007DependencyInversionPrinciple 
