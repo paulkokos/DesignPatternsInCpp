@@ -25,8 +25,10 @@
       <config projectName="DesignPatternsInCpp" targetName="059Facade" />
       <config projectName="DesignPatternsInCpp" targetName="124ClassicVisitor" />
       <config projectName="DesignPatternsInCpp" targetName="128Summary" />
-      <config projectName="DesignPatternsInCpp" targetName="088IteratorsInTheStandardLibrary" />
+      <config projectName="DesignPatternsInCpp" targetName="108Summary" />
       <config projectName="DesignPatternsInCpp" targetName="116StaticStrategy" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseBridgeCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="123ReflectiveVisitor" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseCommandCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="022AbstractFactory" />
       <config projectName="DesignPatternsInCpp" targetName="064TextFormating" />
@@ -44,15 +46,17 @@
       <config projectName="DesignPatternsInCpp" targetName="070CommunicationProxy" />
       <config projectName="DesignPatternsInCpp" targetName="101Summary" />
       <config projectName="DesignPatternsInCpp" targetName="076Summary" />
-      <config projectName="DesignPatternsInCpp" targetName="067SmartPointers" />
+      <config projectName="DesignPatternsInCpp" targetName="120Summary" />
       <config projectName="DesignPatternsInCpp" targetName="119TemplateMethod" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseAdapterCodingExercise" />
-      <config projectName="DesignPatternsInCpp" targetName="015BuilderFacets" />
+      <config projectName="DesignPatternsInCpp" targetName="094ChatRoom" />
       <config projectName="DesignPatternsInCpp" targetName="092Summary" />
       <config projectName="DesignPatternsInCpp" targetName="058Overview" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseChainofResponsibilityCoding" />
+      <config projectName="DesignPatternsInCpp" targetName="088IteratorsInTheStandardLibrary" />
       <config projectName="DesignPatternsInCpp" targetName="009GammaCategorization" />
       <config projectName="DesignPatternsInCpp" targetName="110ClassicStateImplementation" />
+      <config projectName="DesignPatternsInCpp" targetName="015BuilderFacets" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseSingletonCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseFactoryCoding" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseInterpeterCodingExercise" />
@@ -60,11 +64,10 @@
       <config projectName="DesignPatternsInCpp" targetName="ExerciseMediatorCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="055StaticDecorator" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseStrategyCodingExercise" />
-      <config projectName="DesignPatternsInCpp" targetName="093Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="084HandmadeInterpeter-Parsing" />
       <config projectName="DesignPatternsInCpp" targetName="012Builder" />
       <config projectName="DesignPatternsInCpp" targetName="071ProxyVSDecorator" />
       <config projectName="DesignPatternsInCpp" targetName="040Vector-RasterDemo" />
-      <config projectName="DesignPatternsInCpp" targetName="ExerciseFlyweightCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="052Summary.cpp" />
       <config projectName="DesignPatternsInCpp" targetName="029PrototypeViaserialization.cpp" />
       <config projectName="DesignPatternsInCpp" targetName="043Overview" />
@@ -72,29 +75,30 @@
       <config projectName="DesignPatternsInCpp" targetName="102Overview" />
       <config projectName="DesignPatternsInCpp" targetName="104Observable" />
       <config projectName="DesignPatternsInCpp" targetName="003SingleResponsibilityPrinciple" />
-      <config projectName="DesignPatternsInCpp" targetName="108Summary" />
       <config projectName="DesignPatternsInCpp" targetName="044PimplIdiom" />
+      <config projectName="DesignPatternsInCpp" targetName="020Factory" />
       <config projectName="DesignPatternsInCpp" targetName="034SingletoninDependencyInjection" />
       <config projectName="DesignPatternsInCpp" targetName="082Overview" />
       <config projectName="DesignPatternsInCpp" targetName="079UndoOperations" />
-      <config projectName="DesignPatternsInCpp" targetName="ExerciseBridgeCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="080ComposiveCommands" />
+      <config projectName="DesignPatternsInCpp" targetName="013FluentBuilder" />
       <config projectName="DesignPatternsInCpp" targetName="026RecordKeeping" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseCompositeCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseTemplateMethodExercise" />
       <config projectName="DesignPatternsInCpp" targetName="018PointExample" />
-      <config projectName="DesignPatternsInCpp" targetName="115DynamicStrategy" />
+      <config projectName="DesignPatternsInCpp" targetName="096Summary" />
       <config projectName="DesignPatternsInCpp" targetName="073Overview" />
-      <config projectName="DesignPatternsInCpp" targetName="ExersiceVisitorCodingExersice" />
+      <config projectName="DesignPatternsInCpp" targetName="100AutomaticMemento" />
       <config projectName="DesignPatternsInCpp" targetName="090TreeIteratorwithCoroutines" />
-      <config projectName="DesignPatternsInCpp" targetName="060Summary" />
       <config projectName="DesignPatternsInCpp" targetName="074PointerChain" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseMementoCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="117Summary" />
       <config projectName="DesignPatternsInCpp" targetName="005LiskovSubstitutionPrinciple" />
       <config projectName="DesignPatternsInCpp" targetName="025Overview" />
+      <config projectName="DesignPatternsInCpp" targetName="093Overview" />
       <config projectName="DesignPatternsInCpp" targetName="085CodingParserswithBoost.Spirit" />
       <config projectName="DesignPatternsInCpp" targetName="105ObservablewithBoost.Signals" />
-      <config projectName="DesignPatternsInCpp" targetName="123ReflectiveVisitor" />
+      <config projectName="DesignPatternsInCpp" targetName="ExerciseFlyweightCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="111HandmadeStateMachine" />
       <config projectName="DesignPatternsInCpp" targetName="113Summary" />
       <config projectName="DesignPatternsInCpp" targetName="066Overview" />
@@ -109,15 +113,13 @@
       <config projectName="DesignPatternsInCpp" targetName="ExerciseIteratorCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="037Multiton" />
       <config projectName="DesignPatternsInCpp" targetName="065Summary" />
-      <config projectName="DesignPatternsInCpp" targetName="080ComposiveCommands" />
       <config projectName="DesignPatternsInCpp" targetName="019FactoryMethod" />
-      <config projectName="DesignPatternsInCpp" targetName="099UndoandRedo" />
+      <config projectName="DesignPatternsInCpp" targetName="112StateMachineWithBoost.MSM" />
+      <config projectName="DesignPatternsInCpp" targetName="067SmartPointers" />
       <config projectName="DesignPatternsInCpp" targetName="041AdapterCaching" />
       <config projectName="DesignPatternsInCpp" targetName="098Memento" />
-      <config projectName="DesignPatternsInCpp" targetName="112StateMachineWithBoost.MSM" />
       <config projectName="DesignPatternsInCpp" targetName="014GroovyStyleBuilder" />
       <config projectName="DesignPatternsInCpp" targetName="068PropertyProxy" />
-      <config projectName="DesignPatternsInCpp" targetName="094ChatRoom" />
       <config projectName="DesignPatternsInCpp" targetName="051Array-backedProperties" />
       <config projectName="DesignPatternsInCpp" targetName="045ShrinkWrappedPimpl" />
       <config projectName="DesignPatternsInCpp" targetName="103Observer" />
@@ -128,23 +130,23 @@
       <config projectName="DesignPatternsInCpp" targetName="114Overview" />
       <config projectName="DesignPatternsInCpp" targetName="050NeuralNetworks" />
       <config projectName="DesignPatternsInCpp" targetName="077Overview" />
-      <config projectName="DesignPatternsInCpp" targetName="020Factory" />
+      <config projectName="DesignPatternsInCpp" targetName="060Summary" />
       <config projectName="DesignPatternsInCpp" targetName="083HandmadeInterpeter-Lexing" />
-      <config projectName="DesignPatternsInCpp" targetName="100AutomaticMemento" />
+      <config projectName="DesignPatternsInCpp" targetName="115DynamicStrategy" />
       <config projectName="DesignPatternsInCpp" targetName="122IntrusiveVisitor" />
       <config projectName="DesignPatternsInCpp" targetName="049GeometricShapes" />
       <config projectName="DesignPatternsInCpp" targetName="032SingletonImplementation" />
-      <config projectName="DesignPatternsInCpp" targetName="084HandmadeInterpeter-Parsing" />
-      <config projectName="DesignPatternsInCpp" targetName="013FluentBuilder" />
+      <config projectName="DesignPatternsInCpp" targetName="ExersiceVisitorCodingExersice" />
+      <config projectName="DesignPatternsInCpp" targetName="048Overview" />
       <config projectName="DesignPatternsInCpp" targetName="069VirtualProxy" />
       <config projectName="DesignPatternsInCpp" targetName="021InnerFactory" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseStateCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="062HandmadeFlyweight" />
-      <config projectName="DesignPatternsInCpp" targetName="096Summary" />
       <config projectName="DesignPatternsInCpp" targetName="ExercisePrototypeCodingExercise.cpp" />
       <config projectName="DesignPatternsInCpp" targetName="125AcyclicVisitor" />
       <config projectName="DesignPatternsInCpp" targetName="087Overview" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseDecoratorCodingExercise" />
+      <config projectName="DesignPatternsInCpp" targetName="099UndoandRedo" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseBuilderCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="127Variantandstdvisit" />
       <config projectName="DesignPatternsInCpp" targetName="033TestabilityIssues" />
@@ -152,11 +154,9 @@
       <config projectName="DesignPatternsInCpp" targetName="054DynamicDecorator" />
       <config projectName="DesignPatternsInCpp" targetName="039Overview" />
       <config projectName="DesignPatternsInCpp" targetName="056FunctionalDecorator" />
-      <config projectName="DesignPatternsInCpp" targetName="120Summary" />
       <config projectName="DesignPatternsInCpp" targetName="075BrokerChain" />
       <config projectName="DesignPatternsInCpp" targetName="036Monostate" />
       <config projectName="DesignPatternsInCpp" targetName="028PrototypeFactory" />
-      <config projectName="DesignPatternsInCpp" targetName="048Overview" />
       <config projectName="DesignPatternsInCpp" targetName="109Overview" />
     </generated>
   </component>
@@ -167,10 +167,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[004]Open-Closed Principle">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/ProductFilter.hpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/ProductFilter.hpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[004]Open-Closed Principle/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[004]Open-Closed Principle/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -828,7 +827,7 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" CONFIG_NAME="Debug" EXPLICIT_BUILD_TARGET_NAME="all">
+    <configuration name="Build All" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="004OpenClosedPrinciple" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="004OpenClosedPrinciple">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -964,7 +963,6 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="CMake Application.Build All" />
       <item itemvalue="CMake Application.003SingleResponsibilityPrinciple" />
       <item itemvalue="CMake Application.004OpenClosedPrinciple" />
       <item itemvalue="CMake Application.005LiskovSubstitutionPrinciple" />
@@ -1083,6 +1081,7 @@
       <item itemvalue="CMake Application.126Multimethods" />
       <item itemvalue="CMake Application.127Variantandstdvisit" />
       <item itemvalue="CMake Application.128Summary" />
+      <item itemvalue="CMake Application.Build All" />
       <item itemvalue="CMake Application.ExerciseAdapterCodingExercise" />
       <item itemvalue="CMake Application.ExerciseBridgeCodingExercise" />
       <item itemvalue="CMake Application.ExerciseBuilderCodingExercise" />
@@ -1141,6 +1140,9 @@
       <workItem from="1606745179057" duration="35000" />
       <workItem from="1606753560323" duration="917000" />
       <workItem from="1606754631874" duration="75000" />
+      <workItem from="1606754869476" duration="688000" />
+      <workItem from="1606771828329" duration="9000" />
+      <workItem from="1606840934340" duration="3047000" />
     </task>
     <task id="LOCAL-00007" summary="Builder Pattern">
       <created>1601930607501</created>
@@ -1541,26 +1543,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="668" y="146" key="Github.UntrackedFilesDialog/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1599938737090" />
-    <state width="1865" height="208" key="GridCell.Tab.0.bottom" timestamp="1606574286758">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="934" height="274" key="GridCell.Tab.0.bottom" timestamp="1606841174914">
+      <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028094" />
     <state width="1865" height="208" key="GridCell.Tab.0.bottom/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606574286758" />
-    <state width="1865" height="208" key="GridCell.Tab.0.center" timestamp="1606574286758">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="934" height="274" key="GridCell.Tab.0.bottom/0.0.1280.992/1280.0.1920.1080@1280.0.1920.1080" timestamp="1606841174914" />
+    <state width="934" height="274" key="GridCell.Tab.0.center" timestamp="1606841174914">
+      <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028093" />
     <state width="1865" height="208" key="GridCell.Tab.0.center/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606574286758" />
-    <state width="1865" height="208" key="GridCell.Tab.0.left" timestamp="1606574286758">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="934" height="274" key="GridCell.Tab.0.center/0.0.1280.992/1280.0.1920.1080@1280.0.1920.1080" timestamp="1606841174914" />
+    <state width="934" height="274" key="GridCell.Tab.0.left" timestamp="1606841174913">
+      <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028093" />
     <state width="1865" height="208" key="GridCell.Tab.0.left/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606574286758" />
-    <state width="1865" height="208" key="GridCell.Tab.0.right" timestamp="1606574286758">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="934" height="274" key="GridCell.Tab.0.left/0.0.1280.992/1280.0.1920.1080@1280.0.1920.1080" timestamp="1606841174913" />
+    <state width="934" height="274" key="GridCell.Tab.0.right" timestamp="1606841174914">
+      <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state width="931" height="265" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@-1280.0.1280.984" timestamp="1602711028094" />
     <state width="1865" height="208" key="GridCell.Tab.0.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606574286758" />
+    <state width="934" height="274" key="GridCell.Tab.0.right/0.0.1280.992/1280.0.1920.1080@1280.0.1920.1080" timestamp="1606841174914" />
     <state width="1865" height="330" key="GridCell.Tab.1.bottom" timestamp="1606548075943">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -1577,11 +1583,11 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1865" height="330" key="GridCell.Tab.1.right/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606548075943" />
-    <state x="1773" y="119" key="SettingsEditor" timestamp="1606745213639">
+    <state x="1773" y="119" key="SettingsEditor" timestamp="1606841214173">
       <screen x="1280" y="0" width="1920" height="1080" />
     </state>
     <state x="493" y="115" key="SettingsEditor/-1280.0.1280.984/0.0.1920.1040@0.0.1920.1040" timestamp="1606534925849" />
-    <state x="1773" y="119" key="SettingsEditor/0.0.1280.992/1280.0.1920.1080@1280.0.1920.1080" timestamp="1606745213639" />
+    <state x="1773" y="119" key="SettingsEditor/0.0.1280.992/1280.0.1920.1080@1280.0.1920.1080" timestamp="1606841214173" />
     <state x="452" y="187" key="Vcs.Push.Dialog.v2" timestamp="1606574705192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

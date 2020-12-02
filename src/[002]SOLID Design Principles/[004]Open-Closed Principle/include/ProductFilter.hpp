@@ -8,9 +8,10 @@
 #include <vector>
 using std::vector;
 struct ProductFilter {
-    vector<Product*> by_color(vector<Product*> items, Color color);
-    vector<Product*> by_size(vector<Product*> items, Size size);
-    vector<Product*> by_size_and_color(vector<Product*> items, Size size, Color color);
+    static vector<Product*> by_color(vector<Product*> items, Color color);
+    //THIS IS NOT PRODUCTIVE
+    static vector<Product*> by_size(vector<Product*> items, Size size);
+    static vector<Product*> by_size_and_color(vector<Product*> items, Size size, Color color);
 };
 
 
