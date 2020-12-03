@@ -6,7 +6,7 @@
 #define DESIGNPATTERNSINCPP_SPECIFICATION_HPP
 
 
-template<typename T> class Specification {
+template<typename T> struct Specification {
     virtual bool isSatisfied(T* item) =0;
 };
 

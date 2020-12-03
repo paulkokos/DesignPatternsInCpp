@@ -6128,10 +6128,19 @@
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/[004]Open-Closed Principle.cpp">
 			<Option target="004OpenClosedPrinciple"/>
 		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/AndSpecification.hpp">
+			<Option target="004OpenClosedPrinciple"/>
+		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/BetterFilter.hpp">
 			<Option target="004OpenClosedPrinciple"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Color.hpp">
+			<Option target="004OpenClosedPrinciple"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/ColorSpecification.hpp">
+			<Option target="004OpenClosedPrinciple"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Filter.hpp">
 			<Option target="004OpenClosedPrinciple"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Product.hpp">
@@ -6143,10 +6152,25 @@
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Size.hpp">
 			<Option target="004OpenClosedPrinciple"/>
 		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/SizeSpecification.hpp">
+			<Option target="004OpenClosedPrinciple"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Specification.hpp">
+			<Option target="004OpenClosedPrinciple"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/AndSpecification.cpp">
+			<Option target="004OpenClosedPrinciple"/>
+		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/BetterFilter.cpp">
 			<Option target="004OpenClosedPrinciple"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/Color.cpp">
+			<Option target="004OpenClosedPrinciple"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/ColorSpecification.cpp">
+			<Option target="004OpenClosedPrinciple"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/Filter.cpp">
 			<Option target="004OpenClosedPrinciple"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/Product.cpp">
@@ -6156,6 +6180,12 @@
 			<Option target="004OpenClosedPrinciple"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/Size.cpp">
+			<Option target="004OpenClosedPrinciple"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/SizeSpecification.cpp">
+			<Option target="004OpenClosedPrinciple"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/Specification.cpp">
 			<Option target="004OpenClosedPrinciple"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/[005]Liskov Substitution Principle.cpp">

@@ -152,6 +152,33 @@ src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004Ope
 	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/[004]Open-Closed_Principle.cpp.s"
 .PHONY : [004]Open-Closed_Principle.cpp.s
 
+source/AndSpecification.o: source/AndSpecification.cpp.o
+
+.PHONY : source/AndSpecification.o
+
+# target to build an object file
+source/AndSpecification.cpp.o:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.o"
+.PHONY : source/AndSpecification.cpp.o
+
+source/AndSpecification.i: source/AndSpecification.cpp.i
+
+.PHONY : source/AndSpecification.i
+
+# target to preprocess a source file
+source/AndSpecification.cpp.i:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.i"
+.PHONY : source/AndSpecification.cpp.i
+
+source/AndSpecification.s: source/AndSpecification.cpp.s
+
+.PHONY : source/AndSpecification.s
+
+# target to generate assembly for a file
+source/AndSpecification.cpp.s:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.s"
+.PHONY : source/AndSpecification.cpp.s
+
 source/BetterFilter.o: source/BetterFilter.cpp.o
 
 .PHONY : source/BetterFilter.o
@@ -205,6 +232,60 @@ source/Color.s: source/Color.cpp.s
 source/Color.cpp.s:
 	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Color.cpp.s"
 .PHONY : source/Color.cpp.s
+
+source/ColorSpecification.o: source/ColorSpecification.cpp.o
+
+.PHONY : source/ColorSpecification.o
+
+# target to build an object file
+source/ColorSpecification.cpp.o:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.o"
+.PHONY : source/ColorSpecification.cpp.o
+
+source/ColorSpecification.i: source/ColorSpecification.cpp.i
+
+.PHONY : source/ColorSpecification.i
+
+# target to preprocess a source file
+source/ColorSpecification.cpp.i:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.i"
+.PHONY : source/ColorSpecification.cpp.i
+
+source/ColorSpecification.s: source/ColorSpecification.cpp.s
+
+.PHONY : source/ColorSpecification.s
+
+# target to generate assembly for a file
+source/ColorSpecification.cpp.s:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.s"
+.PHONY : source/ColorSpecification.cpp.s
+
+source/Filter.o: source/Filter.cpp.o
+
+.PHONY : source/Filter.o
+
+# target to build an object file
+source/Filter.cpp.o:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.o"
+.PHONY : source/Filter.cpp.o
+
+source/Filter.i: source/Filter.cpp.i
+
+.PHONY : source/Filter.i
+
+# target to preprocess a source file
+source/Filter.cpp.i:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.i"
+.PHONY : source/Filter.cpp.i
+
+source/Filter.s: source/Filter.cpp.s
+
+.PHONY : source/Filter.s
+
+# target to generate assembly for a file
+source/Filter.cpp.s:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.s"
+.PHONY : source/Filter.cpp.s
 
 source/Product.o: source/Product.cpp.o
 
@@ -287,6 +368,60 @@ source/Size.cpp.s:
 	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Size.cpp.s"
 .PHONY : source/Size.cpp.s
 
+source/SizeSpecification.o: source/SizeSpecification.cpp.o
+
+.PHONY : source/SizeSpecification.o
+
+# target to build an object file
+source/SizeSpecification.cpp.o:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.o"
+.PHONY : source/SizeSpecification.cpp.o
+
+source/SizeSpecification.i: source/SizeSpecification.cpp.i
+
+.PHONY : source/SizeSpecification.i
+
+# target to preprocess a source file
+source/SizeSpecification.cpp.i:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.i"
+.PHONY : source/SizeSpecification.cpp.i
+
+source/SizeSpecification.s: source/SizeSpecification.cpp.s
+
+.PHONY : source/SizeSpecification.s
+
+# target to generate assembly for a file
+source/SizeSpecification.cpp.s:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.s"
+.PHONY : source/SizeSpecification.cpp.s
+
+source/Specification.o: source/Specification.cpp.o
+
+.PHONY : source/Specification.o
+
+# target to build an object file
+source/Specification.cpp.o:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.o"
+.PHONY : source/Specification.cpp.o
+
+source/Specification.i: source/Specification.cpp.i
+
+.PHONY : source/Specification.i
+
+# target to preprocess a source file
+source/Specification.cpp.i:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.i"
+.PHONY : source/Specification.cpp.i
+
+source/Specification.s: source/Specification.cpp.s
+
+.PHONY : source/Specification.s
+
+# target to generate assembly for a file
+source/Specification.cpp.s:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.s"
+.PHONY : source/Specification.cpp.s
+
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -299,12 +434,21 @@ help:
 	@echo "... [004]Open-Closed_Principle.o"
 	@echo "... [004]Open-Closed_Principle.i"
 	@echo "... [004]Open-Closed_Principle.s"
+	@echo "... source/AndSpecification.o"
+	@echo "... source/AndSpecification.i"
+	@echo "... source/AndSpecification.s"
 	@echo "... source/BetterFilter.o"
 	@echo "... source/BetterFilter.i"
 	@echo "... source/BetterFilter.s"
 	@echo "... source/Color.o"
 	@echo "... source/Color.i"
 	@echo "... source/Color.s"
+	@echo "... source/ColorSpecification.o"
+	@echo "... source/ColorSpecification.i"
+	@echo "... source/ColorSpecification.s"
+	@echo "... source/Filter.o"
+	@echo "... source/Filter.i"
+	@echo "... source/Filter.s"
 	@echo "... source/Product.o"
 	@echo "... source/Product.i"
 	@echo "... source/Product.s"
@@ -314,6 +458,12 @@ help:
 	@echo "... source/Size.o"
 	@echo "... source/Size.i"
 	@echo "... source/Size.s"
+	@echo "... source/SizeSpecification.o"
+	@echo "... source/SizeSpecification.i"
+	@echo "... source/SizeSpecification.s"
+	@echo "... source/Specification.o"
+	@echo "... source/Specification.i"
+	@echo "... source/Specification.s"
 .PHONY : help
 
 

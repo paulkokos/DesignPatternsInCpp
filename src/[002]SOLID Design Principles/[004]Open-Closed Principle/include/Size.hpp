@@ -6,7 +6,7 @@
 #define DESIGNPATTERNSINCPP_SIZE_HPP
 
 
-enum class Size {
+enum struct Size {
     small,
     medium,
     large

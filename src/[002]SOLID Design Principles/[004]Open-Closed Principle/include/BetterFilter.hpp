@@ -12,7 +12,7 @@ using std::vector;
 using namespace std;
 struct BetterFilter :Filter<Product> {
     vector<Product *> filter(std::vector<Product*> items,Specification<Product>&spec)
-    override{}
+    override;
 };
 
 

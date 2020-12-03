@@ -135,6 +135,71 @@ src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004Ope
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/004OpenClosedPrinciple.dir/source/BetterFilter.cpp.s"
 	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/BetterFilter.cpp" -o CMakeFiles/004OpenClosedPrinciple.dir/source/BetterFilter.cpp.s
 
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.o: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/flags.make
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/Filter.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.o"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.o -c "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/Filter.cpp"
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.i"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/Filter.cpp" > CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.i
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.s"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/Filter.cpp" -o CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.s
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.o: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/flags.make
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/Specification.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.o"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.o -c "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/Specification.cpp"
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.i"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/Specification.cpp" > CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.i
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.s"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/Specification.cpp" -o CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.s
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.o: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/flags.make
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/ColorSpecification.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.o"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.o -c "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/ColorSpecification.cpp"
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.i"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/ColorSpecification.cpp" > CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.i
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.s"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/ColorSpecification.cpp" -o CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.s
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.o: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/flags.make
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/SizeSpecification.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.o"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.o -c "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/SizeSpecification.cpp"
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.i"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/SizeSpecification.cpp" > CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.i
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.s"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/SizeSpecification.cpp" -o CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.s
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.o: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/flags.make
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/AndSpecification.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_11) "Building CXX object src/[002]SOLID Design Principles/[004]Open-Closed Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.o"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.o -c "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/AndSpecification.cpp"
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.i"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/AndSpecification.cpp" > CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.i
+
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.s"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source/AndSpecification.cpp" -o CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.s
+
 # Object files for target 004OpenClosedPrinciple
 004OpenClosedPrinciple_OBJECTS = \
 "CMakeFiles/004OpenClosedPrinciple.dir/[004]Open-Closed_Principle.cpp.o" \
@@ -142,7 +207,12 @@ src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004Ope
 "CMakeFiles/004OpenClosedPrinciple.dir/source/Product.cpp.o" \
 "CMakeFiles/004OpenClosedPrinciple.dir/source/ProductFilter.cpp.o" \
 "CMakeFiles/004OpenClosedPrinciple.dir/source/Size.cpp.o" \
-"CMakeFiles/004OpenClosedPrinciple.dir/source/BetterFilter.cpp.o"
+"CMakeFiles/004OpenClosedPrinciple.dir/source/BetterFilter.cpp.o" \
+"CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.o" \
+"CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.o" \
+"CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.o" \
+"CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.o" \
+"CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.o"
 
 # External object files for target 004OpenClosedPrinciple
 004OpenClosedPrinciple_EXTERNAL_OBJECTS =
@@ -153,9 +223,14 @@ src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/004OpenClosedPrin
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/004OpenClosedPrinciple: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ProductFilter.cpp.o
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/004OpenClosedPrinciple: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Size.cpp.o
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/004OpenClosedPrinciple: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/BetterFilter.cpp.o
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/004OpenClosedPrinciple: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.o
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/004OpenClosedPrinciple: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.o
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/004OpenClosedPrinciple: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.o
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/004OpenClosedPrinciple: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.o
+src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/004OpenClosedPrinciple: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/AndSpecification.cpp.o
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/004OpenClosedPrinciple: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/build.make
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/004OpenClosedPrinciple: src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Linking CXX executable 004OpenClosedPrinciple"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_12) "Linking CXX executable 004OpenClosedPrinciple"
 	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[004]Open-Closed Principle" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/004OpenClosedPrinciple.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -6,7 +6,7 @@
 #define DESIGNPATTERNSINCPP_COLOR_HPP
 
 
-enum class Color {
+enum struct Color {
     red,
     green,
     blue
