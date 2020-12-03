@@ -13,16 +13,8 @@
 struct SizeSpecification : Specification<Product>
 {
     Size size;
-
-    explicit SizeSpecification(const Size size)
-            : size{ size }
-    {
-    }
-
-
-    bool is_satisfied(Product* item) const override {
-        return item->size == size;
-    }
+    explicit SizeSpecification(const Size size);
+    bool is_satisfied(Product* item) const override;
 };
 
 

@@ -3,3 +3,6 @@
 //
 
 #include "../include/ColorSpecification.hpp"
+bool ColorSpecification::is_satisfied(Product *item) const {
+return item->color == color;
+}

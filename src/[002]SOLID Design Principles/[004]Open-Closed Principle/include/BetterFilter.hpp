@@ -11,14 +11,8 @@
 struct BetterFilter : Filter<Product>
 {
     vector<Product*> filter(vector<Product*> items,
-                            Specification<Product> &spec) override
-    {
-        vector<Product*> result;
-        for (auto& p : items)
-            if (spec.is_satisfied(p))
-                result.push_back(p);
-        return result;
-    }
+                            Specification<Product> &spec) override;
+
 };
 
 

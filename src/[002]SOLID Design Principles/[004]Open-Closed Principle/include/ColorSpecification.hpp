@@ -13,9 +13,7 @@ struct ColorSpecification : Specification<Product>
 
     ColorSpecification(Color color) : color(color) {}
 
-    bool is_satisfied(Product *item) const override {
-        return item->color == color;
-    }
+    bool is_satisfied(Product *item) const override;
 };
 
 

@@ -6,7 +6,75 @@
 
 #IncludeRegexTransform: 
 
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/[004]Open-Closed Principle.cpp
+string
+-
+vector
+-
+iostream
+-
+include/Color.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Color.hpp
+include/Size.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Size.hpp
+include/Product.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Product.hpp
+include/Filter.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Filter.hpp
+include/AndSpecification.hpp
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/AndSpecification.hpp
+include/Specification.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Specification.hpp
+include/BetterFilter.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/BetterFilter.hpp
+include/ColorSpecification.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/ColorSpecification.hpp
+include/SizeSpecification.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/SizeSpecification.hpp
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/AndSpecification.hpp
+Specification.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Specification.hpp
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/BetterFilter.hpp
+Filter.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Filter.hpp
+Product.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Product.hpp
+vector
+-
+iostream
+-
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Color.hpp
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/ColorSpecification.hpp
+Specification.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Specification.hpp
+Product.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Product.hpp
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Filter.hpp
+Specification.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Specification.hpp
+vector
+-
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Product.hpp
+Color.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Color.hpp
+Size.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Size.hpp
+string
+-
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Size.hpp
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/SizeSpecification.hpp
+Size.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Size.hpp
+Product.hpp
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Product.hpp
 Specification.hpp
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/include/Specification.hpp
 
