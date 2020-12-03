@@ -7,11 +7,36 @@
 #include "Product.hpp"
 #include <vector>
 using std::vector;
-struct ProductFilter {
-    static vector<Product*> by_color(vector<Product*> items, Color color);
-    //THIS IS NOT PRODUCTIVE
-    static vector<Product*> by_size(vector<Product*> items, Size size);
-    static vector<Product*> by_size_and_color(vector<Product*> items, Size size, Color color);
+struct ProductFilter
+{
+    typedef vector<Product*> Items;
+
+    Items by_color(Items items, const Color color);
+//    {
+//        Items result;
+//        for (auto& i : items)
+//            if (i->color == color)
+//                result.push_back(i);
+//        return result;
+//    }
+
+    Items by_size(Items items, const Size size);
+//    {
+//        Items result;
+//        for (auto& i : items)
+//            if (i->size == size)
+//                result.push_back(i);
+//        return result;
+//    }
+
+    Items by_size_and_color(Items items, const Size size, const Color color);
+//    {
+//        Items result;
+//        for (auto& i : items)
+//            if (i->size == size && i->color == color)
+//                result.push_back(i);
+//        return result;
+//    }
 };
 
 

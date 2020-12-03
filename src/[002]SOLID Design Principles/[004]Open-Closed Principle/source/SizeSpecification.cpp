@@ -3,7 +3,3 @@
 //
 
 #include "../include/SizeSpecification.hpp"
-
-bool SizeSpecification::isSatisfied(Product* item) {
-    return item->size ==size;
-}

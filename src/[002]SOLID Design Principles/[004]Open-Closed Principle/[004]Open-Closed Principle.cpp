@@ -1,52 +1,78 @@
-#include <iostream>
-#include <cstdio>
+// open closed principle
+
+// open for extension, closed for modification
+
 #include <string>
 #include <vector>
-#include <fstream>
-#include <boost/lexical_cast.hpp>
+#include <iostream>
+#include "include/Color.hpp"
+#include "include/Size.hpp"
 #include "include/Product.hpp"
-#include "include/ProductFilter.hpp"
+#include "include/Filter.hpp"
+#include "include/AndSpecification.hpp"
+#include "include/Specification.hpp"
 #include "include/BetterFilter.hpp"
 #include "include/ColorSpecification.hpp"
 #include "include/SizeSpecification.hpp"
-#include "include/AndSpecification.hpp"
-#include "include/Specification.hpp"
 
 
 using namespace std;
-using namespace boost;
 
-int main() {
-    Product apple {"Apple",Color::green,Size::small};
-    Product tree {"tree",Color::green,Size::large};
-    Product house {"house",Color::blue,Size::large};
 
-    vector<Product*> items {&apple, &tree, &house};
-/*
 
- WRONG METHOD. IT DOES NOT SCALE !!!
 
-    ProductFilter pf;
-    auto green_things = pf.by_color(items,Color::green);
 
-    for (auto &i : green_things) {
-        std::cout << i->name << " is green\n";
-    }
-*/
+//template <typename T> struct AndSpecification;
+
+
+
+// new:
+template <typename T> AndSpecification<T> operator&&
+        (const Specification<T>& first, const Specification<T>& second)
+{
+    return { first, second };
+}
+
+
+
+
+
+
+
+
+
+
+// new:
+
+int main()
+{
+    Product apple{"Apple", Color::green, Size::small};
+    Product tree{"Tree", Color::green, Size::large};
+    Product house{"House", Color::blue, Size::large};
+
+    const vector<Product*> all { &apple, &tree, &house };
+
     BetterFilter bf;
     ColorSpecification green(Color::green);
-    for(auto& item : bf.filter(items,green)) {
-        cout << item->name << " is green\n";
-    }
+    auto green_things = bf.filter(all, green);
+    for (auto& x : green_things)
+        cout << x->name << " is green\n";
+
 
     SizeSpecification large(Size::large);
-    AndSpecification<Product> greenAndLarge(green,large);
+    AndSpecification<Product> green_and_large(green, large);
 
-    for (auto& item: bf.filter(items,greenAndLarge)) {
-        cout << item->name << "is green and large\n";
-    }
+    //auto big_green_things = bf.filter(all, green_and_large);
 
-    cin.get();
+    // use the operator instead (same for || etc.)
+    auto spec = green && large;
+    for (auto& x : bf.filter(all, spec))
+        cout << x->name << " is green and large\n";
+
+    // warning: the following will compile but will NOT work
+    // auto spec2 = SizeSpecification{Size::large} &&
+    //              ColorSpecification{Color::blue};
+
+    getchar();
     return 0;
-
 }

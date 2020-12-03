@@ -8,7 +8,6 @@ src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004Ope
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/[004]Open-Closed_Principle.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/ColorSpecification.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/[004]Open-Closed_Principle.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Filter.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/[004]Open-Closed_Principle.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Product.hpp
-src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/[004]Open-Closed_Principle.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/ProductFilter.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/[004]Open-Closed_Principle.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Size.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/[004]Open-Closed_Principle.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/SizeSpecification.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/[004]Open-Closed_Principle.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Specification.hpp
@@ -25,9 +24,6 @@ src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004Ope
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/BetterFilter.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Specification.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/BetterFilter.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/BetterFilter.cpp
 
-src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Color.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Color.hpp
-src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Color.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/Color.cpp
-
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Color.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/ColorSpecification.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ColorSpecification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Product.hpp
@@ -39,19 +35,11 @@ src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004Ope
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Specification.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Filter.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/Filter.cpp
 
-src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Product.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Color.hpp
-src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Product.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Product.hpp
-src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Product.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Size.hpp
-src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Product.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/Product.cpp
-
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ProductFilter.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Color.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ProductFilter.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Product.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ProductFilter.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/ProductFilter.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ProductFilter.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Size.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/ProductFilter.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/ProductFilter.cpp
-
-src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Size.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Size.hpp
-src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Size.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/Size.cpp
 
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Color.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Product.hpp
@@ -59,7 +47,4 @@ src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004Ope
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/SizeSpecification.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Specification.hpp
 src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/SizeSpecification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/SizeSpecification.cpp
-
-src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/include/Specification.hpp
-src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/CMakeFiles/004OpenClosedPrinciple.dir/source/Specification.cpp.o: ../src/[002]SOLID\ Design\ Principles/[004]Open-Closed\ Principle/source/Specification.cpp
 

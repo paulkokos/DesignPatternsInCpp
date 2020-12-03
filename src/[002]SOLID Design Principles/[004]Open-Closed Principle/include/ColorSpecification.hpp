@@ -7,12 +7,19 @@
 
 #include "Specification.hpp"
 #include "Product.hpp"
-struct ColorSpecification : Specification<Product> {
+struct ColorSpecification : Specification<Product>
+{
     Color color;
 
-    ColorSpecification(Color color) : color(color){}
-    bool isSatisfied(Product * item) override;
+    ColorSpecification(Color color) : color(color) {}
+
+    bool is_satisfied(Product *item) const override {
+        return item->color == color;
+    }
 };
+
+
+
 
 
 #endif //DESIGNPATTERNSINCPP_COLORSPECIFICATION_HPP

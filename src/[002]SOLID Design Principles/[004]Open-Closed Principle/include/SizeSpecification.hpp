@@ -10,10 +10,19 @@
 #include "Product.hpp"
 #include "Specification.hpp"
 
-struct SizeSpecification :Specification<Product>{
+struct SizeSpecification : Specification<Product>
+{
     Size size;
-    explicit SizeSpecification(const Size size): size{size}{}
-    bool isSatisfied(Product* item) override;
+
+    explicit SizeSpecification(const Size size)
+            : size{ size }
+    {
+    }
+
+
+    bool is_satisfied(Product* item) const override {
+        return item->size == size;
+    }
 };
 
 
