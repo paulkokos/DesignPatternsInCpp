@@ -18,32 +18,11 @@
 
 using namespace std;
 
-
-
-
-
-//template <typename T> struct AndSpecification;
-
-
-
-// new:
 template <typename T> AndSpecification<T> operator&&
         (const Specification<T>& first, const Specification<T>& second)
 {
     return { first, second };
 }
-
-
-
-
-
-
-
-
-
-
-// new:
-
 int main()
 {
     Product apple{"Apple", Color::green, Size::small};
