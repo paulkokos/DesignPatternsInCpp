@@ -52,6 +52,6 @@ int main()
     // auto spec2 = SizeSpecification{Size::large} &&
     //              ColorSpecification{Color::blue};
 
-    getchar();
+    cin.get();
     return 0;
 }
