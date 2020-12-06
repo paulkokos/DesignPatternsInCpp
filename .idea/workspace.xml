@@ -166,8 +166,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[005]Liskov Substitution Principle">
-      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/[005]Liskov Substitution Principle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/[005]Liskov Substitution Principle.cpp" afterDir="false" />
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[007]Dependency Inversion Principle">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -1150,28 +1151,7 @@
       <workItem from="1606945390112" duration="619000" />
       <workItem from="1606986651082" duration="529000" />
       <workItem from="1607007125858" duration="21837000" />
-      <workItem from="1607034991511" duration="10370000" />
-    </task>
-    <task id="LOCAL-00015" summary="Initial Commit corrections">
-      <created>1602191310686</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1602191310686</updated>
-    </task>
-    <task id="LOCAL-00016" summary="Initial Commit corrections">
-      <created>1602191530599</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1602191530599</updated>
-    </task>
-    <task id="LOCAL-00017" summary="Initial Commit corrections">
-      <created>1602191761867</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1602191761867</updated>
+      <workItem from="1607034991511" duration="11351000" />
     </task>
     <task id="LOCAL-00018" summary="Initial Commit corrections">
       <created>1602193320821</created>
@@ -1495,7 +1475,28 @@
       <option name="project" value="LOCAL" />
       <updated>1607290379822</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="[005]Liskov Substitution Principle">
+      <created>1607290474755</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1607290474755</updated>
+    </task>
+    <task id="LOCAL-00065" summary="[006]Interface Segmentation Principle">
+      <created>1607290500911</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1607290500911</updated>
+    </task>
+    <task id="LOCAL-00066" summary="[007]Dependency Inversion Principle">
+      <created>1607290560748</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1607290560748</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1524,6 +1525,8 @@
     <MESSAGE value="[003]Single Responsibility Principle" />
     <MESSAGE value="[004]Open-Closed Principle" />
     <MESSAGE value="[005]Liskov Substitution Principle" />
-    <option name="LAST_COMMIT_MESSAGE" value="[005]Liskov Substitution Principle" />
+    <MESSAGE value="[006]Interface Segmentation Principle" />
+    <MESSAGE value="[007]Dependency Inversion Principle" />
+    <option name="LAST_COMMIT_MESSAGE" value="[007]Dependency Inversion Principle" />
   </component>
 </project>
