@@ -1,6 +1,7 @@
 #include <vector>
 struct Document;
 
+
 //struct IMachine
 //{
 //  virtual void print(Document& doc) = 0;
