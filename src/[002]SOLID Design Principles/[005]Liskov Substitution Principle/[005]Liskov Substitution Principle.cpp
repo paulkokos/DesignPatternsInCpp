@@ -28,6 +28,7 @@ public:
     }
 };
 
+
 struct RectangleFactory
 {
     static Rectangle create_rectangle(int w, int h);
