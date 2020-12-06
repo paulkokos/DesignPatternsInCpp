@@ -166,9 +166,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[004]Open-Closed Principle">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[004]Open-Closed Principle/[004]Open-Closed Principle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[004]Open-Closed Principle/[004]Open-Closed Principle.cpp" afterDir="false" />
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[005]Liskov Substitution Principle">
       <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/[005]Liskov Substitution Principle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/[005]Liskov Substitution Principle.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -1152,21 +1150,7 @@
       <workItem from="1606945390112" duration="619000" />
       <workItem from="1606986651082" duration="529000" />
       <workItem from="1607007125858" duration="21837000" />
-      <workItem from="1607034991511" duration="9971000" />
-    </task>
-    <task id="LOCAL-00013" summary="Initial Commit corrections">
-      <created>1602190760446</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1602190760446</updated>
-    </task>
-    <task id="LOCAL-00014" summary="Initial Commit corrections">
-      <created>1602190802592</created>
-      <option name="number" value="00014" />
-      <option name="presentableId" value="LOCAL-00014" />
-      <option name="project" value="LOCAL" />
-      <updated>1602190802593</updated>
+      <workItem from="1607034991511" duration="10370000" />
     </task>
     <task id="LOCAL-00015" summary="Initial Commit corrections">
       <created>1602191310686</created>
@@ -1497,7 +1481,21 @@
       <option name="project" value="LOCAL" />
       <updated>1607032905369</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="[005]Liskov Substitution Principle">
+      <created>1607290226065</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1607290226065</updated>
+    </task>
+    <task id="LOCAL-00063" summary="[005]Liskov Substitution Principle">
+      <created>1607290379822</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1607290379822</updated>
+    </task>
+    <option name="localTasksCounter" value="64" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1525,6 +1523,7 @@
     <MESSAGE value="Groovy Style Builder" />
     <MESSAGE value="[003]Single Responsibility Principle" />
     <MESSAGE value="[004]Open-Closed Principle" />
-    <option name="LAST_COMMIT_MESSAGE" value="[004]Open-Closed Principle" />
+    <MESSAGE value="[005]Liskov Substitution Principle" />
+    <option name="LAST_COMMIT_MESSAGE" value="[005]Liskov Substitution Principle" />
   </component>
 </project>
