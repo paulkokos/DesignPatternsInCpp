@@ -166,9 +166,8 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[007]Dependency Inversion Principle">
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="SOLID principles corrections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -937,11 +936,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="gmock" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1151,14 +1145,7 @@
       <workItem from="1606945390112" duration="619000" />
       <workItem from="1606986651082" duration="529000" />
       <workItem from="1607007125858" duration="21837000" />
-      <workItem from="1607034991511" duration="11351000" />
-    </task>
-    <task id="LOCAL-00018" summary="Initial Commit corrections">
-      <created>1602193320821</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1602193320821</updated>
+      <workItem from="1607034991511" duration="17672000" />
     </task>
     <task id="LOCAL-00019" summary="Initial Commit corrections">
       <created>1602193511894</created>
@@ -1496,7 +1483,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607290560748</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="SOLID principles corrections">
+      <created>1607291647398</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1607291647398</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1527,6 +1521,7 @@
     <MESSAGE value="[005]Liskov Substitution Principle" />
     <MESSAGE value="[006]Interface Segmentation Principle" />
     <MESSAGE value="[007]Dependency Inversion Principle" />
-    <option name="LAST_COMMIT_MESSAGE" value="[007]Dependency Inversion Principle" />
+    <MESSAGE value="SOLID principles corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="SOLID principles corrections" />
   </component>
 </project>
