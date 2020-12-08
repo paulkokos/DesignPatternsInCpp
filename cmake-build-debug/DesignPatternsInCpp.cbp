@@ -6203,6 +6203,24 @@
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[014]Groovy-Style Builder/[014]GroovyStyleBuilder.cpp">
 			<Option target="014GroovyStyleBuilder"/>
 		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/Person.cpp">
+			<Option target="015BuilderFacets"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/Person.h">
+			<Option target="015BuilderFacets"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonAddressBuilder.h">
+			<Option target="015BuilderFacets"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonBuilder.cpp">
+			<Option target="015BuilderFacets"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonBuilder.h">
+			<Option target="015BuilderFacets"/>
+		</Unit>
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonJobBuilder.h">
+			<Option target="015BuilderFacets"/>
+		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/[015]BuilderFacets.cpp">
 			<Option target="015BuilderFacets"/>
 		</Unit>

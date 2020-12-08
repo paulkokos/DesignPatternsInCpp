@@ -125,6 +125,60 @@ src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/r
 	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/build.make" "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/build"
 .PHONY : 015BuilderFacets/fast
 
+Person.o: Person.cpp.o
+
+.PHONY : Person.o
+
+# target to build an object file
+Person.cpp.o:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/build.make" "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/Person.cpp.o"
+.PHONY : Person.cpp.o
+
+Person.i: Person.cpp.i
+
+.PHONY : Person.i
+
+# target to preprocess a source file
+Person.cpp.i:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/build.make" "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/Person.cpp.i"
+.PHONY : Person.cpp.i
+
+Person.s: Person.cpp.s
+
+.PHONY : Person.s
+
+# target to generate assembly for a file
+Person.cpp.s:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/build.make" "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/Person.cpp.s"
+.PHONY : Person.cpp.s
+
+PersonBuilder.o: PersonBuilder.cpp.o
+
+.PHONY : PersonBuilder.o
+
+# target to build an object file
+PersonBuilder.cpp.o:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/build.make" "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.o"
+.PHONY : PersonBuilder.cpp.o
+
+PersonBuilder.i: PersonBuilder.cpp.i
+
+.PHONY : PersonBuilder.i
+
+# target to preprocess a source file
+PersonBuilder.cpp.i:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/build.make" "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.i"
+.PHONY : PersonBuilder.cpp.i
+
+PersonBuilder.s: PersonBuilder.cpp.s
+
+.PHONY : PersonBuilder.s
+
+# target to generate assembly for a file
+PersonBuilder.cpp.s:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/build.make" "src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.s"
+.PHONY : PersonBuilder.cpp.s
+
 [015]BuilderFacets.o: [015]BuilderFacets.cpp.o
 
 .PHONY : [015]BuilderFacets.o
@@ -161,6 +215,12 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... 015BuilderFacets"
+	@echo "... Person.o"
+	@echo "... Person.i"
+	@echo "... Person.s"
+	@echo "... PersonBuilder.o"
+	@echo "... PersonBuilder.i"
+	@echo "... PersonBuilder.s"
 	@echo "... [015]BuilderFacets.o"
 	@echo "... [015]BuilderFacets.i"
 	@echo "... [015]BuilderFacets.s"

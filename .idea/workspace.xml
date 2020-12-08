@@ -166,8 +166,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="SOLID principles corrections">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Builder Pattern">
+      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets/Facets.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets/[015]BuilderFacets.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets/[015]BuilderFacets.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -216,14 +218,19 @@
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[12]Flyweight Pattern\[63]Boost.Flyweight" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets" />
       <recent name="$PROJECT_DIR$/src/[002]SOLID Design Principles/[004]Open-Closed Principle/source" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[002]SOLID Design Principles\[004]Open-Closed Principle\include" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[002]SOLID Design Principles\[004]Open-Closed Principle\source" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[002]SOLID Design Principles\[003]Single Responsibility Principle\include" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[002]SOLID Design Principles\[003]Single Responsibility Principle\sources" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.005LiskovSubstitutionPrinciple">
+  <component name="RunManager" selected="CMake Application.015BuilderFacets">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All Tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="Google_Tests_run" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1146,13 +1153,7 @@
       <workItem from="1606986651082" duration="529000" />
       <workItem from="1607007125858" duration="21837000" />
       <workItem from="1607034991511" duration="17672000" />
-    </task>
-    <task id="LOCAL-00019" summary="Initial Commit corrections">
-      <created>1602193511894</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1602193511894</updated>
+      <workItem from="1607463911924" duration="390000" />
     </task>
     <task id="LOCAL-00020" summary="Initial Commit corrections">
       <created>1602193731333</created>
@@ -1490,7 +1491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607291647398</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Builder Pattern">
+      <created>1607464184524</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1607464184524</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1510,7 +1518,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial Commit" />
-    <MESSAGE value="Builder Pattern" />
     <MESSAGE value="Initial Commit corrections" />
     <MESSAGE value="Tests success" />
     <MESSAGE value="Singleton" />
@@ -1522,6 +1529,7 @@
     <MESSAGE value="[006]Interface Segmentation Principle" />
     <MESSAGE value="[007]Dependency Inversion Principle" />
     <MESSAGE value="SOLID principles corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="SOLID principles corrections" />
+    <MESSAGE value="Builder Pattern" />
+    <option name="LAST_COMMIT_MESSAGE" value="Builder Pattern" />
   </component>
 </project>

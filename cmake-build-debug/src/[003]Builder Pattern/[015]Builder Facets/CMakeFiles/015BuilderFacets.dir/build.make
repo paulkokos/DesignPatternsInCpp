@@ -70,17 +70,47 @@ src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/[
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/015BuilderFacets.dir/[015]BuilderFacets.cpp.s"
 	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/[015]BuilderFacets.cpp" -o CMakeFiles/015BuilderFacets.dir/[015]BuilderFacets.cpp.s
 
+src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/Person.cpp.o: src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/flags.make
+src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/Person.cpp.o: ../src/[003]Builder\ Pattern/[015]Builder\ Facets/Person.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/Person.cpp.o"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/015BuilderFacets.dir/Person.cpp.o -c "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/Person.cpp"
+
+src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/Person.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/015BuilderFacets.dir/Person.cpp.i"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/Person.cpp" > CMakeFiles/015BuilderFacets.dir/Person.cpp.i
+
+src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/Person.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/015BuilderFacets.dir/Person.cpp.s"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/Person.cpp" -o CMakeFiles/015BuilderFacets.dir/Person.cpp.s
+
+src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.o: src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/flags.make
+src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.o: ../src/[003]Builder\ Pattern/[015]Builder\ Facets/PersonBuilder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.o"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets" && /usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.o -c "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonBuilder.cpp"
+
+src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.i"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonBuilder.cpp" > CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.i
+
+src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.s"
+	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets" && /usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonBuilder.cpp" -o CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.s
+
 # Object files for target 015BuilderFacets
 015BuilderFacets_OBJECTS = \
-"CMakeFiles/015BuilderFacets.dir/[015]BuilderFacets.cpp.o"
+"CMakeFiles/015BuilderFacets.dir/[015]BuilderFacets.cpp.o" \
+"CMakeFiles/015BuilderFacets.dir/Person.cpp.o" \
+"CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.o"
 
 # External object files for target 015BuilderFacets
 015BuilderFacets_EXTERNAL_OBJECTS =
 
 src/[003]Builder\ Pattern/[015]Builder\ Facets/015BuilderFacets: src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/[015]BuilderFacets.cpp.o
+src/[003]Builder\ Pattern/[015]Builder\ Facets/015BuilderFacets: src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/Person.cpp.o
+src/[003]Builder\ Pattern/[015]Builder\ Facets/015BuilderFacets: src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/PersonBuilder.cpp.o
 src/[003]Builder\ Pattern/[015]Builder\ Facets/015BuilderFacets: src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/build.make
 src/[003]Builder\ Pattern/[015]Builder\ Facets/015BuilderFacets: src/[003]Builder\ Pattern/[015]Builder\ Facets/CMakeFiles/015BuilderFacets.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Linking CXX executable 015BuilderFacets"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable 015BuilderFacets"
 	cd "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets" && $(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/015BuilderFacets.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.

@@ -3794,12 +3794,12 @@ src/[003]Builder\ Pattern/[Exercise]Builder\ Coding\ Exercise/CMakeFiles/Exercis
 src/[004]Factories\ Pattern/[018]Point\ Example/CMakeFiles/018PointExample.dir/all:
 	$(MAKE) -f "src/[004]Factories Pattern/[018]Point Example/CMakeFiles/018PointExample.dir/build.make" "src/[004]Factories Pattern/[018]Point Example/CMakeFiles/018PointExample.dir/depend"
 	$(MAKE) -f "src/[004]Factories Pattern/[018]Point Example/CMakeFiles/018PointExample.dir/build.make" "src/[004]Factories Pattern/[018]Point Example/CMakeFiles/018PointExample.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 018PointExample"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=12 "Built target 018PointExample"
 .PHONY : src/[004]Factories\ Pattern/[018]Point\ Example/CMakeFiles/018PointExample.dir/all
 
 # Build rule for subdir invocation for target.
 src/[004]Factories\ Pattern/[018]Point\ Example/CMakeFiles/018PointExample.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[004]Factories Pattern/[018]Point Example/CMakeFiles/018PointExample.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[004]Factories\ Pattern/[018]Point\ Example/CMakeFiles/018PointExample.dir/rule
@@ -3821,7 +3821,7 @@ src/[004]Factories\ Pattern/[018]Point\ Example/CMakeFiles/018PointExample.dir/c
 src/[004]Factories\ Pattern/[019]Factory\ Method/CMakeFiles/019FactoryMethod.dir/all:
 	$(MAKE) -f "src/[004]Factories Pattern/[019]Factory Method/CMakeFiles/019FactoryMethod.dir/build.make" "src/[004]Factories Pattern/[019]Factory Method/CMakeFiles/019FactoryMethod.dir/depend"
 	$(MAKE) -f "src/[004]Factories Pattern/[019]Factory Method/CMakeFiles/019FactoryMethod.dir/build.make" "src/[004]Factories Pattern/[019]Factory Method/CMakeFiles/019FactoryMethod.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=12 "Built target 019FactoryMethod"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=13 "Built target 019FactoryMethod"
 .PHONY : src/[004]Factories\ Pattern/[019]Factory\ Method/CMakeFiles/019FactoryMethod.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3848,12 +3848,12 @@ src/[004]Factories\ Pattern/[019]Factory\ Method/CMakeFiles/019FactoryMethod.dir
 src/[004]Factories\ Pattern/[020]Factory/CMakeFiles/020Factory.dir/all:
 	$(MAKE) -f "src/[004]Factories Pattern/[020]Factory/CMakeFiles/020Factory.dir/build.make" "src/[004]Factories Pattern/[020]Factory/CMakeFiles/020Factory.dir/depend"
 	$(MAKE) -f "src/[004]Factories Pattern/[020]Factory/CMakeFiles/020Factory.dir/build.make" "src/[004]Factories Pattern/[020]Factory/CMakeFiles/020Factory.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=13 "Built target 020Factory"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 020Factory"
 .PHONY : src/[004]Factories\ Pattern/[020]Factory/CMakeFiles/020Factory.dir/all
 
 # Build rule for subdir invocation for target.
 src/[004]Factories\ Pattern/[020]Factory/CMakeFiles/020Factory.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[004]Factories Pattern/[020]Factory/CMakeFiles/020Factory.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[004]Factories\ Pattern/[020]Factory/CMakeFiles/020Factory.dir/rule
@@ -3875,12 +3875,12 @@ src/[004]Factories\ Pattern/[020]Factory/CMakeFiles/020Factory.dir/clean:
 src/[004]Factories\ Pattern/[021]Inner\ Factory/CMakeFiles/021InnerFactory.dir/all:
 	$(MAKE) -f "src/[004]Factories Pattern/[021]Inner Factory/CMakeFiles/021InnerFactory.dir/build.make" "src/[004]Factories Pattern/[021]Inner Factory/CMakeFiles/021InnerFactory.dir/depend"
 	$(MAKE) -f "src/[004]Factories Pattern/[021]Inner Factory/CMakeFiles/021InnerFactory.dir/build.make" "src/[004]Factories Pattern/[021]Inner Factory/CMakeFiles/021InnerFactory.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 021InnerFactory"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=14 "Built target 021InnerFactory"
 .PHONY : src/[004]Factories\ Pattern/[021]Inner\ Factory/CMakeFiles/021InnerFactory.dir/all
 
 # Build rule for subdir invocation for target.
 src/[004]Factories\ Pattern/[021]Inner\ Factory/CMakeFiles/021InnerFactory.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[004]Factories Pattern/[021]Inner Factory/CMakeFiles/021InnerFactory.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[004]Factories\ Pattern/[021]Inner\ Factory/CMakeFiles/021InnerFactory.dir/rule
@@ -3902,7 +3902,7 @@ src/[004]Factories\ Pattern/[021]Inner\ Factory/CMakeFiles/021InnerFactory.dir/c
 src/[004]Factories\ Pattern/[022]Abstract\ Factory/CMakeFiles/022AbstractFactory.dir/all:
 	$(MAKE) -f "src/[004]Factories Pattern/[022]Abstract Factory/CMakeFiles/022AbstractFactory.dir/build.make" "src/[004]Factories Pattern/[022]Abstract Factory/CMakeFiles/022AbstractFactory.dir/depend"
 	$(MAKE) -f "src/[004]Factories Pattern/[022]Abstract Factory/CMakeFiles/022AbstractFactory.dir/build.make" "src/[004]Factories Pattern/[022]Abstract Factory/CMakeFiles/022AbstractFactory.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=14 "Built target 022AbstractFactory"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=15 "Built target 022AbstractFactory"
 .PHONY : src/[004]Factories\ Pattern/[022]Abstract\ Factory/CMakeFiles/022AbstractFactory.dir/all
 
 # Build rule for subdir invocation for target.
@@ -3929,12 +3929,12 @@ src/[004]Factories\ Pattern/[022]Abstract\ Factory/CMakeFiles/022AbstractFactory
 src/[004]Factories\ Pattern/[023]Functional\ Factory/CMakeFiles/023FunctionalFactory.dir/all:
 	$(MAKE) -f "src/[004]Factories Pattern/[023]Functional Factory/CMakeFiles/023FunctionalFactory.dir/build.make" "src/[004]Factories Pattern/[023]Functional Factory/CMakeFiles/023FunctionalFactory.dir/depend"
 	$(MAKE) -f "src/[004]Factories Pattern/[023]Functional Factory/CMakeFiles/023FunctionalFactory.dir/build.make" "src/[004]Factories Pattern/[023]Functional Factory/CMakeFiles/023FunctionalFactory.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=15 "Built target 023FunctionalFactory"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 023FunctionalFactory"
 .PHONY : src/[004]Factories\ Pattern/[023]Functional\ Factory/CMakeFiles/023FunctionalFactory.dir/all
 
 # Build rule for subdir invocation for target.
 src/[004]Factories\ Pattern/[023]Functional\ Factory/CMakeFiles/023FunctionalFactory.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[004]Factories Pattern/[023]Functional Factory/CMakeFiles/023FunctionalFactory.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[004]Factories\ Pattern/[023]Functional\ Factory/CMakeFiles/023FunctionalFactory.dir/rule
@@ -4010,12 +4010,12 @@ src/[005]Prototype\ Pattern/[025]Overview/CMakeFiles/025Overview.dir/clean:
 src/[005]Prototype\ Pattern/[026]Record\ Keeping/CMakeFiles/026RecordKeeping.dir/all:
 	$(MAKE) -f "src/[005]Prototype Pattern/[026]Record Keeping/CMakeFiles/026RecordKeeping.dir/build.make" "src/[005]Prototype Pattern/[026]Record Keeping/CMakeFiles/026RecordKeeping.dir/depend"
 	$(MAKE) -f "src/[005]Prototype Pattern/[026]Record Keeping/CMakeFiles/026RecordKeeping.dir/build.make" "src/[005]Prototype Pattern/[026]Record Keeping/CMakeFiles/026RecordKeeping.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 026RecordKeeping"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=17 "Built target 026RecordKeeping"
 .PHONY : src/[005]Prototype\ Pattern/[026]Record\ Keeping/CMakeFiles/026RecordKeeping.dir/all
 
 # Build rule for subdir invocation for target.
 src/[005]Prototype\ Pattern/[026]Record\ Keeping/CMakeFiles/026RecordKeeping.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[005]Prototype Pattern/[026]Record Keeping/CMakeFiles/026RecordKeeping.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[005]Prototype\ Pattern/[026]Record\ Keeping/CMakeFiles/026RecordKeeping.dir/rule
@@ -4037,7 +4037,7 @@ src/[005]Prototype\ Pattern/[026]Record\ Keeping/CMakeFiles/026RecordKeeping.dir
 src/[005]Prototype\ Pattern/[027]Prototype/CMakeFiles/027Prototype.dir/all:
 	$(MAKE) -f "src/[005]Prototype Pattern/[027]Prototype/CMakeFiles/027Prototype.dir/build.make" "src/[005]Prototype Pattern/[027]Prototype/CMakeFiles/027Prototype.dir/depend"
 	$(MAKE) -f "src/[005]Prototype Pattern/[027]Prototype/CMakeFiles/027Prototype.dir/build.make" "src/[005]Prototype Pattern/[027]Prototype/CMakeFiles/027Prototype.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=17 "Built target 027Prototype"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=18 "Built target 027Prototype"
 .PHONY : src/[005]Prototype\ Pattern/[027]Prototype/CMakeFiles/027Prototype.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4064,12 +4064,12 @@ src/[005]Prototype\ Pattern/[027]Prototype/CMakeFiles/027Prototype.dir/clean:
 src/[005]Prototype\ Pattern/[028]Prototype\ Factory/CMakeFiles/028PrototypeFactory.dir/all:
 	$(MAKE) -f "src/[005]Prototype Pattern/[028]Prototype Factory/CMakeFiles/028PrototypeFactory.dir/build.make" "src/[005]Prototype Pattern/[028]Prototype Factory/CMakeFiles/028PrototypeFactory.dir/depend"
 	$(MAKE) -f "src/[005]Prototype Pattern/[028]Prototype Factory/CMakeFiles/028PrototypeFactory.dir/build.make" "src/[005]Prototype Pattern/[028]Prototype Factory/CMakeFiles/028PrototypeFactory.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=18 "Built target 028PrototypeFactory"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 028PrototypeFactory"
 .PHONY : src/[005]Prototype\ Pattern/[028]Prototype\ Factory/CMakeFiles/028PrototypeFactory.dir/all
 
 # Build rule for subdir invocation for target.
 src/[005]Prototype\ Pattern/[028]Prototype\ Factory/CMakeFiles/028PrototypeFactory.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[005]Prototype Pattern/[028]Prototype Factory/CMakeFiles/028PrototypeFactory.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[005]Prototype\ Pattern/[028]Prototype\ Factory/CMakeFiles/028PrototypeFactory.dir/rule
@@ -4091,12 +4091,12 @@ src/[005]Prototype\ Pattern/[028]Prototype\ Factory/CMakeFiles/028PrototypeFacto
 src/[005]Prototype\ Pattern/[029]Prototype\ Via\ serialization/CMakeFiles/029PrototypeViaserialization.cpp.dir/all:
 	$(MAKE) -f "src/[005]Prototype Pattern/[029]Prototype Via serialization/CMakeFiles/029PrototypeViaserialization.cpp.dir/build.make" "src/[005]Prototype Pattern/[029]Prototype Via serialization/CMakeFiles/029PrototypeViaserialization.cpp.dir/depend"
 	$(MAKE) -f "src/[005]Prototype Pattern/[029]Prototype Via serialization/CMakeFiles/029PrototypeViaserialization.cpp.dir/build.make" "src/[005]Prototype Pattern/[029]Prototype Via serialization/CMakeFiles/029PrototypeViaserialization.cpp.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 029PrototypeViaserialization.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=19 "Built target 029PrototypeViaserialization.cpp"
 .PHONY : src/[005]Prototype\ Pattern/[029]Prototype\ Via\ serialization/CMakeFiles/029PrototypeViaserialization.cpp.dir/all
 
 # Build rule for subdir invocation for target.
 src/[005]Prototype\ Pattern/[029]Prototype\ Via\ serialization/CMakeFiles/029PrototypeViaserialization.cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[005]Prototype Pattern/[029]Prototype Via serialization/CMakeFiles/029PrototypeViaserialization.cpp.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[005]Prototype\ Pattern/[029]Prototype\ Via\ serialization/CMakeFiles/029PrototypeViaserialization.cpp.dir/rule
@@ -4145,12 +4145,12 @@ src/[005]Prototype\ Pattern/[Exercise]Prototype\ Coding\ Exercise/CMakeFiles/Exe
 src/[006]Singleton\ Pattern/[032]Singleton\ Implementation/CMakeFiles/032SingletonImplementation.dir/all:
 	$(MAKE) -f "src/[006]Singleton Pattern/[032]Singleton Implementation/CMakeFiles/032SingletonImplementation.dir/build.make" "src/[006]Singleton Pattern/[032]Singleton Implementation/CMakeFiles/032SingletonImplementation.dir/depend"
 	$(MAKE) -f "src/[006]Singleton Pattern/[032]Singleton Implementation/CMakeFiles/032SingletonImplementation.dir/build.make" "src/[006]Singleton Pattern/[032]Singleton Implementation/CMakeFiles/032SingletonImplementation.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=19,20 "Built target 032SingletonImplementation"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=20 "Built target 032SingletonImplementation"
 .PHONY : src/[006]Singleton\ Pattern/[032]Singleton\ Implementation/CMakeFiles/032SingletonImplementation.dir/all
 
 # Build rule for subdir invocation for target.
 src/[006]Singleton\ Pattern/[032]Singleton\ Implementation/CMakeFiles/032SingletonImplementation.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[006]Singleton Pattern/[032]Singleton Implementation/CMakeFiles/032SingletonImplementation.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[006]Singleton\ Pattern/[032]Singleton\ Implementation/CMakeFiles/032SingletonImplementation.dir/rule
@@ -4172,12 +4172,12 @@ src/[006]Singleton\ Pattern/[032]Singleton\ Implementation/CMakeFiles/032Singlet
 src/[006]Singleton\ Pattern/[033]Testability\ Issues/CMakeFiles/033TestabilityIssues.dir/all:
 	$(MAKE) -f "src/[006]Singleton Pattern/[033]Testability Issues/CMakeFiles/033TestabilityIssues.dir/build.make" "src/[006]Singleton Pattern/[033]Testability Issues/CMakeFiles/033TestabilityIssues.dir/depend"
 	$(MAKE) -f "src/[006]Singleton Pattern/[033]Testability Issues/CMakeFiles/033TestabilityIssues.dir/build.make" "src/[006]Singleton Pattern/[033]Testability Issues/CMakeFiles/033TestabilityIssues.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 033TestabilityIssues"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=21 "Built target 033TestabilityIssues"
 .PHONY : src/[006]Singleton\ Pattern/[033]Testability\ Issues/CMakeFiles/033TestabilityIssues.dir/all
 
 # Build rule for subdir invocation for target.
 src/[006]Singleton\ Pattern/[033]Testability\ Issues/CMakeFiles/033TestabilityIssues.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[006]Singleton Pattern/[033]Testability Issues/CMakeFiles/033TestabilityIssues.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[006]Singleton\ Pattern/[033]Testability\ Issues/CMakeFiles/033TestabilityIssues.dir/rule
@@ -4199,7 +4199,7 @@ src/[006]Singleton\ Pattern/[033]Testability\ Issues/CMakeFiles/033TestabilityIs
 src/[006]Singleton\ Pattern/[034]Singleton\ in\ Dependency\ Injection/CMakeFiles/034SingletoninDependencyInjection.dir/all:
 	$(MAKE) -f "src/[006]Singleton Pattern/[034]Singleton in Dependency Injection/CMakeFiles/034SingletoninDependencyInjection.dir/build.make" "src/[006]Singleton Pattern/[034]Singleton in Dependency Injection/CMakeFiles/034SingletoninDependencyInjection.dir/depend"
 	$(MAKE) -f "src/[006]Singleton Pattern/[034]Singleton in Dependency Injection/CMakeFiles/034SingletoninDependencyInjection.dir/build.make" "src/[006]Singleton Pattern/[034]Singleton in Dependency Injection/CMakeFiles/034SingletoninDependencyInjection.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=21 "Built target 034SingletoninDependencyInjection"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=22 "Built target 034SingletoninDependencyInjection"
 .PHONY : src/[006]Singleton\ Pattern/[034]Singleton\ in\ Dependency\ Injection/CMakeFiles/034SingletoninDependencyInjection.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4226,12 +4226,12 @@ src/[006]Singleton\ Pattern/[034]Singleton\ in\ Dependency\ Injection/CMakeFiles
 src/[006]Singleton\ Pattern/[035]Singleton\ Lifetime\ in\ DI\ Container/CMakeFiles/035SingletonLifetimeinDIContainer.dir/all:
 	$(MAKE) -f "src/[006]Singleton Pattern/[035]Singleton Lifetime in DI Container/CMakeFiles/035SingletonLifetimeinDIContainer.dir/build.make" "src/[006]Singleton Pattern/[035]Singleton Lifetime in DI Container/CMakeFiles/035SingletonLifetimeinDIContainer.dir/depend"
 	$(MAKE) -f "src/[006]Singleton Pattern/[035]Singleton Lifetime in DI Container/CMakeFiles/035SingletonLifetimeinDIContainer.dir/build.make" "src/[006]Singleton Pattern/[035]Singleton Lifetime in DI Container/CMakeFiles/035SingletonLifetimeinDIContainer.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=22 "Built target 035SingletonLifetimeinDIContainer"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 035SingletonLifetimeinDIContainer"
 .PHONY : src/[006]Singleton\ Pattern/[035]Singleton\ Lifetime\ in\ DI\ Container/CMakeFiles/035SingletonLifetimeinDIContainer.dir/all
 
 # Build rule for subdir invocation for target.
 src/[006]Singleton\ Pattern/[035]Singleton\ Lifetime\ in\ DI\ Container/CMakeFiles/035SingletonLifetimeinDIContainer.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[006]Singleton Pattern/[035]Singleton Lifetime in DI Container/CMakeFiles/035SingletonLifetimeinDIContainer.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[006]Singleton\ Pattern/[035]Singleton\ Lifetime\ in\ DI\ Container/CMakeFiles/035SingletonLifetimeinDIContainer.dir/rule
@@ -4280,12 +4280,12 @@ src/[006]Singleton\ Pattern/[036]Monostate/CMakeFiles/036Monostate.dir/clean:
 src/[006]Singleton\ Pattern/[037]Multiton/CMakeFiles/037Multiton.dir/all:
 	$(MAKE) -f "src/[006]Singleton Pattern/[037]Multiton/CMakeFiles/037Multiton.dir/build.make" "src/[006]Singleton Pattern/[037]Multiton/CMakeFiles/037Multiton.dir/depend"
 	$(MAKE) -f "src/[006]Singleton Pattern/[037]Multiton/CMakeFiles/037Multiton.dir/build.make" "src/[006]Singleton Pattern/[037]Multiton/CMakeFiles/037Multiton.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 037Multiton"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=24 "Built target 037Multiton"
 .PHONY : src/[006]Singleton\ Pattern/[037]Multiton/CMakeFiles/037Multiton.dir/all
 
 # Build rule for subdir invocation for target.
 src/[006]Singleton\ Pattern/[037]Multiton/CMakeFiles/037Multiton.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[006]Singleton Pattern/[037]Multiton/CMakeFiles/037Multiton.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[006]Singleton\ Pattern/[037]Multiton/CMakeFiles/037Multiton.dir/rule
@@ -4307,7 +4307,7 @@ src/[006]Singleton\ Pattern/[037]Multiton/CMakeFiles/037Multiton.dir/clean:
 src/[006]Singleton\ Pattern/[038]Summary/CMakeFiles/038Summary.dir/all:
 	$(MAKE) -f "src/[006]Singleton Pattern/[038]Summary/CMakeFiles/038Summary.dir/build.make" "src/[006]Singleton Pattern/[038]Summary/CMakeFiles/038Summary.dir/depend"
 	$(MAKE) -f "src/[006]Singleton Pattern/[038]Summary/CMakeFiles/038Summary.dir/build.make" "src/[006]Singleton Pattern/[038]Summary/CMakeFiles/038Summary.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=24 "Built target 038Summary"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=25 "Built target 038Summary"
 .PHONY : src/[006]Singleton\ Pattern/[038]Summary/CMakeFiles/038Summary.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4361,12 +4361,12 @@ src/[006]Singleton\ Pattern/[Exercise]Singleton\ Coding\ Exercise/CMakeFiles/Exe
 src/[007]Adapter\ Pattern/[039]Overview/CMakeFiles/039Overview.dir/all:
 	$(MAKE) -f "src/[007]Adapter Pattern/[039]Overview/CMakeFiles/039Overview.dir/build.make" "src/[007]Adapter Pattern/[039]Overview/CMakeFiles/039Overview.dir/depend"
 	$(MAKE) -f "src/[007]Adapter Pattern/[039]Overview/CMakeFiles/039Overview.dir/build.make" "src/[007]Adapter Pattern/[039]Overview/CMakeFiles/039Overview.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=25 "Built target 039Overview"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 039Overview"
 .PHONY : src/[007]Adapter\ Pattern/[039]Overview/CMakeFiles/039Overview.dir/all
 
 # Build rule for subdir invocation for target.
 src/[007]Adapter\ Pattern/[039]Overview/CMakeFiles/039Overview.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[007]Adapter Pattern/[039]Overview/CMakeFiles/039Overview.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[007]Adapter\ Pattern/[039]Overview/CMakeFiles/039Overview.dir/rule
@@ -4388,12 +4388,12 @@ src/[007]Adapter\ Pattern/[039]Overview/CMakeFiles/039Overview.dir/clean:
 src/[007]Adapter\ Pattern/[040]Vector-Raster\ Demo/CMakeFiles/040Vector-RasterDemo.dir/all:
 	$(MAKE) -f "src/[007]Adapter Pattern/[040]Vector-Raster Demo/CMakeFiles/040Vector-RasterDemo.dir/build.make" "src/[007]Adapter Pattern/[040]Vector-Raster Demo/CMakeFiles/040Vector-RasterDemo.dir/depend"
 	$(MAKE) -f "src/[007]Adapter Pattern/[040]Vector-Raster Demo/CMakeFiles/040Vector-RasterDemo.dir/build.make" "src/[007]Adapter Pattern/[040]Vector-Raster Demo/CMakeFiles/040Vector-RasterDemo.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 040Vector-RasterDemo"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=26 "Built target 040Vector-RasterDemo"
 .PHONY : src/[007]Adapter\ Pattern/[040]Vector-Raster\ Demo/CMakeFiles/040Vector-RasterDemo.dir/all
 
 # Build rule for subdir invocation for target.
 src/[007]Adapter\ Pattern/[040]Vector-Raster\ Demo/CMakeFiles/040Vector-RasterDemo.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[007]Adapter Pattern/[040]Vector-Raster Demo/CMakeFiles/040Vector-RasterDemo.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[007]Adapter\ Pattern/[040]Vector-Raster\ Demo/CMakeFiles/040Vector-RasterDemo.dir/rule
@@ -4415,7 +4415,7 @@ src/[007]Adapter\ Pattern/[040]Vector-Raster\ Demo/CMakeFiles/040Vector-RasterDe
 src/[007]Adapter\ Pattern/[041]Adapter\ Caching/CMakeFiles/041AdapterCaching.dir/all:
 	$(MAKE) -f "src/[007]Adapter Pattern/[041]Adapter Caching/CMakeFiles/041AdapterCaching.dir/build.make" "src/[007]Adapter Pattern/[041]Adapter Caching/CMakeFiles/041AdapterCaching.dir/depend"
 	$(MAKE) -f "src/[007]Adapter Pattern/[041]Adapter Caching/CMakeFiles/041AdapterCaching.dir/build.make" "src/[007]Adapter Pattern/[041]Adapter Caching/CMakeFiles/041AdapterCaching.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=26 "Built target 041AdapterCaching"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=27 "Built target 041AdapterCaching"
 .PHONY : src/[007]Adapter\ Pattern/[041]Adapter\ Caching/CMakeFiles/041AdapterCaching.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4442,12 +4442,12 @@ src/[007]Adapter\ Pattern/[041]Adapter\ Caching/CMakeFiles/041AdapterCaching.dir
 src/[007]Adapter\ Pattern/[042]Summary/CMakeFiles/042Summary.dir/all:
 	$(MAKE) -f "src/[007]Adapter Pattern/[042]Summary/CMakeFiles/042Summary.dir/build.make" "src/[007]Adapter Pattern/[042]Summary/CMakeFiles/042Summary.dir/depend"
 	$(MAKE) -f "src/[007]Adapter Pattern/[042]Summary/CMakeFiles/042Summary.dir/build.make" "src/[007]Adapter Pattern/[042]Summary/CMakeFiles/042Summary.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=27 "Built target 042Summary"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 042Summary"
 .PHONY : src/[007]Adapter\ Pattern/[042]Summary/CMakeFiles/042Summary.dir/all
 
 # Build rule for subdir invocation for target.
 src/[007]Adapter\ Pattern/[042]Summary/CMakeFiles/042Summary.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[007]Adapter Pattern/[042]Summary/CMakeFiles/042Summary.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[007]Adapter\ Pattern/[042]Summary/CMakeFiles/042Summary.dir/rule
@@ -4496,12 +4496,12 @@ src/[007]Adapter\ Pattern/[Exercise]Adapter\ Coding\ Exercise/CMakeFiles/Exercis
 src/[008]Bridge\ Pattern/[043]Overview/CMakeFiles/043Overview.dir/all:
 	$(MAKE) -f "src/[008]Bridge Pattern/[043]Overview/CMakeFiles/043Overview.dir/build.make" "src/[008]Bridge Pattern/[043]Overview/CMakeFiles/043Overview.dir/depend"
 	$(MAKE) -f "src/[008]Bridge Pattern/[043]Overview/CMakeFiles/043Overview.dir/build.make" "src/[008]Bridge Pattern/[043]Overview/CMakeFiles/043Overview.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 043Overview"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=28 "Built target 043Overview"
 .PHONY : src/[008]Bridge\ Pattern/[043]Overview/CMakeFiles/043Overview.dir/all
 
 # Build rule for subdir invocation for target.
 src/[008]Bridge\ Pattern/[043]Overview/CMakeFiles/043Overview.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[008]Bridge Pattern/[043]Overview/CMakeFiles/043Overview.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[008]Bridge\ Pattern/[043]Overview/CMakeFiles/043Overview.dir/rule
@@ -4523,7 +4523,7 @@ src/[008]Bridge\ Pattern/[043]Overview/CMakeFiles/043Overview.dir/clean:
 src/[008]Bridge\ Pattern/[044]Pimpl\ Idiom/CMakeFiles/044PimplIdiom.dir/all:
 	$(MAKE) -f "src/[008]Bridge Pattern/[044]Pimpl Idiom/CMakeFiles/044PimplIdiom.dir/build.make" "src/[008]Bridge Pattern/[044]Pimpl Idiom/CMakeFiles/044PimplIdiom.dir/depend"
 	$(MAKE) -f "src/[008]Bridge Pattern/[044]Pimpl Idiom/CMakeFiles/044PimplIdiom.dir/build.make" "src/[008]Bridge Pattern/[044]Pimpl Idiom/CMakeFiles/044PimplIdiom.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=28 "Built target 044PimplIdiom"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=29 "Built target 044PimplIdiom"
 .PHONY : src/[008]Bridge\ Pattern/[044]Pimpl\ Idiom/CMakeFiles/044PimplIdiom.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4550,12 +4550,12 @@ src/[008]Bridge\ Pattern/[044]Pimpl\ Idiom/CMakeFiles/044PimplIdiom.dir/clean:
 src/[008]Bridge\ Pattern/[045]Shrink-Wrapped\ Pimpl/CMakeFiles/045ShrinkWrappedPimpl.dir/all:
 	$(MAKE) -f "src/[008]Bridge Pattern/[045]Shrink-Wrapped Pimpl/CMakeFiles/045ShrinkWrappedPimpl.dir/build.make" "src/[008]Bridge Pattern/[045]Shrink-Wrapped Pimpl/CMakeFiles/045ShrinkWrappedPimpl.dir/depend"
 	$(MAKE) -f "src/[008]Bridge Pattern/[045]Shrink-Wrapped Pimpl/CMakeFiles/045ShrinkWrappedPimpl.dir/build.make" "src/[008]Bridge Pattern/[045]Shrink-Wrapped Pimpl/CMakeFiles/045ShrinkWrappedPimpl.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=29 "Built target 045ShrinkWrappedPimpl"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 045ShrinkWrappedPimpl"
 .PHONY : src/[008]Bridge\ Pattern/[045]Shrink-Wrapped\ Pimpl/CMakeFiles/045ShrinkWrappedPimpl.dir/all
 
 # Build rule for subdir invocation for target.
 src/[008]Bridge\ Pattern/[045]Shrink-Wrapped\ Pimpl/CMakeFiles/045ShrinkWrappedPimpl.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[008]Bridge Pattern/[045]Shrink-Wrapped Pimpl/CMakeFiles/045ShrinkWrappedPimpl.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[008]Bridge\ Pattern/[045]Shrink-Wrapped\ Pimpl/CMakeFiles/045ShrinkWrappedPimpl.dir/rule
@@ -4604,12 +4604,12 @@ src/[008]Bridge\ Pattern/[046]Bridge\ Implementation/CMakeFiles/046BridgeImpleme
 src/[008]Bridge\ Pattern/[047]Summary/CMakeFiles/047Summary.dir/all:
 	$(MAKE) -f "src/[008]Bridge Pattern/[047]Summary/CMakeFiles/047Summary.dir/build.make" "src/[008]Bridge Pattern/[047]Summary/CMakeFiles/047Summary.dir/depend"
 	$(MAKE) -f "src/[008]Bridge Pattern/[047]Summary/CMakeFiles/047Summary.dir/build.make" "src/[008]Bridge Pattern/[047]Summary/CMakeFiles/047Summary.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 047Summary"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=31 "Built target 047Summary"
 .PHONY : src/[008]Bridge\ Pattern/[047]Summary/CMakeFiles/047Summary.dir/all
 
 # Build rule for subdir invocation for target.
 src/[008]Bridge\ Pattern/[047]Summary/CMakeFiles/047Summary.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[008]Bridge Pattern/[047]Summary/CMakeFiles/047Summary.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[008]Bridge\ Pattern/[047]Summary/CMakeFiles/047Summary.dir/rule
@@ -4658,12 +4658,12 @@ src/[008]Bridge\ Pattern/[Exercise]Bridge\ Coding\ Exercise/CMakeFiles/ExerciseB
 src/[009]Composite\ Pattern/[048]Overview/CMakeFiles/048Overview.dir/all:
 	$(MAKE) -f "src/[009]Composite Pattern/[048]Overview/CMakeFiles/048Overview.dir/build.make" "src/[009]Composite Pattern/[048]Overview/CMakeFiles/048Overview.dir/depend"
 	$(MAKE) -f "src/[009]Composite Pattern/[048]Overview/CMakeFiles/048Overview.dir/build.make" "src/[009]Composite Pattern/[048]Overview/CMakeFiles/048Overview.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=31 "Built target 048Overview"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 048Overview"
 .PHONY : src/[009]Composite\ Pattern/[048]Overview/CMakeFiles/048Overview.dir/all
 
 # Build rule for subdir invocation for target.
 src/[009]Composite\ Pattern/[048]Overview/CMakeFiles/048Overview.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[009]Composite Pattern/[048]Overview/CMakeFiles/048Overview.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[009]Composite\ Pattern/[048]Overview/CMakeFiles/048Overview.dir/rule
@@ -4712,12 +4712,12 @@ src/[009]Composite\ Pattern/[049]Geometric\ Shapes/CMakeFiles/049GeometricShapes
 src/[009]Composite\ Pattern/[050]Neural\ Networks/CMakeFiles/050NeuralNetworks.dir/all:
 	$(MAKE) -f "src/[009]Composite Pattern/[050]Neural Networks/CMakeFiles/050NeuralNetworks.dir/build.make" "src/[009]Composite Pattern/[050]Neural Networks/CMakeFiles/050NeuralNetworks.dir/depend"
 	$(MAKE) -f "src/[009]Composite Pattern/[050]Neural Networks/CMakeFiles/050NeuralNetworks.dir/build.make" "src/[009]Composite Pattern/[050]Neural Networks/CMakeFiles/050NeuralNetworks.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 050NeuralNetworks"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=33 "Built target 050NeuralNetworks"
 .PHONY : src/[009]Composite\ Pattern/[050]Neural\ Networks/CMakeFiles/050NeuralNetworks.dir/all
 
 # Build rule for subdir invocation for target.
 src/[009]Composite\ Pattern/[050]Neural\ Networks/CMakeFiles/050NeuralNetworks.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[009]Composite Pattern/[050]Neural Networks/CMakeFiles/050NeuralNetworks.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[009]Composite\ Pattern/[050]Neural\ Networks/CMakeFiles/050NeuralNetworks.dir/rule
@@ -4739,7 +4739,7 @@ src/[009]Composite\ Pattern/[050]Neural\ Networks/CMakeFiles/050NeuralNetworks.d
 src/[009]Composite\ Pattern/[051]Array-backed\ Properties/CMakeFiles/051Array-backedProperties.dir/all:
 	$(MAKE) -f "src/[009]Composite Pattern/[051]Array-backed Properties/CMakeFiles/051Array-backedProperties.dir/build.make" "src/[009]Composite Pattern/[051]Array-backed Properties/CMakeFiles/051Array-backedProperties.dir/depend"
 	$(MAKE) -f "src/[009]Composite Pattern/[051]Array-backed Properties/CMakeFiles/051Array-backedProperties.dir/build.make" "src/[009]Composite Pattern/[051]Array-backed Properties/CMakeFiles/051Array-backedProperties.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=33 "Built target 051Array-backedProperties"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=34 "Built target 051Array-backedProperties"
 .PHONY : src/[009]Composite\ Pattern/[051]Array-backed\ Properties/CMakeFiles/051Array-backedProperties.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4766,12 +4766,12 @@ src/[009]Composite\ Pattern/[051]Array-backed\ Properties/CMakeFiles/051Array-ba
 src/[009]Composite\ Pattern/[052]Summary/CMakeFiles/052Summary.cpp.dir/all:
 	$(MAKE) -f "src/[009]Composite Pattern/[052]Summary/CMakeFiles/052Summary.cpp.dir/build.make" "src/[009]Composite Pattern/[052]Summary/CMakeFiles/052Summary.cpp.dir/depend"
 	$(MAKE) -f "src/[009]Composite Pattern/[052]Summary/CMakeFiles/052Summary.cpp.dir/build.make" "src/[009]Composite Pattern/[052]Summary/CMakeFiles/052Summary.cpp.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=34 "Built target 052Summary.cpp"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 052Summary.cpp"
 .PHONY : src/[009]Composite\ Pattern/[052]Summary/CMakeFiles/052Summary.cpp.dir/all
 
 # Build rule for subdir invocation for target.
 src/[009]Composite\ Pattern/[052]Summary/CMakeFiles/052Summary.cpp.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[009]Composite Pattern/[052]Summary/CMakeFiles/052Summary.cpp.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[009]Composite\ Pattern/[052]Summary/CMakeFiles/052Summary.cpp.dir/rule
@@ -4820,12 +4820,12 @@ src/[009]Composite\ Pattern/[Exercise]Composite\ Coding\ Exercise/CMakeFiles/Exe
 src/[010]Decorator\ Pattern/[053]Overview/CMakeFiles/053Overview.dir/all:
 	$(MAKE) -f "src/[010]Decorator Pattern/[053]Overview/CMakeFiles/053Overview.dir/build.make" "src/[010]Decorator Pattern/[053]Overview/CMakeFiles/053Overview.dir/depend"
 	$(MAKE) -f "src/[010]Decorator Pattern/[053]Overview/CMakeFiles/053Overview.dir/build.make" "src/[010]Decorator Pattern/[053]Overview/CMakeFiles/053Overview.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 053Overview"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=35 "Built target 053Overview"
 .PHONY : src/[010]Decorator\ Pattern/[053]Overview/CMakeFiles/053Overview.dir/all
 
 # Build rule for subdir invocation for target.
 src/[010]Decorator\ Pattern/[053]Overview/CMakeFiles/053Overview.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[010]Decorator Pattern/[053]Overview/CMakeFiles/053Overview.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[010]Decorator\ Pattern/[053]Overview/CMakeFiles/053Overview.dir/rule
@@ -4847,7 +4847,7 @@ src/[010]Decorator\ Pattern/[053]Overview/CMakeFiles/053Overview.dir/clean:
 src/[010]Decorator\ Pattern/[054]Dynamic\ Decorator/CMakeFiles/054DynamicDecorator.dir/all:
 	$(MAKE) -f "src/[010]Decorator Pattern/[054]Dynamic Decorator/CMakeFiles/054DynamicDecorator.dir/build.make" "src/[010]Decorator Pattern/[054]Dynamic Decorator/CMakeFiles/054DynamicDecorator.dir/depend"
 	$(MAKE) -f "src/[010]Decorator Pattern/[054]Dynamic Decorator/CMakeFiles/054DynamicDecorator.dir/build.make" "src/[010]Decorator Pattern/[054]Dynamic Decorator/CMakeFiles/054DynamicDecorator.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=35 "Built target 054DynamicDecorator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=36 "Built target 054DynamicDecorator"
 .PHONY : src/[010]Decorator\ Pattern/[054]Dynamic\ Decorator/CMakeFiles/054DynamicDecorator.dir/all
 
 # Build rule for subdir invocation for target.
@@ -4874,12 +4874,12 @@ src/[010]Decorator\ Pattern/[054]Dynamic\ Decorator/CMakeFiles/054DynamicDecorat
 src/[010]Decorator\ Pattern/[055]Static\ Decorator/CMakeFiles/055StaticDecorator.dir/all:
 	$(MAKE) -f "src/[010]Decorator Pattern/[055]Static Decorator/CMakeFiles/055StaticDecorator.dir/build.make" "src/[010]Decorator Pattern/[055]Static Decorator/CMakeFiles/055StaticDecorator.dir/depend"
 	$(MAKE) -f "src/[010]Decorator Pattern/[055]Static Decorator/CMakeFiles/055StaticDecorator.dir/build.make" "src/[010]Decorator Pattern/[055]Static Decorator/CMakeFiles/055StaticDecorator.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=36 "Built target 055StaticDecorator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 055StaticDecorator"
 .PHONY : src/[010]Decorator\ Pattern/[055]Static\ Decorator/CMakeFiles/055StaticDecorator.dir/all
 
 # Build rule for subdir invocation for target.
 src/[010]Decorator\ Pattern/[055]Static\ Decorator/CMakeFiles/055StaticDecorator.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[010]Decorator Pattern/[055]Static Decorator/CMakeFiles/055StaticDecorator.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[010]Decorator\ Pattern/[055]Static\ Decorator/CMakeFiles/055StaticDecorator.dir/rule
@@ -4928,12 +4928,12 @@ src/[010]Decorator\ Pattern/[056]Functional\ Decorator/CMakeFiles/056FunctionalD
 src/[010]Decorator\ Pattern/[057]Summary/CMakeFiles/057Summary.dir/all:
 	$(MAKE) -f "src/[010]Decorator Pattern/[057]Summary/CMakeFiles/057Summary.dir/build.make" "src/[010]Decorator Pattern/[057]Summary/CMakeFiles/057Summary.dir/depend"
 	$(MAKE) -f "src/[010]Decorator Pattern/[057]Summary/CMakeFiles/057Summary.dir/build.make" "src/[010]Decorator Pattern/[057]Summary/CMakeFiles/057Summary.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 057Summary"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=38 "Built target 057Summary"
 .PHONY : src/[010]Decorator\ Pattern/[057]Summary/CMakeFiles/057Summary.dir/all
 
 # Build rule for subdir invocation for target.
 src/[010]Decorator\ Pattern/[057]Summary/CMakeFiles/057Summary.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[010]Decorator Pattern/[057]Summary/CMakeFiles/057Summary.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[010]Decorator\ Pattern/[057]Summary/CMakeFiles/057Summary.dir/rule
@@ -4982,12 +4982,12 @@ src/[010]Decorator\ Pattern/[Exercise]Decorator\ Coding\ Exercise/CMakeFiles/Exe
 src/[011]Facade\ Pattern/[058]Overview/CMakeFiles/058Overview.dir/all:
 	$(MAKE) -f "src/[011]Facade Pattern/[058]Overview/CMakeFiles/058Overview.dir/build.make" "src/[011]Facade Pattern/[058]Overview/CMakeFiles/058Overview.dir/depend"
 	$(MAKE) -f "src/[011]Facade Pattern/[058]Overview/CMakeFiles/058Overview.dir/build.make" "src/[011]Facade Pattern/[058]Overview/CMakeFiles/058Overview.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=38 "Built target 058Overview"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 058Overview"
 .PHONY : src/[011]Facade\ Pattern/[058]Overview/CMakeFiles/058Overview.dir/all
 
 # Build rule for subdir invocation for target.
 src/[011]Facade\ Pattern/[058]Overview/CMakeFiles/058Overview.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[011]Facade Pattern/[058]Overview/CMakeFiles/058Overview.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[011]Facade\ Pattern/[058]Overview/CMakeFiles/058Overview.dir/rule
@@ -5036,12 +5036,12 @@ src/[011]Facade\ Pattern/[059]Facade/CMakeFiles/059Facade.dir/clean:
 src/[011]Facade\ Pattern/[060]Summary/CMakeFiles/060Summary.dir/all:
 	$(MAKE) -f "src/[011]Facade Pattern/[060]Summary/CMakeFiles/060Summary.dir/build.make" "src/[011]Facade Pattern/[060]Summary/CMakeFiles/060Summary.dir/depend"
 	$(MAKE) -f "src/[011]Facade Pattern/[060]Summary/CMakeFiles/060Summary.dir/build.make" "src/[011]Facade Pattern/[060]Summary/CMakeFiles/060Summary.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 060Summary"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=40 "Built target 060Summary"
 .PHONY : src/[011]Facade\ Pattern/[060]Summary/CMakeFiles/060Summary.dir/all
 
 # Build rule for subdir invocation for target.
 src/[011]Facade\ Pattern/[060]Summary/CMakeFiles/060Summary.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[011]Facade Pattern/[060]Summary/CMakeFiles/060Summary.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[011]Facade\ Pattern/[060]Summary/CMakeFiles/060Summary.dir/rule
@@ -5063,12 +5063,12 @@ src/[011]Facade\ Pattern/[060]Summary/CMakeFiles/060Summary.dir/clean:
 src/[012]Flyweight\ Pattern/[061]Overview/CMakeFiles/061Overview.dir/all:
 	$(MAKE) -f "src/[012]Flyweight Pattern/[061]Overview/CMakeFiles/061Overview.dir/build.make" "src/[012]Flyweight Pattern/[061]Overview/CMakeFiles/061Overview.dir/depend"
 	$(MAKE) -f "src/[012]Flyweight Pattern/[061]Overview/CMakeFiles/061Overview.dir/build.make" "src/[012]Flyweight Pattern/[061]Overview/CMakeFiles/061Overview.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=40 "Built target 061Overview"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 061Overview"
 .PHONY : src/[012]Flyweight\ Pattern/[061]Overview/CMakeFiles/061Overview.dir/all
 
 # Build rule for subdir invocation for target.
 src/[012]Flyweight\ Pattern/[061]Overview/CMakeFiles/061Overview.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[012]Flyweight Pattern/[061]Overview/CMakeFiles/061Overview.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[012]Flyweight\ Pattern/[061]Overview/CMakeFiles/061Overview.dir/rule
@@ -5117,12 +5117,12 @@ src/[012]Flyweight\ Pattern/[062]Handmade\ Flyweight/CMakeFiles/062HandmadeFlywe
 src/[012]Flyweight\ Pattern/[063]Boost-Flyweight/CMakeFiles/063BoostFlyweight.dir/all:
 	$(MAKE) -f "src/[012]Flyweight Pattern/[063]Boost-Flyweight/CMakeFiles/063BoostFlyweight.dir/build.make" "src/[012]Flyweight Pattern/[063]Boost-Flyweight/CMakeFiles/063BoostFlyweight.dir/depend"
 	$(MAKE) -f "src/[012]Flyweight Pattern/[063]Boost-Flyweight/CMakeFiles/063BoostFlyweight.dir/build.make" "src/[012]Flyweight Pattern/[063]Boost-Flyweight/CMakeFiles/063BoostFlyweight.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 063BoostFlyweight"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=42 "Built target 063BoostFlyweight"
 .PHONY : src/[012]Flyweight\ Pattern/[063]Boost-Flyweight/CMakeFiles/063BoostFlyweight.dir/all
 
 # Build rule for subdir invocation for target.
 src/[012]Flyweight\ Pattern/[063]Boost-Flyweight/CMakeFiles/063BoostFlyweight.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[012]Flyweight Pattern/[063]Boost-Flyweight/CMakeFiles/063BoostFlyweight.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[012]Flyweight\ Pattern/[063]Boost-Flyweight/CMakeFiles/063BoostFlyweight.dir/rule
@@ -5144,7 +5144,7 @@ src/[012]Flyweight\ Pattern/[063]Boost-Flyweight/CMakeFiles/063BoostFlyweight.di
 src/[012]Flyweight\ Pattern/[064]Text\ Formating/CMakeFiles/064TextFormating.dir/all:
 	$(MAKE) -f "src/[012]Flyweight Pattern/[064]Text Formating/CMakeFiles/064TextFormating.dir/build.make" "src/[012]Flyweight Pattern/[064]Text Formating/CMakeFiles/064TextFormating.dir/depend"
 	$(MAKE) -f "src/[012]Flyweight Pattern/[064]Text Formating/CMakeFiles/064TextFormating.dir/build.make" "src/[012]Flyweight Pattern/[064]Text Formating/CMakeFiles/064TextFormating.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=42 "Built target 064TextFormating"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=43 "Built target 064TextFormating"
 .PHONY : src/[012]Flyweight\ Pattern/[064]Text\ Formating/CMakeFiles/064TextFormating.dir/all
 
 # Build rule for subdir invocation for target.
@@ -5171,12 +5171,12 @@ src/[012]Flyweight\ Pattern/[064]Text\ Formating/CMakeFiles/064TextFormating.dir
 src/[012]Flyweight\ Pattern/[065]Summary/CMakeFiles/065Summary.dir/all:
 	$(MAKE) -f "src/[012]Flyweight Pattern/[065]Summary/CMakeFiles/065Summary.dir/build.make" "src/[012]Flyweight Pattern/[065]Summary/CMakeFiles/065Summary.dir/depend"
 	$(MAKE) -f "src/[012]Flyweight Pattern/[065]Summary/CMakeFiles/065Summary.dir/build.make" "src/[012]Flyweight Pattern/[065]Summary/CMakeFiles/065Summary.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=43 "Built target 065Summary"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 065Summary"
 .PHONY : src/[012]Flyweight\ Pattern/[065]Summary/CMakeFiles/065Summary.dir/all
 
 # Build rule for subdir invocation for target.
 src/[012]Flyweight\ Pattern/[065]Summary/CMakeFiles/065Summary.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[012]Flyweight Pattern/[065]Summary/CMakeFiles/065Summary.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[012]Flyweight\ Pattern/[065]Summary/CMakeFiles/065Summary.dir/rule
@@ -5252,12 +5252,12 @@ src/[013]Proxy\ Pattern/[066]Overview/CMakeFiles/066Overview.dir/clean:
 src/[013]Proxy\ Pattern/[067]Smart\ Pointers/CMakeFiles/067SmartPointers.dir/all:
 	$(MAKE) -f "src/[013]Proxy Pattern/[067]Smart Pointers/CMakeFiles/067SmartPointers.dir/build.make" "src/[013]Proxy Pattern/[067]Smart Pointers/CMakeFiles/067SmartPointers.dir/depend"
 	$(MAKE) -f "src/[013]Proxy Pattern/[067]Smart Pointers/CMakeFiles/067SmartPointers.dir/build.make" "src/[013]Proxy Pattern/[067]Smart Pointers/CMakeFiles/067SmartPointers.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 067SmartPointers"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=45 "Built target 067SmartPointers"
 .PHONY : src/[013]Proxy\ Pattern/[067]Smart\ Pointers/CMakeFiles/067SmartPointers.dir/all
 
 # Build rule for subdir invocation for target.
 src/[013]Proxy\ Pattern/[067]Smart\ Pointers/CMakeFiles/067SmartPointers.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[013]Proxy Pattern/[067]Smart Pointers/CMakeFiles/067SmartPointers.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[013]Proxy\ Pattern/[067]Smart\ Pointers/CMakeFiles/067SmartPointers.dir/rule
@@ -5279,12 +5279,12 @@ src/[013]Proxy\ Pattern/[067]Smart\ Pointers/CMakeFiles/067SmartPointers.dir/cle
 src/[013]Proxy\ Pattern/[068]Property\ Proxy/CMakeFiles/068PropertyProxy.dir/all:
 	$(MAKE) -f "src/[013]Proxy Pattern/[068]Property Proxy/CMakeFiles/068PropertyProxy.dir/build.make" "src/[013]Proxy Pattern/[068]Property Proxy/CMakeFiles/068PropertyProxy.dir/depend"
 	$(MAKE) -f "src/[013]Proxy Pattern/[068]Property Proxy/CMakeFiles/068PropertyProxy.dir/build.make" "src/[013]Proxy Pattern/[068]Property Proxy/CMakeFiles/068PropertyProxy.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=45 "Built target 068PropertyProxy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 068PropertyProxy"
 .PHONY : src/[013]Proxy\ Pattern/[068]Property\ Proxy/CMakeFiles/068PropertyProxy.dir/all
 
 # Build rule for subdir invocation for target.
 src/[013]Proxy\ Pattern/[068]Property\ Proxy/CMakeFiles/068PropertyProxy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[013]Proxy Pattern/[068]Property Proxy/CMakeFiles/068PropertyProxy.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[013]Proxy\ Pattern/[068]Property\ Proxy/CMakeFiles/068PropertyProxy.dir/rule
@@ -5333,12 +5333,12 @@ src/[013]Proxy\ Pattern/[069]Virtual\ Proxy/CMakeFiles/069VirtualProxy.dir/clean
 src/[013]Proxy\ Pattern/[070]Communication\ Proxy/CMakeFiles/070CommunicationProxy.dir/all:
 	$(MAKE) -f "src/[013]Proxy Pattern/[070]Communication Proxy/CMakeFiles/070CommunicationProxy.dir/build.make" "src/[013]Proxy Pattern/[070]Communication Proxy/CMakeFiles/070CommunicationProxy.dir/depend"
 	$(MAKE) -f "src/[013]Proxy Pattern/[070]Communication Proxy/CMakeFiles/070CommunicationProxy.dir/build.make" "src/[013]Proxy Pattern/[070]Communication Proxy/CMakeFiles/070CommunicationProxy.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 070CommunicationProxy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=47 "Built target 070CommunicationProxy"
 .PHONY : src/[013]Proxy\ Pattern/[070]Communication\ Proxy/CMakeFiles/070CommunicationProxy.dir/all
 
 # Build rule for subdir invocation for target.
 src/[013]Proxy\ Pattern/[070]Communication\ Proxy/CMakeFiles/070CommunicationProxy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[013]Proxy Pattern/[070]Communication Proxy/CMakeFiles/070CommunicationProxy.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[013]Proxy\ Pattern/[070]Communication\ Proxy/CMakeFiles/070CommunicationProxy.dir/rule
@@ -5360,12 +5360,12 @@ src/[013]Proxy\ Pattern/[070]Communication\ Proxy/CMakeFiles/070CommunicationPro
 src/[013]Proxy\ Pattern/[071]Proxy\ VS\ Decorator/CMakeFiles/071ProxyVSDecorator.dir/all:
 	$(MAKE) -f "src/[013]Proxy Pattern/[071]Proxy VS Decorator/CMakeFiles/071ProxyVSDecorator.dir/build.make" "src/[013]Proxy Pattern/[071]Proxy VS Decorator/CMakeFiles/071ProxyVSDecorator.dir/depend"
 	$(MAKE) -f "src/[013]Proxy Pattern/[071]Proxy VS Decorator/CMakeFiles/071ProxyVSDecorator.dir/build.make" "src/[013]Proxy Pattern/[071]Proxy VS Decorator/CMakeFiles/071ProxyVSDecorator.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=47 "Built target 071ProxyVSDecorator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 071ProxyVSDecorator"
 .PHONY : src/[013]Proxy\ Pattern/[071]Proxy\ VS\ Decorator/CMakeFiles/071ProxyVSDecorator.dir/all
 
 # Build rule for subdir invocation for target.
 src/[013]Proxy\ Pattern/[071]Proxy\ VS\ Decorator/CMakeFiles/071ProxyVSDecorator.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[013]Proxy Pattern/[071]Proxy VS Decorator/CMakeFiles/071ProxyVSDecorator.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[013]Proxy\ Pattern/[071]Proxy\ VS\ Decorator/CMakeFiles/071ProxyVSDecorator.dir/rule
@@ -5414,12 +5414,12 @@ src/[014]Chain\ of\ Responsibility/[073]Overview/CMakeFiles/073Overview.dir/clea
 src/[014]Chain\ of\ Responsibility/[074]Pointer\ Chain/CMakeFiles/074PointerChain.dir/all:
 	$(MAKE) -f "src/[014]Chain of Responsibility/[074]Pointer Chain/CMakeFiles/074PointerChain.dir/build.make" "src/[014]Chain of Responsibility/[074]Pointer Chain/CMakeFiles/074PointerChain.dir/depend"
 	$(MAKE) -f "src/[014]Chain of Responsibility/[074]Pointer Chain/CMakeFiles/074PointerChain.dir/build.make" "src/[014]Chain of Responsibility/[074]Pointer Chain/CMakeFiles/074PointerChain.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 074PointerChain"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=49 "Built target 074PointerChain"
 .PHONY : src/[014]Chain\ of\ Responsibility/[074]Pointer\ Chain/CMakeFiles/074PointerChain.dir/all
 
 # Build rule for subdir invocation for target.
 src/[014]Chain\ of\ Responsibility/[074]Pointer\ Chain/CMakeFiles/074PointerChain.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[014]Chain of Responsibility/[074]Pointer Chain/CMakeFiles/074PointerChain.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[014]Chain\ of\ Responsibility/[074]Pointer\ Chain/CMakeFiles/074PointerChain.dir/rule
@@ -5441,7 +5441,7 @@ src/[014]Chain\ of\ Responsibility/[074]Pointer\ Chain/CMakeFiles/074PointerChai
 src/[014]Chain\ of\ Responsibility/[075]Broker\ Chain/CMakeFiles/075BrokerChain.dir/all:
 	$(MAKE) -f "src/[014]Chain of Responsibility/[075]Broker Chain/CMakeFiles/075BrokerChain.dir/build.make" "src/[014]Chain of Responsibility/[075]Broker Chain/CMakeFiles/075BrokerChain.dir/depend"
 	$(MAKE) -f "src/[014]Chain of Responsibility/[075]Broker Chain/CMakeFiles/075BrokerChain.dir/build.make" "src/[014]Chain of Responsibility/[075]Broker Chain/CMakeFiles/075BrokerChain.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=49 "Built target 075BrokerChain"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=50 "Built target 075BrokerChain"
 .PHONY : src/[014]Chain\ of\ Responsibility/[075]Broker\ Chain/CMakeFiles/075BrokerChain.dir/all
 
 # Build rule for subdir invocation for target.
@@ -5468,12 +5468,12 @@ src/[014]Chain\ of\ Responsibility/[075]Broker\ Chain/CMakeFiles/075BrokerChain.
 src/[014]Chain\ of\ Responsibility/[076]Summary/CMakeFiles/076Summary.dir/all:
 	$(MAKE) -f "src/[014]Chain of Responsibility/[076]Summary/CMakeFiles/076Summary.dir/build.make" "src/[014]Chain of Responsibility/[076]Summary/CMakeFiles/076Summary.dir/depend"
 	$(MAKE) -f "src/[014]Chain of Responsibility/[076]Summary/CMakeFiles/076Summary.dir/build.make" "src/[014]Chain of Responsibility/[076]Summary/CMakeFiles/076Summary.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=50 "Built target 076Summary"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 076Summary"
 .PHONY : src/[014]Chain\ of\ Responsibility/[076]Summary/CMakeFiles/076Summary.dir/all
 
 # Build rule for subdir invocation for target.
 src/[014]Chain\ of\ Responsibility/[076]Summary/CMakeFiles/076Summary.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[014]Chain of Responsibility/[076]Summary/CMakeFiles/076Summary.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[014]Chain\ of\ Responsibility/[076]Summary/CMakeFiles/076Summary.dir/rule
@@ -5549,12 +5549,12 @@ src/[015]Command\ Pattern/[077]Overview/CMakeFiles/077Overview.dir/clean:
 src/[015]Command\ Pattern/[078]Command/CMakeFiles/078Command.dir/all:
 	$(MAKE) -f "src/[015]Command Pattern/[078]Command/CMakeFiles/078Command.dir/build.make" "src/[015]Command Pattern/[078]Command/CMakeFiles/078Command.dir/depend"
 	$(MAKE) -f "src/[015]Command Pattern/[078]Command/CMakeFiles/078Command.dir/build.make" "src/[015]Command Pattern/[078]Command/CMakeFiles/078Command.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 078Command"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=52 "Built target 078Command"
 .PHONY : src/[015]Command\ Pattern/[078]Command/CMakeFiles/078Command.dir/all
 
 # Build rule for subdir invocation for target.
 src/[015]Command\ Pattern/[078]Command/CMakeFiles/078Command.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[015]Command Pattern/[078]Command/CMakeFiles/078Command.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[015]Command\ Pattern/[078]Command/CMakeFiles/078Command.dir/rule
@@ -5576,12 +5576,12 @@ src/[015]Command\ Pattern/[078]Command/CMakeFiles/078Command.dir/clean:
 src/[015]Command\ Pattern/[079]Undo\ Operations/CMakeFiles/079UndoOperations.dir/all:
 	$(MAKE) -f "src/[015]Command Pattern/[079]Undo Operations/CMakeFiles/079UndoOperations.dir/build.make" "src/[015]Command Pattern/[079]Undo Operations/CMakeFiles/079UndoOperations.dir/depend"
 	$(MAKE) -f "src/[015]Command Pattern/[079]Undo Operations/CMakeFiles/079UndoOperations.dir/build.make" "src/[015]Command Pattern/[079]Undo Operations/CMakeFiles/079UndoOperations.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=52 "Built target 079UndoOperations"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 079UndoOperations"
 .PHONY : src/[015]Command\ Pattern/[079]Undo\ Operations/CMakeFiles/079UndoOperations.dir/all
 
 # Build rule for subdir invocation for target.
 src/[015]Command\ Pattern/[079]Undo\ Operations/CMakeFiles/079UndoOperations.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[015]Command Pattern/[079]Undo Operations/CMakeFiles/079UndoOperations.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[015]Command\ Pattern/[079]Undo\ Operations/CMakeFiles/079UndoOperations.dir/rule
@@ -5630,12 +5630,12 @@ src/[015]Command\ Pattern/[080]Composive\ Commands/CMakeFiles/080ComposiveComman
 src/[015]Command\ Pattern/[081]Summary/CMakeFiles/081Summary.dir/all:
 	$(MAKE) -f "src/[015]Command Pattern/[081]Summary/CMakeFiles/081Summary.dir/build.make" "src/[015]Command Pattern/[081]Summary/CMakeFiles/081Summary.dir/depend"
 	$(MAKE) -f "src/[015]Command Pattern/[081]Summary/CMakeFiles/081Summary.dir/build.make" "src/[015]Command Pattern/[081]Summary/CMakeFiles/081Summary.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 081Summary"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=54 "Built target 081Summary"
 .PHONY : src/[015]Command\ Pattern/[081]Summary/CMakeFiles/081Summary.dir/all
 
 # Build rule for subdir invocation for target.
 src/[015]Command\ Pattern/[081]Summary/CMakeFiles/081Summary.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[015]Command Pattern/[081]Summary/CMakeFiles/081Summary.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[015]Command\ Pattern/[081]Summary/CMakeFiles/081Summary.dir/rule
@@ -5684,12 +5684,12 @@ src/[015]Command\ Pattern/[Exercise]Command\ Coding\ Exercise/CMakeFiles/Exercis
 src/[016]Interpreter\ Pattern/[082]Overview/CMakeFiles/082Overview.dir/all:
 	$(MAKE) -f "src/[016]Interpreter Pattern/[082]Overview/CMakeFiles/082Overview.dir/build.make" "src/[016]Interpreter Pattern/[082]Overview/CMakeFiles/082Overview.dir/depend"
 	$(MAKE) -f "src/[016]Interpreter Pattern/[082]Overview/CMakeFiles/082Overview.dir/build.make" "src/[016]Interpreter Pattern/[082]Overview/CMakeFiles/082Overview.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=54 "Built target 082Overview"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 082Overview"
 .PHONY : src/[016]Interpreter\ Pattern/[082]Overview/CMakeFiles/082Overview.dir/all
 
 # Build rule for subdir invocation for target.
 src/[016]Interpreter\ Pattern/[082]Overview/CMakeFiles/082Overview.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[016]Interpreter Pattern/[082]Overview/CMakeFiles/082Overview.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[016]Interpreter\ Pattern/[082]Overview/CMakeFiles/082Overview.dir/rule
@@ -5738,12 +5738,12 @@ src/[016]Interpreter\ Pattern/[083]Handmade\ Interpeter\ -\ Lexing/CMakeFiles/08
 src/[016]Interpreter\ Pattern/[084]Handmade\ Interpeter\ -\ Parsing/CMakeFiles/084HandmadeInterpeter-Parsing.dir/all:
 	$(MAKE) -f "src/[016]Interpreter Pattern/[084]Handmade Interpeter - Parsing/CMakeFiles/084HandmadeInterpeter-Parsing.dir/build.make" "src/[016]Interpreter Pattern/[084]Handmade Interpeter - Parsing/CMakeFiles/084HandmadeInterpeter-Parsing.dir/depend"
 	$(MAKE) -f "src/[016]Interpreter Pattern/[084]Handmade Interpeter - Parsing/CMakeFiles/084HandmadeInterpeter-Parsing.dir/build.make" "src/[016]Interpreter Pattern/[084]Handmade Interpeter - Parsing/CMakeFiles/084HandmadeInterpeter-Parsing.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 084HandmadeInterpeter-Parsing"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=56 "Built target 084HandmadeInterpeter-Parsing"
 .PHONY : src/[016]Interpreter\ Pattern/[084]Handmade\ Interpeter\ -\ Parsing/CMakeFiles/084HandmadeInterpeter-Parsing.dir/all
 
 # Build rule for subdir invocation for target.
 src/[016]Interpreter\ Pattern/[084]Handmade\ Interpeter\ -\ Parsing/CMakeFiles/084HandmadeInterpeter-Parsing.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[016]Interpreter Pattern/[084]Handmade Interpeter - Parsing/CMakeFiles/084HandmadeInterpeter-Parsing.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[016]Interpreter\ Pattern/[084]Handmade\ Interpeter\ -\ Parsing/CMakeFiles/084HandmadeInterpeter-Parsing.dir/rule
@@ -5765,12 +5765,12 @@ src/[016]Interpreter\ Pattern/[084]Handmade\ Interpeter\ -\ Parsing/CMakeFiles/0
 src/[016]Interpreter\ Pattern/[085]Coding\ Parsers\ with\ Boost.Spirit/CMakeFiles/085CodingParserswithBoost.Spirit.dir/all:
 	$(MAKE) -f "src/[016]Interpreter Pattern/[085]Coding Parsers with Boost.Spirit/CMakeFiles/085CodingParserswithBoost.Spirit.dir/build.make" "src/[016]Interpreter Pattern/[085]Coding Parsers with Boost.Spirit/CMakeFiles/085CodingParserswithBoost.Spirit.dir/depend"
 	$(MAKE) -f "src/[016]Interpreter Pattern/[085]Coding Parsers with Boost.Spirit/CMakeFiles/085CodingParserswithBoost.Spirit.dir/build.make" "src/[016]Interpreter Pattern/[085]Coding Parsers with Boost.Spirit/CMakeFiles/085CodingParserswithBoost.Spirit.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=56 "Built target 085CodingParserswithBoost.Spirit"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 085CodingParserswithBoost.Spirit"
 .PHONY : src/[016]Interpreter\ Pattern/[085]Coding\ Parsers\ with\ Boost.Spirit/CMakeFiles/085CodingParserswithBoost.Spirit.dir/all
 
 # Build rule for subdir invocation for target.
 src/[016]Interpreter\ Pattern/[085]Coding\ Parsers\ with\ Boost.Spirit/CMakeFiles/085CodingParserswithBoost.Spirit.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[016]Interpreter Pattern/[085]Coding Parsers with Boost.Spirit/CMakeFiles/085CodingParserswithBoost.Spirit.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[016]Interpreter\ Pattern/[085]Coding\ Parsers\ with\ Boost.Spirit/CMakeFiles/085CodingParserswithBoost.Spirit.dir/rule
@@ -5873,12 +5873,12 @@ src/[017]Iterator\ Pattern/[087]Overview/CMakeFiles/087Overview.dir/clean:
 src/[017]Iterator\ Pattern/[088]Iterators\ In\ The\ Standard\ Library/CMakeFiles/088IteratorsInTheStandardLibrary.dir/all:
 	$(MAKE) -f "src/[017]Iterator Pattern/[088]Iterators In The Standard Library/CMakeFiles/088IteratorsInTheStandardLibrary.dir/build.make" "src/[017]Iterator Pattern/[088]Iterators In The Standard Library/CMakeFiles/088IteratorsInTheStandardLibrary.dir/depend"
 	$(MAKE) -f "src/[017]Iterator Pattern/[088]Iterators In The Standard Library/CMakeFiles/088IteratorsInTheStandardLibrary.dir/build.make" "src/[017]Iterator Pattern/[088]Iterators In The Standard Library/CMakeFiles/088IteratorsInTheStandardLibrary.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 088IteratorsInTheStandardLibrary"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=59 "Built target 088IteratorsInTheStandardLibrary"
 .PHONY : src/[017]Iterator\ Pattern/[088]Iterators\ In\ The\ Standard\ Library/CMakeFiles/088IteratorsInTheStandardLibrary.dir/all
 
 # Build rule for subdir invocation for target.
 src/[017]Iterator\ Pattern/[088]Iterators\ In\ The\ Standard\ Library/CMakeFiles/088IteratorsInTheStandardLibrary.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[017]Iterator Pattern/[088]Iterators In The Standard Library/CMakeFiles/088IteratorsInTheStandardLibrary.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[017]Iterator\ Pattern/[088]Iterators\ In\ The\ Standard\ Library/CMakeFiles/088IteratorsInTheStandardLibrary.dir/rule
@@ -5900,12 +5900,12 @@ src/[017]Iterator\ Pattern/[088]Iterators\ In\ The\ Standard\ Library/CMakeFiles
 src/[017]Iterator\ Pattern/[089]Binary\ Tree\ Iterator/CMakeFiles/089BinaryTreeIterator.dir/all:
 	$(MAKE) -f "src/[017]Iterator Pattern/[089]Binary Tree Iterator/CMakeFiles/089BinaryTreeIterator.dir/build.make" "src/[017]Iterator Pattern/[089]Binary Tree Iterator/CMakeFiles/089BinaryTreeIterator.dir/depend"
 	$(MAKE) -f "src/[017]Iterator Pattern/[089]Binary Tree Iterator/CMakeFiles/089BinaryTreeIterator.dir/build.make" "src/[017]Iterator Pattern/[089]Binary Tree Iterator/CMakeFiles/089BinaryTreeIterator.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=59 "Built target 089BinaryTreeIterator"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 089BinaryTreeIterator"
 .PHONY : src/[017]Iterator\ Pattern/[089]Binary\ Tree\ Iterator/CMakeFiles/089BinaryTreeIterator.dir/all
 
 # Build rule for subdir invocation for target.
 src/[017]Iterator\ Pattern/[089]Binary\ Tree\ Iterator/CMakeFiles/089BinaryTreeIterator.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[017]Iterator Pattern/[089]Binary Tree Iterator/CMakeFiles/089BinaryTreeIterator.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[017]Iterator\ Pattern/[089]Binary\ Tree\ Iterator/CMakeFiles/089BinaryTreeIterator.dir/rule
@@ -5954,12 +5954,12 @@ src/[017]Iterator\ Pattern/[090]Tree\ Iterator\ with\ Coroutines/CMakeFiles/090T
 src/[017]Iterator\ Pattern/[091]Boost\ Iterator\ Facade/CMakeFiles/091BoostIteratorFacade.dir/all:
 	$(MAKE) -f "src/[017]Iterator Pattern/[091]Boost Iterator Facade/CMakeFiles/091BoostIteratorFacade.dir/build.make" "src/[017]Iterator Pattern/[091]Boost Iterator Facade/CMakeFiles/091BoostIteratorFacade.dir/depend"
 	$(MAKE) -f "src/[017]Iterator Pattern/[091]Boost Iterator Facade/CMakeFiles/091BoostIteratorFacade.dir/build.make" "src/[017]Iterator Pattern/[091]Boost Iterator Facade/CMakeFiles/091BoostIteratorFacade.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 091BoostIteratorFacade"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=61 "Built target 091BoostIteratorFacade"
 .PHONY : src/[017]Iterator\ Pattern/[091]Boost\ Iterator\ Facade/CMakeFiles/091BoostIteratorFacade.dir/all
 
 # Build rule for subdir invocation for target.
 src/[017]Iterator\ Pattern/[091]Boost\ Iterator\ Facade/CMakeFiles/091BoostIteratorFacade.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[017]Iterator Pattern/[091]Boost Iterator Facade/CMakeFiles/091BoostIteratorFacade.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[017]Iterator\ Pattern/[091]Boost\ Iterator\ Facade/CMakeFiles/091BoostIteratorFacade.dir/rule
@@ -5981,12 +5981,12 @@ src/[017]Iterator\ Pattern/[091]Boost\ Iterator\ Facade/CMakeFiles/091BoostItera
 src/[017]Iterator\ Pattern/[092]Summary/CMakeFiles/092Summary.dir/all:
 	$(MAKE) -f "src/[017]Iterator Pattern/[092]Summary/CMakeFiles/092Summary.dir/build.make" "src/[017]Iterator Pattern/[092]Summary/CMakeFiles/092Summary.dir/depend"
 	$(MAKE) -f "src/[017]Iterator Pattern/[092]Summary/CMakeFiles/092Summary.dir/build.make" "src/[017]Iterator Pattern/[092]Summary/CMakeFiles/092Summary.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=61 "Built target 092Summary"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 092Summary"
 .PHONY : src/[017]Iterator\ Pattern/[092]Summary/CMakeFiles/092Summary.dir/all
 
 # Build rule for subdir invocation for target.
 src/[017]Iterator\ Pattern/[092]Summary/CMakeFiles/092Summary.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[017]Iterator Pattern/[092]Summary/CMakeFiles/092Summary.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[017]Iterator\ Pattern/[092]Summary/CMakeFiles/092Summary.dir/rule
@@ -6062,12 +6062,12 @@ src/[018]Mediator\ Pattern/[093]Overview/CMakeFiles/093Overview.dir/clean:
 src/[018]Mediator\ Pattern/[094]Chat\ Room/CMakeFiles/094ChatRoom.dir/all:
 	$(MAKE) -f "src/[018]Mediator Pattern/[094]Chat Room/CMakeFiles/094ChatRoom.dir/build.make" "src/[018]Mediator Pattern/[094]Chat Room/CMakeFiles/094ChatRoom.dir/depend"
 	$(MAKE) -f "src/[018]Mediator Pattern/[094]Chat Room/CMakeFiles/094ChatRoom.dir/build.make" "src/[018]Mediator Pattern/[094]Chat Room/CMakeFiles/094ChatRoom.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 094ChatRoom"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=63 "Built target 094ChatRoom"
 .PHONY : src/[018]Mediator\ Pattern/[094]Chat\ Room/CMakeFiles/094ChatRoom.dir/all
 
 # Build rule for subdir invocation for target.
 src/[018]Mediator\ Pattern/[094]Chat\ Room/CMakeFiles/094ChatRoom.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[018]Mediator Pattern/[094]Chat Room/CMakeFiles/094ChatRoom.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[018]Mediator\ Pattern/[094]Chat\ Room/CMakeFiles/094ChatRoom.dir/rule
@@ -6089,12 +6089,12 @@ src/[018]Mediator\ Pattern/[094]Chat\ Room/CMakeFiles/094ChatRoom.dir/clean:
 src/[018]Mediator\ Pattern/[095]Event\ Broker/CMakeFiles/095EventBroker.dir/all:
 	$(MAKE) -f "src/[018]Mediator Pattern/[095]Event Broker/CMakeFiles/095EventBroker.dir/build.make" "src/[018]Mediator Pattern/[095]Event Broker/CMakeFiles/095EventBroker.dir/depend"
 	$(MAKE) -f "src/[018]Mediator Pattern/[095]Event Broker/CMakeFiles/095EventBroker.dir/build.make" "src/[018]Mediator Pattern/[095]Event Broker/CMakeFiles/095EventBroker.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=63 "Built target 095EventBroker"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 095EventBroker"
 .PHONY : src/[018]Mediator\ Pattern/[095]Event\ Broker/CMakeFiles/095EventBroker.dir/all
 
 # Build rule for subdir invocation for target.
 src/[018]Mediator\ Pattern/[095]Event\ Broker/CMakeFiles/095EventBroker.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[018]Mediator Pattern/[095]Event Broker/CMakeFiles/095EventBroker.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[018]Mediator\ Pattern/[095]Event\ Broker/CMakeFiles/095EventBroker.dir/rule
@@ -6278,12 +6278,12 @@ src/[019]Memento\ Pattern/[100]Automatic\ Memento/CMakeFiles/100AutomaticMemento
 src/[019]Memento\ Pattern/[101]Summary/CMakeFiles/101Summary.dir/all:
 	$(MAKE) -f "src/[019]Memento Pattern/[101]Summary/CMakeFiles/101Summary.dir/build.make" "src/[019]Memento Pattern/[101]Summary/CMakeFiles/101Summary.dir/depend"
 	$(MAKE) -f "src/[019]Memento Pattern/[101]Summary/CMakeFiles/101Summary.dir/build.make" "src/[019]Memento Pattern/[101]Summary/CMakeFiles/101Summary.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 101Summary"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=68 "Built target 101Summary"
 .PHONY : src/[019]Memento\ Pattern/[101]Summary/CMakeFiles/101Summary.dir/all
 
 # Build rule for subdir invocation for target.
 src/[019]Memento\ Pattern/[101]Summary/CMakeFiles/101Summary.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[019]Memento Pattern/[101]Summary/CMakeFiles/101Summary.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[019]Memento\ Pattern/[101]Summary/CMakeFiles/101Summary.dir/rule
@@ -6332,12 +6332,12 @@ src/[019]Memento\ Pattern/[Exercise]Memento\ Coding\ Exercise/CMakeFiles/Exercis
 src/[020]Observer\ Pattern/[102]Overview/CMakeFiles/102Overview.dir/all:
 	$(MAKE) -f "src/[020]Observer Pattern/[102]Overview/CMakeFiles/102Overview.dir/build.make" "src/[020]Observer Pattern/[102]Overview/CMakeFiles/102Overview.dir/depend"
 	$(MAKE) -f "src/[020]Observer Pattern/[102]Overview/CMakeFiles/102Overview.dir/build.make" "src/[020]Observer Pattern/[102]Overview/CMakeFiles/102Overview.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=68 "Built target 102Overview"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 102Overview"
 .PHONY : src/[020]Observer\ Pattern/[102]Overview/CMakeFiles/102Overview.dir/all
 
 # Build rule for subdir invocation for target.
 src/[020]Observer\ Pattern/[102]Overview/CMakeFiles/102Overview.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[020]Observer Pattern/[102]Overview/CMakeFiles/102Overview.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[020]Observer\ Pattern/[102]Overview/CMakeFiles/102Overview.dir/rule
@@ -6386,12 +6386,12 @@ src/[020]Observer\ Pattern/[103]Observer/CMakeFiles/103Observer.dir/clean:
 src/[020]Observer\ Pattern/[104]Observable/CMakeFiles/104Observable.dir/all:
 	$(MAKE) -f "src/[020]Observer Pattern/[104]Observable/CMakeFiles/104Observable.dir/build.make" "src/[020]Observer Pattern/[104]Observable/CMakeFiles/104Observable.dir/depend"
 	$(MAKE) -f "src/[020]Observer Pattern/[104]Observable/CMakeFiles/104Observable.dir/build.make" "src/[020]Observer Pattern/[104]Observable/CMakeFiles/104Observable.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 104Observable"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=70 "Built target 104Observable"
 .PHONY : src/[020]Observer\ Pattern/[104]Observable/CMakeFiles/104Observable.dir/all
 
 # Build rule for subdir invocation for target.
 src/[020]Observer\ Pattern/[104]Observable/CMakeFiles/104Observable.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[020]Observer Pattern/[104]Observable/CMakeFiles/104Observable.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[020]Observer\ Pattern/[104]Observable/CMakeFiles/104Observable.dir/rule
@@ -6413,12 +6413,12 @@ src/[020]Observer\ Pattern/[104]Observable/CMakeFiles/104Observable.dir/clean:
 src/[020]Observer\ Pattern/[105]Observable\ with\ Boost.Signals/CMakeFiles/105ObservablewithBoost.Signals.dir/all:
 	$(MAKE) -f "src/[020]Observer Pattern/[105]Observable with Boost.Signals/CMakeFiles/105ObservablewithBoost.Signals.dir/build.make" "src/[020]Observer Pattern/[105]Observable with Boost.Signals/CMakeFiles/105ObservablewithBoost.Signals.dir/depend"
 	$(MAKE) -f "src/[020]Observer Pattern/[105]Observable with Boost.Signals/CMakeFiles/105ObservablewithBoost.Signals.dir/build.make" "src/[020]Observer Pattern/[105]Observable with Boost.Signals/CMakeFiles/105ObservablewithBoost.Signals.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=70 "Built target 105ObservablewithBoost.Signals"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 105ObservablewithBoost.Signals"
 .PHONY : src/[020]Observer\ Pattern/[105]Observable\ with\ Boost.Signals/CMakeFiles/105ObservablewithBoost.Signals.dir/all
 
 # Build rule for subdir invocation for target.
 src/[020]Observer\ Pattern/[105]Observable\ with\ Boost.Signals/CMakeFiles/105ObservablewithBoost.Signals.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[020]Observer Pattern/[105]Observable with Boost.Signals/CMakeFiles/105ObservablewithBoost.Signals.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[020]Observer\ Pattern/[105]Observable\ with\ Boost.Signals/CMakeFiles/105ObservablewithBoost.Signals.dir/rule
@@ -6602,12 +6602,12 @@ src/[021]State\ Pattern/[110]Classic\ State\ Implementation/CMakeFiles/110Classi
 src/[021]State\ Pattern/[111]Handmade\ State\ Machine/CMakeFiles/111HandmadeStateMachine.dir/all:
 	$(MAKE) -f "src/[021]State Pattern/[111]Handmade State Machine/CMakeFiles/111HandmadeStateMachine.dir/build.make" "src/[021]State Pattern/[111]Handmade State Machine/CMakeFiles/111HandmadeStateMachine.dir/depend"
 	$(MAKE) -f "src/[021]State Pattern/[111]Handmade State Machine/CMakeFiles/111HandmadeStateMachine.dir/build.make" "src/[021]State Pattern/[111]Handmade State Machine/CMakeFiles/111HandmadeStateMachine.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 111HandmadeStateMachine"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=75 "Built target 111HandmadeStateMachine"
 .PHONY : src/[021]State\ Pattern/[111]Handmade\ State\ Machine/CMakeFiles/111HandmadeStateMachine.dir/all
 
 # Build rule for subdir invocation for target.
 src/[021]State\ Pattern/[111]Handmade\ State\ Machine/CMakeFiles/111HandmadeStateMachine.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[021]State Pattern/[111]Handmade State Machine/CMakeFiles/111HandmadeStateMachine.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[021]State\ Pattern/[111]Handmade\ State\ Machine/CMakeFiles/111HandmadeStateMachine.dir/rule
@@ -6629,12 +6629,12 @@ src/[021]State\ Pattern/[111]Handmade\ State\ Machine/CMakeFiles/111HandmadeStat
 src/[021]State\ Pattern/[112]State\ Machine\ With\ Boost.MSM/CMakeFiles/112StateMachineWithBoost.MSM.dir/all:
 	$(MAKE) -f "src/[021]State Pattern/[112]State Machine With Boost.MSM/CMakeFiles/112StateMachineWithBoost.MSM.dir/build.make" "src/[021]State Pattern/[112]State Machine With Boost.MSM/CMakeFiles/112StateMachineWithBoost.MSM.dir/depend"
 	$(MAKE) -f "src/[021]State Pattern/[112]State Machine With Boost.MSM/CMakeFiles/112StateMachineWithBoost.MSM.dir/build.make" "src/[021]State Pattern/[112]State Machine With Boost.MSM/CMakeFiles/112StateMachineWithBoost.MSM.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=75 "Built target 112StateMachineWithBoost.MSM"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 112StateMachineWithBoost.MSM"
 .PHONY : src/[021]State\ Pattern/[112]State\ Machine\ With\ Boost.MSM/CMakeFiles/112StateMachineWithBoost.MSM.dir/all
 
 # Build rule for subdir invocation for target.
 src/[021]State\ Pattern/[112]State\ Machine\ With\ Boost.MSM/CMakeFiles/112StateMachineWithBoost.MSM.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[021]State Pattern/[112]State Machine With Boost.MSM/CMakeFiles/112StateMachineWithBoost.MSM.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[021]State\ Pattern/[112]State\ Machine\ With\ Boost.MSM/CMakeFiles/112StateMachineWithBoost.MSM.dir/rule
@@ -6710,12 +6710,12 @@ src/[021]State\ Pattern/[Exercise]State\ Coding\ Exercise/CMakeFiles/ExerciseSta
 src/[022]Strategy\ Pattern/[114]Overview/CMakeFiles/114Overview.dir/all:
 	$(MAKE) -f "src/[022]Strategy Pattern/[114]Overview/CMakeFiles/114Overview.dir/build.make" "src/[022]Strategy Pattern/[114]Overview/CMakeFiles/114Overview.dir/depend"
 	$(MAKE) -f "src/[022]Strategy Pattern/[114]Overview/CMakeFiles/114Overview.dir/build.make" "src/[022]Strategy Pattern/[114]Overview/CMakeFiles/114Overview.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 114Overview"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=77 "Built target 114Overview"
 .PHONY : src/[022]Strategy\ Pattern/[114]Overview/CMakeFiles/114Overview.dir/all
 
 # Build rule for subdir invocation for target.
 src/[022]Strategy\ Pattern/[114]Overview/CMakeFiles/114Overview.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[022]Strategy Pattern/[114]Overview/CMakeFiles/114Overview.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[022]Strategy\ Pattern/[114]Overview/CMakeFiles/114Overview.dir/rule
@@ -6737,12 +6737,12 @@ src/[022]Strategy\ Pattern/[114]Overview/CMakeFiles/114Overview.dir/clean:
 src/[022]Strategy\ Pattern/[115]Dynamic\ Strategy/CMakeFiles/115DynamicStrategy.dir/all:
 	$(MAKE) -f "src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeFiles/115DynamicStrategy.dir/build.make" "src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeFiles/115DynamicStrategy.dir/depend"
 	$(MAKE) -f "src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeFiles/115DynamicStrategy.dir/build.make" "src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeFiles/115DynamicStrategy.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=77 "Built target 115DynamicStrategy"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 115DynamicStrategy"
 .PHONY : src/[022]Strategy\ Pattern/[115]Dynamic\ Strategy/CMakeFiles/115DynamicStrategy.dir/all
 
 # Build rule for subdir invocation for target.
 src/[022]Strategy\ Pattern/[115]Dynamic\ Strategy/CMakeFiles/115DynamicStrategy.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeFiles/115DynamicStrategy.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[022]Strategy\ Pattern/[115]Dynamic\ Strategy/CMakeFiles/115DynamicStrategy.dir/rule
@@ -7034,12 +7034,12 @@ src/[024]Visitor\ Pattern/[124]Classic\ Visitor\ [double\ patch]/CMakeFiles/124C
 src/[024]Visitor\ Pattern/[125]Acyclic\ Visitor/CMakeFiles/125AcyclicVisitor.dir/all:
 	$(MAKE) -f "src/[024]Visitor Pattern/[125]Acyclic Visitor/CMakeFiles/125AcyclicVisitor.dir/build.make" "src/[024]Visitor Pattern/[125]Acyclic Visitor/CMakeFiles/125AcyclicVisitor.dir/depend"
 	$(MAKE) -f "src/[024]Visitor Pattern/[125]Acyclic Visitor/CMakeFiles/125AcyclicVisitor.dir/build.make" "src/[024]Visitor Pattern/[125]Acyclic Visitor/CMakeFiles/125AcyclicVisitor.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 125AcyclicVisitor"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=84 "Built target 125AcyclicVisitor"
 .PHONY : src/[024]Visitor\ Pattern/[125]Acyclic\ Visitor/CMakeFiles/125AcyclicVisitor.dir/all
 
 # Build rule for subdir invocation for target.
 src/[024]Visitor\ Pattern/[125]Acyclic\ Visitor/CMakeFiles/125AcyclicVisitor.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[024]Visitor Pattern/[125]Acyclic Visitor/CMakeFiles/125AcyclicVisitor.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[024]Visitor\ Pattern/[125]Acyclic\ Visitor/CMakeFiles/125AcyclicVisitor.dir/rule
@@ -7061,12 +7061,12 @@ src/[024]Visitor\ Pattern/[125]Acyclic\ Visitor/CMakeFiles/125AcyclicVisitor.dir
 src/[024]Visitor\ Pattern/[126]Multimethods/CMakeFiles/126Multimethods.dir/all:
 	$(MAKE) -f "src/[024]Visitor Pattern/[126]Multimethods/CMakeFiles/126Multimethods.dir/build.make" "src/[024]Visitor Pattern/[126]Multimethods/CMakeFiles/126Multimethods.dir/depend"
 	$(MAKE) -f "src/[024]Visitor Pattern/[126]Multimethods/CMakeFiles/126Multimethods.dir/build.make" "src/[024]Visitor Pattern/[126]Multimethods/CMakeFiles/126Multimethods.dir/build"
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num=84 "Built target 126Multimethods"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles --progress-num= "Built target 126Multimethods"
 .PHONY : src/[024]Visitor\ Pattern/[126]Multimethods/CMakeFiles/126Multimethods.dir/all
 
 # Build rule for subdir invocation for target.
 src/[024]Visitor\ Pattern/[126]Multimethods/CMakeFiles/126Multimethods.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 1
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 	$(MAKE) -f CMakeFiles/Makefile2 "src/[024]Visitor Pattern/[126]Multimethods/CMakeFiles/126Multimethods.dir/all"
 	$(CMAKE_COMMAND) -E cmake_progress_start /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/CMakeFiles 0
 .PHONY : src/[024]Visitor\ Pattern/[126]Multimethods/CMakeFiles/126Multimethods.dir/rule
