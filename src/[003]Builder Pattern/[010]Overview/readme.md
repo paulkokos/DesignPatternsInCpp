@@ -12,4 +12,4 @@ When piecewise object construction is complicated, provide an API for doing it s
 
 Builder pattern aims to “Separate the construction of a complex object from its representation so that the same construction process can create different representations.” It is used to construct a complex object step by step and the final step will return the object. The process of constructing an object should be generic so that it can be used to create different representations of the same object.
 
-![alt text](uml-of-builedr.jpg "Title")
+![alt text](uml-of-builedr.jpg "Diagram of builder design pattern")
