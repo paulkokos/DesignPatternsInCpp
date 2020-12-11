@@ -167,9 +167,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Builder Pattern">
-      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets/Facets.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets/[015]BuilderFacets.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets/[015]BuilderFacets.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/depend.internal" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/depend.internal" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/depend.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[008]Summary/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[008]Summary/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -226,11 +229,6 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.015BuilderFacets">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="All Tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="Google_Tests_run" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1153,14 +1151,9 @@
       <workItem from="1606986651082" duration="529000" />
       <workItem from="1607007125858" duration="21837000" />
       <workItem from="1607034991511" duration="17672000" />
-      <workItem from="1607463911924" duration="390000" />
-    </task>
-    <task id="LOCAL-00020" summary="Initial Commit corrections">
-      <created>1602193731333</created>
-      <option name="number" value="00020" />
-      <option name="presentableId" value="LOCAL-00020" />
-      <option name="project" value="LOCAL" />
-      <updated>1602193731333</updated>
+      <workItem from="1607463911924" duration="1141000" />
+      <workItem from="1607636091237" duration="2897000" />
+      <workItem from="1607720416632" duration="1045000" />
     </task>
     <task id="LOCAL-00021" summary="Initial Commit corrections">
       <created>1602193779695</created>
@@ -1498,7 +1491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607464184524</updated>
     </task>
-    <option name="localTasksCounter" value="69" />
+    <task id="LOCAL-00069" summary="Builder Pattern">
+      <created>1607464428059</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1607464428060</updated>
+    </task>
+    <option name="localTasksCounter" value="70" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

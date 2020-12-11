@@ -6,7 +6,55 @@
 
 #IncludeRegexTransform: 
 
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/Person.cpp
+Person.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/Person.h
+PersonBuilder.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonBuilder.h
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/Person.h
+string
+-
+iostream
+-
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonAddressBuilder.h
+string
+-
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonBuilder.cpp
+PersonBuilder.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonBuilder.h
+PersonAddressBuilder.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonAddressBuilder.h
+PersonJobBuilder.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonJobBuilder.h
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonBuilder.h
+Person.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/Person.h
+
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonJobBuilder.h
+PersonBuilder.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonBuilder.h
+
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/[015]BuilderFacets.cpp
 iostream
 -
+string
+-
+vector
+-
+sstream
+-
+string
+-
+Person.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/Person.h
+PersonBuilder.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonBuilder.h
+PersonAddressBuilder.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonAddressBuilder.h
+PersonJobBuilder.h
+/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[015]Builder Facets/PersonJobBuilder.h
 
