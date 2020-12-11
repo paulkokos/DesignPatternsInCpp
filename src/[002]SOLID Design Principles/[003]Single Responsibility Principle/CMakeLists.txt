@@ -1,1 +1,1 @@
-add_executable(003SingleResponsibilityPrinciple [003]Single\ Responsibility\ Principle.cpp sources/Journal.cpp include/Journal.hpp sources/PersistenceManager.cpp include/PersistenceManager.hpp)
+add_executable(003SingleResponsibilityPrinciple [003]Single\ Responsibility\ Principle.cpp source/Journal.cpp include/Journal.hpp source/PersistenceManager.cpp include/PersistenceManager.hpp)
