@@ -166,7 +166,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[002][006]Interface Segmentation Principle&#10;[002][005]Liskov Substitution Principle&#10;[003][011] Life without builders&#10;Corrections" />
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[002][007]Dependency Inversion Principle&#10;Corrections">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[007]Dependency Inversion Principle/[007]Dependency Inversion Principle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[007]Dependency Inversion Principle/[007]Dependency Inversion Principle.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[007]Dependency Inversion Principle/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[007]Dependency Inversion Principle/readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -1146,14 +1150,7 @@
       <workItem from="1607034991511" duration="17672000" />
       <workItem from="1607463911924" duration="1141000" />
       <workItem from="1607636091237" duration="2897000" />
-      <workItem from="1607720416632" duration="6223000" />
-    </task>
-    <task id="LOCAL-00028" summary="Initial Commit corrections">
-      <created>1602536160609</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1602536160609</updated>
+      <workItem from="1607720416632" duration="8570000" />
     </task>
     <task id="LOCAL-00029" summary="Initial Commit corrections">
       <created>1602536247095</created>
@@ -1491,7 +1488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607728092901</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="[002][007]Dependency Inversion Principle&#10;Corrections">
+      <created>1607728432017</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1607728432017</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1527,6 +1531,7 @@
     <MESSAGE value="[003][009] Gamma categorization corrections" />
     <MESSAGE value="[003][010] Overview" />
     <MESSAGE value="[002][006]Interface Segmentation Principle&#10;[002][005]Liskov Substitution Principle&#10;[003][011] Life without builders&#10;Corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="[002][006]Interface Segmentation Principle&#10;[002][005]Liskov Substitution Principle&#10;[003][011] Life without builders&#10;Corrections" />
+    <MESSAGE value="[002][007]Dependency Inversion Principle&#10;Corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="[002][007]Dependency Inversion Principle&#10;Corrections" />
   </component>
 </project>

@@ -59,6 +59,7 @@ struct Research // high-level
             cout << "John has a child called " << child.name << endl;
         }
     }
+    // BAD IDEA
 //  Research(const Relationships& relationships)
 //  {
 //    auto& relations = relationships.relations;
