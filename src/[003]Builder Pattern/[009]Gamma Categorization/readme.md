@@ -1,3 +1,7 @@
+#### Design patterns
+* Design patterns are typically split into three categories.
+* This is Gamma categorization after Erich Gamma, one of GoF authors.
+
 #### Creational patterns </br>
 * Deal with the creation (construction) of objects
 * Explicit (constructor) VS implisit (DI,reflection)
@@ -8,4 +12,3 @@
 * Stress the importance of good API design
 #### Behavioral Patterns
 * They are all difference; No central theme
-* 
