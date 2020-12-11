@@ -167,8 +167,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[003][009] Gamma categorization corrections">
+      <change afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[010]Overview/uml-of-builedr.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[009]Gamma Categorization/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[009]Gamma Categorization/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[010]Overview/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[010]Overview/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -204,17 +206,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PUML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SDL2Tutorial" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[003]Builder Pattern/[010]Overview" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/[003]Builder Pattern/[010]Overview" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[02]SOLID Design Principles" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[02]SOLID Design Principles\[3]Single Responsibility Principle" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[12]Flyweight Pattern\[65]Summary" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[12]Flyweight Pattern\[64]Text Formating" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[12]Flyweight Pattern\[63]Boost.Flyweight" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets" />
@@ -1149,14 +1151,7 @@
       <workItem from="1607034991511" duration="17672000" />
       <workItem from="1607463911924" duration="1141000" />
       <workItem from="1607636091237" duration="2897000" />
-      <workItem from="1607720416632" duration="2188000" />
-    </task>
-    <task id="LOCAL-00023" summary="Initial Commit corrections">
-      <created>1602285413285</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1602285413285</updated>
+      <workItem from="1607720416632" duration="3041000" />
     </task>
     <task id="LOCAL-00024" summary="Initial Commit corrections">
       <created>1602324541794</created>
@@ -1494,7 +1489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607722666053</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="[003][009] Gamma categorization corrections">
+      <created>1607723807211</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1607723807211</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

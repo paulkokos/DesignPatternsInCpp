@@ -4,7 +4,7 @@
 
 #### Creational patterns </br>
 * Deal with the creation (construction) of objects.
-* Explicit (constructor) VS implisit (DI,reflection).
+* Explicit (constructor) VS implicit (DI,reflection).
 * Wholesale (single statement) VS piecewise (step-by-step).
 #### Structural Patterns
 * Concerned with the structure (e.g. class members).
