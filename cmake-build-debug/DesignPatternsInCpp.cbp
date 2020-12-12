@@ -6119,10 +6119,10 @@
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/include/PersistenceManager.hpp">
 			<Option target="003SingleResponsibilityPrinciple"/>
 		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/sources/Journal.cpp">
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/source/Journal.cpp">
 			<Option target="003SingleResponsibilityPrinciple"/>
 		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/sources/PersistenceManager.cpp">
+		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/source/PersistenceManager.cpp">
 			<Option target="003SingleResponsibilityPrinciple"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[004]Open-Closed Principle/[004]Open-Closed Principle.cpp">

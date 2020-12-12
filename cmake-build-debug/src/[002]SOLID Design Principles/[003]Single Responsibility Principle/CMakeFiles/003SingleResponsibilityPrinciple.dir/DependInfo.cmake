@@ -5,8 +5,8 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/[003]Single Responsibility Principle.cpp" "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/[003]Single_Responsibility_Principle.cpp.o"
-  "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/sources/Journal.cpp" "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/sources/Journal.cpp.o"
-  "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/sources/PersistenceManager.cpp" "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/sources/PersistenceManager.cpp.o"
+  "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/source/Journal.cpp" "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/source/Journal.cpp.o"
+  "/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/source/PersistenceManager.cpp" "/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/source/PersistenceManager.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

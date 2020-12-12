@@ -152,59 +152,59 @@ src/[002]SOLID\ Design\ Principles/[003]Single\ Responsibility\ Principle/CMakeF
 	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/[003]Single_Responsibility_Principle.cpp.s"
 .PHONY : [003]Single_Responsibility_Principle.cpp.s
 
-sources/Journal.o: sources/Journal.cpp.o
+source/Journal.o: source/Journal.cpp.o
 
-.PHONY : sources/Journal.o
-
-# target to build an object file
-sources/Journal.cpp.o:
-	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/sources/Journal.cpp.o"
-.PHONY : sources/Journal.cpp.o
-
-sources/Journal.i: sources/Journal.cpp.i
-
-.PHONY : sources/Journal.i
-
-# target to preprocess a source file
-sources/Journal.cpp.i:
-	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/sources/Journal.cpp.i"
-.PHONY : sources/Journal.cpp.i
-
-sources/Journal.s: sources/Journal.cpp.s
-
-.PHONY : sources/Journal.s
-
-# target to generate assembly for a file
-sources/Journal.cpp.s:
-	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/sources/Journal.cpp.s"
-.PHONY : sources/Journal.cpp.s
-
-sources/PersistenceManager.o: sources/PersistenceManager.cpp.o
-
-.PHONY : sources/PersistenceManager.o
+.PHONY : source/Journal.o
 
 # target to build an object file
-sources/PersistenceManager.cpp.o:
-	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/sources/PersistenceManager.cpp.o"
-.PHONY : sources/PersistenceManager.cpp.o
+source/Journal.cpp.o:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/source/Journal.cpp.o"
+.PHONY : source/Journal.cpp.o
 
-sources/PersistenceManager.i: sources/PersistenceManager.cpp.i
+source/Journal.i: source/Journal.cpp.i
 
-.PHONY : sources/PersistenceManager.i
+.PHONY : source/Journal.i
 
 # target to preprocess a source file
-sources/PersistenceManager.cpp.i:
-	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/sources/PersistenceManager.cpp.i"
-.PHONY : sources/PersistenceManager.cpp.i
+source/Journal.cpp.i:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/source/Journal.cpp.i"
+.PHONY : source/Journal.cpp.i
 
-sources/PersistenceManager.s: sources/PersistenceManager.cpp.s
+source/Journal.s: source/Journal.cpp.s
 
-.PHONY : sources/PersistenceManager.s
+.PHONY : source/Journal.s
 
 # target to generate assembly for a file
-sources/PersistenceManager.cpp.s:
-	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/sources/PersistenceManager.cpp.s"
-.PHONY : sources/PersistenceManager.cpp.s
+source/Journal.cpp.s:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/source/Journal.cpp.s"
+.PHONY : source/Journal.cpp.s
+
+source/PersistenceManager.o: source/PersistenceManager.cpp.o
+
+.PHONY : source/PersistenceManager.o
+
+# target to build an object file
+source/PersistenceManager.cpp.o:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/source/PersistenceManager.cpp.o"
+.PHONY : source/PersistenceManager.cpp.o
+
+source/PersistenceManager.i: source/PersistenceManager.cpp.i
+
+.PHONY : source/PersistenceManager.i
+
+# target to preprocess a source file
+source/PersistenceManager.cpp.i:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/source/PersistenceManager.cpp.i"
+.PHONY : source/PersistenceManager.cpp.i
+
+source/PersistenceManager.s: source/PersistenceManager.cpp.s
+
+.PHONY : source/PersistenceManager.s
+
+# target to generate assembly for a file
+source/PersistenceManager.cpp.s:
+	cd /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug && $(MAKE) -f "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" "src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/source/PersistenceManager.cpp.s"
+.PHONY : source/PersistenceManager.cpp.s
 
 # Help Target
 help:
@@ -218,12 +218,12 @@ help:
 	@echo "... [003]Single_Responsibility_Principle.o"
 	@echo "... [003]Single_Responsibility_Principle.i"
 	@echo "... [003]Single_Responsibility_Principle.s"
-	@echo "... sources/Journal.o"
-	@echo "... sources/Journal.i"
-	@echo "... sources/Journal.s"
-	@echo "... sources/PersistenceManager.o"
-	@echo "... sources/PersistenceManager.i"
-	@echo "... sources/PersistenceManager.s"
+	@echo "... source/Journal.o"
+	@echo "... source/Journal.i"
+	@echo "... source/Journal.s"
+	@echo "... source/PersistenceManager.o"
+	@echo "... source/PersistenceManager.i"
+	@echo "... source/PersistenceManager.s"
 .PHONY : help
 
 
