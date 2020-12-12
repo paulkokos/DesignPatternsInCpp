@@ -166,17 +166,13 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[002][006]Interface Segmentation Principle&#10;Corrections">
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[003][011]Life Without builder&#10;[003][012]Builder">
+      <change afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[012]Builder/uml-of-builedr.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/DesignPatternsInCpp.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/DesignPatternsInCpp.cbp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/DependInfo.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/build.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/CMakeFiles/003SingleResponsibilityPrinciple.dir/link.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[003]Single Responsibility Principle/Makefile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[011]Life Without Builders/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[011]Life Without Builders/readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[012]Builder/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[012]Builder/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[013]Fluent Builder/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[013]Fluent Builder/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[014]Groovy-Style Builder/[014]GroovyStyleBuilder.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[014]Groovy-Style Builder/[014]GroovyStyleBuilder.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[014]Groovy-Style Builder/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[014]Groovy-Style Builder/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,17 +208,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PUML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[002]SOLID Design Principles/[006]Interface Segmentation Principle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[003]Builder Pattern/[012]Builder" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/[003]Builder Pattern/[012]Builder" />
       <recent name="$PROJECT_DIR$/src/[002]SOLID Design Principles/[006]Interface Segmentation Principle" />
       <recent name="$PROJECT_DIR$/src/[002]SOLID Design Principles/[007]Dependency Inversion Principle" />
       <recent name="$PROJECT_DIR$/src/[003]Builder Pattern/[010]Overview" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[02]SOLID Design Principles" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[02]SOLID Design Principles\[3]Single Responsibility Principle" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets" />
@@ -1163,14 +1159,7 @@
       <workItem from="1607463911924" duration="1141000" />
       <workItem from="1607636091237" duration="2897000" />
       <workItem from="1607720416632" duration="11441000" />
-      <workItem from="1607809480943" duration="786000" />
-    </task>
-    <task id="LOCAL-00032" summary="Initial Commit corrections">
-      <created>1602538956419</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1602538956419</updated>
+      <workItem from="1607809480943" duration="2290000" />
     </task>
     <task id="LOCAL-00033" summary="Tests success">
       <created>1602712218382</created>
@@ -1508,7 +1497,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607734130923</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="[003][011]Life Without builder&#10;[003][012]Builder">
+      <created>1607810321269</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1607810321270</updated>
+    </task>
+    <option name="localTasksCounter" value="82" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1546,6 +1542,7 @@
     <MESSAGE value="[002][006]Interface Segmentation Principle&#10;[002][005]Liskov Substitution Principle&#10;[003][011] Life without builders&#10;Corrections" />
     <MESSAGE value="[002][007]Dependency Inversion Principle&#10;Corrections" />
     <MESSAGE value="[002][006]Interface Segmentation Principle&#10;Corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="[002][006]Interface Segmentation Principle&#10;Corrections" />
+    <MESSAGE value="[003][011]Life Without builder&#10;[003][012]Builder" />
+    <option name="LAST_COMMIT_MESSAGE" value="[003][011]Life Without builder&#10;[003][012]Builder" />
   </component>
 </project>
