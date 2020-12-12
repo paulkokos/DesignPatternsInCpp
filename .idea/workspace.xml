@@ -166,8 +166,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[002][007]Dependency Inversion Principle&#10;Corrections">
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[002][006]Interface Segmentation Principle&#10;Corrections">
+      <change afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[006]Interface Segmentation Principle/ISP-ATM-MultipleInterface.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[006]Interface Segmentation Principle/ISP-ATM-OneInterface.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[006]Interface Segmentation Principle/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[006]Interface Segmentation Principle/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[007]Dependency Inversion Principle/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[002]SOLID Design Principles/[007]Dependency Inversion Principle/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,17 +206,17 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="cf.first.check.clang-format" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="PUML" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[002]SOLID Design Principles/[007]Dependency Inversion Principle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/[002]SOLID Design Principles/[006]Interface Segmentation Principle" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/[002]SOLID Design Principles/[006]Interface Segmentation Principle" />
       <recent name="$PROJECT_DIR$/src/[002]SOLID Design Principles/[007]Dependency Inversion Principle" />
       <recent name="$PROJECT_DIR$/src/[003]Builder Pattern/[010]Overview" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[02]SOLID Design Principles" />
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[02]SOLID Design Principles\[3]Single Responsibility Principle" />
-      <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[12]Flyweight Pattern\[65]Summary" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets" />
@@ -1148,14 +1151,7 @@
       <workItem from="1607034991511" duration="17672000" />
       <workItem from="1607463911924" duration="1141000" />
       <workItem from="1607636091237" duration="2897000" />
-      <workItem from="1607720416632" duration="11022000" />
-    </task>
-    <task id="LOCAL-00031" summary="Initial Commit corrections">
-      <created>1602536474113</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1602536474113</updated>
+      <workItem from="1607720416632" duration="11441000" />
     </task>
     <task id="LOCAL-00032" summary="Initial Commit corrections">
       <created>1602538956419</created>
@@ -1493,7 +1489,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607733682352</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="[002][006]Interface Segmentation Principle&#10;Corrections">
+      <created>1607734130923</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1607734130923</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1530,6 +1533,7 @@
     <MESSAGE value="[003][010] Overview" />
     <MESSAGE value="[002][006]Interface Segmentation Principle&#10;[002][005]Liskov Substitution Principle&#10;[003][011] Life without builders&#10;Corrections" />
     <MESSAGE value="[002][007]Dependency Inversion Principle&#10;Corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="[002][007]Dependency Inversion Principle&#10;Corrections" />
+    <MESSAGE value="[002][006]Interface Segmentation Principle&#10;Corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="[002][006]Interface Segmentation Principle&#10;Corrections" />
   </component>
 </project>

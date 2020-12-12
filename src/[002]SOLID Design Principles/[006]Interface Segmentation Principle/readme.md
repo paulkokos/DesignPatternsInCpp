@@ -8,3 +8,11 @@ ISP splits interfaces that are very large into smaller and more specific ones so
 Such shrunken interfaces are also called role interfaces. ISP is intended to keep a system decoupled and thus easier to refactor, change, and redeploy. 
 
 ISP is one of the five SOLID principles of object-oriented design, similar to the High Cohesion Principle of GRASP.
+
+This is a typical example before Interface Segmentation Principle.
+
+![alt text](ISP-ATM-OneInterface.png "Before Interface Segmentation Principle.")
+
+This is after Interface Segmentation Principle.
+
+![alt text](ISP-ATM-MultipleInterface.png "After Interface Segmentation Principle.")

@@ -17,10 +17,10 @@ In many cases, thinking about the interaction in itself as an abstract concept a
 
 When the discovered abstract interaction schema(s) between two modules is/are generic and generalization makes sense, this design principle also leads to the following dependency inversion coding pattern.
 
-This is a tipical example before  Dependency Inversion Principle
+This is a typical example before Dependency Inversion Principle.
 
-![alt text](dependency-before.png "Title")
+![alt text](dependency-before.png "Before Dependency Inversion Principle")
 
-This is after Dependency Inversion Principle
+This is after Dependency Inversion Principle.
 
-![alt text](dependency-after.png "Title")
+![alt text](dependency-after.png "After Dependency Inversion Principle.")
