@@ -3,12 +3,14 @@
 #include <vector>
 #include <tuple>
 using namespace std;
-
+//      RULES OF DEPENDENCY INVERSION PRINCIPLE
 // A. High-level modules should not depend on low-level modules.
 //    Both should depend on abstractions.
 // B. Abstractions should not depend on details.
 //    Details should depend on abstractions.
 
+// Introduce some kind of interface (interface of pure virtual)
+// Move something into a low level module by making an API for Research
 enum class Relationship
 {
     parent,
@@ -26,7 +28,7 @@ struct RelationshipBrowser
     virtual vector<Person> find_all_children_of(const string& name) = 0;
 };
 
-struct Relationships : RelationshipBrowser // low-level
+struct Relationships : RelationshipBrowser // low-level module
 {
     vector<tuple<Person, Relationship, Person>> relations;
 
@@ -50,7 +52,7 @@ struct Relationships : RelationshipBrowser // low-level
     }
 };
 
-struct Research // high-level
+struct Research // high-level module
 {
     Research(RelationshipBrowser& browser)
     {
@@ -72,13 +74,13 @@ struct Research // high-level
 //    }
 //  }
 };
-
+// The take-away is that we want to have dependencies on abstractions, meaning
+//dependencies on interfaces, rather that implementations
 int main()
 {
     Person parent{"John"};
     Person child1{"Chris"};
     Person child2{"Matt"};
-
     Relationships relationships;
     relationships.add_parent_and_child(parent, child1);
     relationships.add_parent_and_child(parent, child2);

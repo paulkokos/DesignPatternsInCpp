@@ -15,4 +15,12 @@ The idea behind points A and B of this principle is that when designing the inte
 
 In many cases, thinking about the interaction in itself as an abstract concept allows the coupling of the components to be reduced without introducing additional coding patterns, allowing only a lighter and less implementation-dependent interaction schema.
 
-When the discovered abstract interaction schema(s) between two modules is/are generic and generalization makes sense, this design principle also leads to the following dependency inversion coding pattern. 
+When the discovered abstract interaction schema(s) between two modules is/are generic and generalization makes sense, this design principle also leads to the following dependency inversion coding pattern.
+
+This is a tipical example before  Dependency Inversion Principle
+
+![alt text](dependency-before.png "Title")
+
+This is after Dependency Inversion Principle
+
+![alt text](dependency-after.png "Title")
