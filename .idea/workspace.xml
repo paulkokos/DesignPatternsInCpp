@@ -166,14 +166,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[003][011]Life Without builder&#10;[003][012]Builder">
-      <change afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[012]Builder/uml-of-builedr.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[012]Builder/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[012]Builder/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[013]Fluent Builder/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[013]Fluent Builder/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[014]Groovy-Style Builder/[014]GroovyStyleBuilder.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[014]Groovy-Style Builder/[014]GroovyStyleBuilder.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[014]Groovy-Style Builder/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[014]Groovy-Style Builder/readme.md" afterDir="false" />
-    </list>
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[003][012]Builder&#10;[003][013]Fluent Builder&#10;[003][014]Groovy-Style Builder" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -229,11 +222,6 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.015BuilderFacets">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="All Tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="Google_Tests_run" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1159,14 +1147,7 @@
       <workItem from="1607463911924" duration="1141000" />
       <workItem from="1607636091237" duration="2897000" />
       <workItem from="1607720416632" duration="11441000" />
-      <workItem from="1607809480943" duration="2290000" />
-    </task>
-    <task id="LOCAL-00033" summary="Tests success">
-      <created>1602712218382</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1602712218382</updated>
+      <workItem from="1607809480943" duration="2946000" />
     </task>
     <task id="LOCAL-00034" summary="Tests success">
       <created>1602712238918</created>
@@ -1504,7 +1485,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607810321270</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="[003][012]Builder&#10;[003][013]Fluent Builder&#10;[003][014]Groovy-Style Builder">
+      <created>1607815847593</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1607815847593</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1543,6 +1531,7 @@
     <MESSAGE value="[002][007]Dependency Inversion Principle&#10;Corrections" />
     <MESSAGE value="[002][006]Interface Segmentation Principle&#10;Corrections" />
     <MESSAGE value="[003][011]Life Without builder&#10;[003][012]Builder" />
-    <option name="LAST_COMMIT_MESSAGE" value="[003][011]Life Without builder&#10;[003][012]Builder" />
+    <MESSAGE value="[003][012]Builder&#10;[003][013]Fluent Builder&#10;[003][014]Groovy-Style Builder" />
+    <option name="LAST_COMMIT_MESSAGE" value="[003][012]Builder&#10;[003][013]Fluent Builder&#10;[003][014]Groovy-Style Builder" />
   </component>
 </project>
