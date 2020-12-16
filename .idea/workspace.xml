@@ -166,7 +166,10 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="[003][012]Builder&#10;[003][013]Fluent Builder&#10;[003][014]Groovy-Style Builder" />
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Corrections">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[009]Composite Pattern/[048]Overview/[048]Overview.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[009]Composite Pattern/[048]Overview/[048]Overview.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -934,11 +937,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="gmock" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1148,83 +1146,8 @@
       <workItem from="1607636091237" duration="2897000" />
       <workItem from="1607720416632" duration="11441000" />
       <workItem from="1607809480943" duration="2946000" />
-    </task>
-    <task id="LOCAL-00034" summary="Tests success">
-      <created>1602712238918</created>
-      <option name="number" value="00034" />
-      <option name="presentableId" value="LOCAL-00034" />
-      <option name="project" value="LOCAL" />
-      <updated>1602712238918</updated>
-    </task>
-    <task id="LOCAL-00035" summary="Tests success">
-      <created>1602791890352</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1602791890352</updated>
-    </task>
-    <task id="LOCAL-00036" summary="Singleton">
-      <created>1602969439872</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1602969439872</updated>
-    </task>
-    <task id="LOCAL-00037" summary="Singleton">
-      <created>1602969452331</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1602969452331</updated>
-    </task>
-    <task id="LOCAL-00038" summary="Initial Corrections">
-      <created>1603176240622</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1603176240623</updated>
-    </task>
-    <task id="LOCAL-00039" summary="Initial Corrections">
-      <created>1603176261994</created>
-      <option name="number" value="00039" />
-      <option name="presentableId" value="LOCAL-00039" />
-      <option name="project" value="LOCAL" />
-      <updated>1603176261994</updated>
-    </task>
-    <task id="LOCAL-00040" summary="Initial Corrections">
-      <created>1603436674729</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1603436674729</updated>
-    </task>
-    <task id="LOCAL-00041" summary="Initial Corrections">
-      <created>1603437720648</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1603437720648</updated>
-    </task>
-    <task id="LOCAL-00042" summary="Initial Corrections">
-      <created>1603602430426</created>
-      <option name="number" value="00042" />
-      <option name="presentableId" value="LOCAL-00042" />
-      <option name="project" value="LOCAL" />
-      <updated>1603602430427</updated>
-    </task>
-    <task id="LOCAL-00043" summary="Initial Corrections">
-      <created>1603606152447</created>
-      <option name="number" value="00043" />
-      <option name="presentableId" value="LOCAL-00043" />
-      <option name="project" value="LOCAL" />
-      <updated>1603606152447</updated>
-    </task>
-    <task id="LOCAL-00044" summary="Initial Corrections">
-      <created>1603835671840</created>
-      <option name="number" value="00044" />
-      <option name="presentableId" value="LOCAL-00044" />
-      <option name="project" value="LOCAL" />
-      <updated>1603835671840</updated>
+      <workItem from="1608069113863" duration="1381000" />
+      <workItem from="1608154996529" duration="612000" />
     </task>
     <task id="LOCAL-00045" summary="Initial Corrections">
       <created>1603835694801</created>
@@ -1492,7 +1415,84 @@
       <option name="project" value="LOCAL" />
       <updated>1607815847593</updated>
     </task>
-    <option name="localTasksCounter" value="83" />
+    <task id="LOCAL-00083" summary="Corrections">
+      <created>1608069152936</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1608069152937</updated>
+    </task>
+    <task id="LOCAL-00084" summary="Corrections">
+      <created>1608069165403</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1608069165403</updated>
+    </task>
+    <task id="LOCAL-00085" summary="Corrections">
+      <created>1608069175880</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1608069175880</updated>
+    </task>
+    <task id="LOCAL-00086" summary="Corrections">
+      <created>1608069187613</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1608069187613</updated>
+    </task>
+    <task id="LOCAL-00087" summary="Corrections">
+      <created>1608069199576</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1608069199576</updated>
+    </task>
+    <task id="LOCAL-00088" summary="Corrections">
+      <created>1608069221669</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1608069221669</updated>
+    </task>
+    <task id="LOCAL-00089" summary="Corrections">
+      <created>1608069230992</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1608069230992</updated>
+    </task>
+    <task id="LOCAL-00090" summary="Corrections">
+      <created>1608069242027</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1608069242027</updated>
+    </task>
+    <task id="LOCAL-00091" summary="Corrections">
+      <created>1608069253195</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1608069253195</updated>
+    </task>
+    <task id="LOCAL-00092" summary="Corrections">
+      <created>1608069262429</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1608069262429</updated>
+    </task>
+    <task id="LOCAL-00093" summary="Corrections">
+      <created>1608069280582</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1608069280583</updated>
+    </task>
+    <option name="localTasksCounter" value="94" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1532,6 +1532,7 @@
     <MESSAGE value="[002][006]Interface Segmentation Principle&#10;Corrections" />
     <MESSAGE value="[003][011]Life Without builder&#10;[003][012]Builder" />
     <MESSAGE value="[003][012]Builder&#10;[003][013]Fluent Builder&#10;[003][014]Groovy-Style Builder" />
-    <option name="LAST_COMMIT_MESSAGE" value="[003][012]Builder&#10;[003][013]Fluent Builder&#10;[003][014]Groovy-Style Builder" />
+    <MESSAGE value="Corrections" />
+    <option name="LAST_COMMIT_MESSAGE" value="Corrections" />
   </component>
 </project>
