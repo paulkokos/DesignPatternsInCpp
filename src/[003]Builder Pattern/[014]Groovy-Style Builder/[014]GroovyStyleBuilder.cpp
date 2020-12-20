@@ -65,7 +65,7 @@ namespace html {
     };
 }
 
-int main1() {
+int main() {
     using namespace html;
 
     std::cout <<
@@ -75,7 +75,5 @@ int main1() {
               }
 
               << std::endl;
-
-    getchar();
     return 0;
 }

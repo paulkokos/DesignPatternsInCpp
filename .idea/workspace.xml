@@ -166,9 +166,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Corrections">
-      <change afterPath="$PROJECT_DIR$/src/[005]Prototype Pattern/TjSiB.gif" afterDir="false" />
+    <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="prototype pattern additions">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[014]Groovy-Style Builder/[014]GroovyStyleBuilder.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[014]Groovy-Style Builder/[014]GroovyStyleBuilder.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,7 +224,7 @@
       <recent name="C:\Users\paulkokos\CLionProjects\DesignPatternsInCpp\src\[002]SOLID Design Principles\[003]Single Responsibility Principle\include" />
     </key>
   </component>
-  <component name="RunManager" selected="CMake Application.015BuilderFacets">
+  <component name="RunManager" selected="CMake Application.014GroovyStyleBuilder">
     <configuration name="All Tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="Google_Tests_run" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1153,14 +1153,7 @@
       <workItem from="1607809480943" duration="2946000" />
       <workItem from="1608069113863" duration="1381000" />
       <workItem from="1608154996529" duration="1416000" />
-      <workItem from="1608487671336" duration="314000" />
-    </task>
-    <task id="LOCAL-00064" summary="[005]Liskov Substitution Principle">
-      <created>1607290474755</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1607290474755</updated>
+      <workItem from="1608487671336" duration="2017000" />
     </task>
     <task id="LOCAL-00065" summary="[006]Interface Segmentation Principle">
       <created>1607290500911</created>
@@ -1498,7 +1491,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608155821171</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="prototype pattern additions">
+      <created>1608488144634</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1608488144635</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1539,6 +1539,7 @@
     <MESSAGE value="[003][011]Life Without builder&#10;[003][012]Builder" />
     <MESSAGE value="[003][012]Builder&#10;[003][013]Fluent Builder&#10;[003][014]Groovy-Style Builder" />
     <MESSAGE value="Corrections" />
-    <option name="LAST_COMMIT_MESSAGE" value="Corrections" />
+    <MESSAGE value="prototype pattern additions" />
+    <option name="LAST_COMMIT_MESSAGE" value="prototype pattern additions" />
   </component>
 </project>
