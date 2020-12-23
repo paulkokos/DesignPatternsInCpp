@@ -7,6 +7,10 @@
 #IncludeRegexTransform: 
 
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[003]Builder Pattern/[014]Groovy-Style Builder/[014]GroovyStyleBuilder.cpp
+string
+-
+vector
+-
 iostream
 -
 
