@@ -168,9 +168,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Groovy-style Builder Corrections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[014]Groovy-Style Builder/CMakeFiles/014GroovyStyleBuilder.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[014]Groovy-Style Builder/CMakeFiles/014GroovyStyleBuilder.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[015]Builder Facets/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/[003]Builder Pattern/[Exercise]Builder Coding Exercise/readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/[003]Builder Pattern/[Exercise]Builder Coding Exercise/readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -227,6 +224,11 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.015BuilderFacets">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="All Tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="Google_Tests_run" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -959,6 +961,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <list>
       <item itemvalue="CMake Application.003SingleResponsibilityPrinciple" />
       <item itemvalue="CMake Application.004OpenClosedPrinciple" />
@@ -1152,14 +1159,9 @@
       <workItem from="1608154996529" duration="1416000" />
       <workItem from="1608487671336" duration="4587000" />
       <workItem from="1608636451476" duration="599000" />
-      <workItem from="1608656349022" duration="1081000" />
-    </task>
-    <task id="LOCAL-00066" summary="[007]Dependency Inversion Principle">
-      <created>1607290560748</created>
-      <option name="number" value="00066" />
-      <option name="presentableId" value="LOCAL-00066" />
-      <option name="project" value="LOCAL" />
-      <updated>1607290560748</updated>
+      <workItem from="1608656349022" duration="1096000" />
+      <workItem from="1608798387761" duration="636000" />
+      <workItem from="1611856229685" duration="1674000" />
     </task>
     <task id="LOCAL-00067" summary="SOLID principles corrections">
       <created>1607291647398</created>
@@ -1497,7 +1499,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608500753205</updated>
     </task>
-    <option name="localTasksCounter" value="115" />
+    <task id="LOCAL-00115" summary="Groovy-style Builder Corrections">
+      <created>1608696204160</created>
+      <option name="number" value="00115" />
+      <option name="presentableId" value="LOCAL-00115" />
+      <option name="project" value="LOCAL" />
+      <updated>1608696204161</updated>
+    </task>
+    <option name="localTasksCounter" value="116" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
