@@ -807,11 +807,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="082Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="082Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="082Overview">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="083HandmadeInterpeter-Lexing" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="083HandmadeInterpeter-Lexing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="083HandmadeInterpeter-Lexing">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1215,7 +1210,6 @@
       <item itemvalue="CMake Application.079UndoOperations" />
       <item itemvalue="CMake Application.080ComposiveCommands" />
       <item itemvalue="CMake Application.081Summary" />
-      <item itemvalue="CMake Application.082Overview" />
       <item itemvalue="CMake Application.083HandmadeInterpeter-Lexing" />
       <item itemvalue="CMake Application.084HandmadeInterpeter-Parsing" />
       <item itemvalue="CMake Application.085CodingParserswithBoost.Spirit" />
