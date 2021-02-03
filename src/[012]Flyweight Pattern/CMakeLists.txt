@@ -1,4 +1,3 @@
-add_subdirectory([061]Overview)
 add_subdirectory("[062]Handmade Flyweight")
 add_subdirectory([063]Boost-Flyweight)
 add_subdirectory("[064]Text Formating")
