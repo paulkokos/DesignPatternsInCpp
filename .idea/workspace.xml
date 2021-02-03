@@ -56,7 +56,6 @@
       <config projectName="DesignPatternsInCpp" targetName="ExerciseIteratorCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseBridgeCodingExercise" />
       <config projectName="DesignPatternsInCpp" targetName="101Summary" />
-      <config projectName="DesignPatternsInCpp" targetName="109Overview" />
       <config projectName="DesignPatternsInCpp" targetName="033TestabilityIssues" />
       <config projectName="DesignPatternsInCpp" targetName="098Memento" />
       <config projectName="DesignPatternsInCpp" targetName="069VirtualProxy" />
@@ -74,7 +73,6 @@
       <config projectName="DesignPatternsInCpp" targetName="012Builder" />
       <config projectName="DesignPatternsInCpp" targetName="025Overview" />
       <config projectName="DesignPatternsInCpp" targetName="013FluentBuilder" />
-      <config projectName="DesignPatternsInCpp" targetName="118Overview" />
       <config projectName="DesignPatternsInCpp" targetName="003SingleResponsibilityPrinciple" />
       <config projectName="DesignPatternsInCpp" targetName="041AdapterCaching" />
       <config projectName="DesignPatternsInCpp" targetName="104Observable" />
@@ -86,11 +84,9 @@
       <config projectName="DesignPatternsInCpp" targetName="052Summary.cpp" />
       <config projectName="DesignPatternsInCpp" targetName="026RecordKeeping" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseStrategyCodingExercise" />
-      <config projectName="DesignPatternsInCpp" targetName="114Overview" />
       <config projectName="DesignPatternsInCpp" targetName="058Overview" />
       <config projectName="DesignPatternsInCpp" targetName="087Overview" />
       <config projectName="DesignPatternsInCpp" targetName="110ClassicStateImplementation" />
-      <config projectName="DesignPatternsInCpp" targetName="102Overview" />
       <config projectName="DesignPatternsInCpp" targetName="084HandmadeInterpeter-Parsing" />
       <config projectName="DesignPatternsInCpp" targetName="050NeuralNetworks" />
       <config projectName="DesignPatternsInCpp" targetName="034SingletoninDependencyInjection" />
@@ -104,9 +100,7 @@
       <config projectName="DesignPatternsInCpp" targetName="113Summary" />
       <config projectName="DesignPatternsInCpp" targetName="068PropertyProxy" />
       <config projectName="DesignPatternsInCpp" targetName="117Summary" />
-      <config projectName="DesignPatternsInCpp" targetName="093Overview" />
       <config projectName="DesignPatternsInCpp" targetName="057Summary" />
-      <config projectName="DesignPatternsInCpp" targetName="097Overview" />
       <config projectName="DesignPatternsInCpp" targetName="022AbstractFactory" />
       <config projectName="DesignPatternsInCpp" targetName="085CodingParserswithBoost.Spirit" />
       <config projectName="DesignPatternsInCpp" targetName="ExerciseMementoCodingExercise" />
@@ -168,6 +162,223 @@
   <component name="ChangeListManager">
     <list default="true" id="ff35e5bf-2623-49ed-9973-057ef18244d9" name="Default Changelist" comment="Groovy-style Builder Corrections">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/DesignPatternsInCpp.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/DesignPatternsInCpp.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/CMakeFiles/005LiskovSubstitutionPrinciple.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/CMakeFiles/005LiskovSubstitutionPrinciple.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[005]Liskov Substitution Principle/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[006]Interface Segmentation Principle/CMakeFiles/006InterfaceSegmentationPrinciple.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[006]Interface Segmentation Principle/CMakeFiles/006InterfaceSegmentationPrinciple.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[006]Interface Segmentation Principle/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[006]Interface Segmentation Principle/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[007]Dependency Inversion Principle/CMakeFiles/007DependencyInversionPrinciple.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[007]Dependency Inversion Principle/CMakeFiles/007DependencyInversionPrinciple.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[008]Summary/CMakeFiles/008Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[008]Summary/CMakeFiles/008Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[008]Summary/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[002]SOLID Design Principles/[008]Summary/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[009]Gamma Categorization/CMakeFiles/009GammaCategorization.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[009]Gamma Categorization/CMakeFiles/009GammaCategorization.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[009]Gamma Categorization/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[009]Gamma Categorization/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[011]Life Without Builders/CMakeFiles/011LifeWithoutBuilders.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[011]Life Without Builders/CMakeFiles/011LifeWithoutBuilders.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[012]Builder/CMakeFiles/012Builder.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[012]Builder/CMakeFiles/012Builder.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[013]Fluent Builder/CMakeFiles/013FluentBuilder.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[013]Fluent Builder/CMakeFiles/013FluentBuilder.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[013]Fluent Builder/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[013]Fluent Builder/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[014]Groovy-Style Builder/CMakeFiles/014GroovyStyleBuilder.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[014]Groovy-Style Builder/CMakeFiles/014GroovyStyleBuilder.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[014]Groovy-Style Builder/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[014]Groovy-Style Builder/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/015BuilderFacets.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[015]Builder Facets/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[Exercise]Builder Coding Exercise/CMakeFiles/ExerciseBuilderCodingExercise.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[003]Builder Pattern/[Exercise]Builder Coding Exercise/CMakeFiles/ExerciseBuilderCodingExercise.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[018]Point Example/CMakeFiles/018PointExample.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[018]Point Example/CMakeFiles/018PointExample.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[019]Factory Method/CMakeFiles/019FactoryMethod.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[019]Factory Method/CMakeFiles/019FactoryMethod.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[019]Factory Method/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[019]Factory Method/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[020]Factory/CMakeFiles/020Factory.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[020]Factory/CMakeFiles/020Factory.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[020]Factory/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[020]Factory/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[021]Inner Factory/CMakeFiles/021InnerFactory.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[021]Inner Factory/CMakeFiles/021InnerFactory.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[022]Abstract Factory/CMakeFiles/022AbstractFactory.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[022]Abstract Factory/CMakeFiles/022AbstractFactory.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[022]Abstract Factory/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[022]Abstract Factory/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[023]Functional Factory/CMakeFiles/023FunctionalFactory.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[023]Functional Factory/CMakeFiles/023FunctionalFactory.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[023]Functional Factory/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[023]Functional Factory/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[Exercise]Factory Coding Exercise/CMakeFiles/ExerciseFactoryCoding.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[004]Factories Pattern/[Exercise]Factory Coding Exercise/CMakeFiles/ExerciseFactoryCoding.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[025]Overview/CMakeFiles/025Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[025]Overview/CMakeFiles/025Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[026]Record Keeping/CMakeFiles/026RecordKeeping.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[026]Record Keeping/CMakeFiles/026RecordKeeping.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[027]Prototype/CMakeFiles/027Prototype.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[027]Prototype/CMakeFiles/027Prototype.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[027]Prototype/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[027]Prototype/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[028]Prototype Factory/CMakeFiles/028PrototypeFactory.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[028]Prototype Factory/CMakeFiles/028PrototypeFactory.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[028]Prototype Factory/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[028]Prototype Factory/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[029]Prototype Via serialization/CMakeFiles/029PrototypeViaserialization.cpp.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[005]Prototype Pattern/[029]Prototype Via serialization/CMakeFiles/029PrototypeViaserialization.cpp.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[006]Singleton Pattern/[032]Singleton Implementation/CMakeFiles/032SingletonImplementation.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[006]Singleton Pattern/[032]Singleton Implementation/CMakeFiles/032SingletonImplementation.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[006]Singleton Pattern/[033]Testability Issues/CMakeFiles/033TestabilityIssues.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[006]Singleton Pattern/[033]Testability Issues/CMakeFiles/033TestabilityIssues.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[006]Singleton Pattern/[034]Singleton in Dependency Injection/CMakeFiles/034SingletoninDependencyInjection.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[006]Singleton Pattern/[034]Singleton in Dependency Injection/CMakeFiles/034SingletoninDependencyInjection.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[006]Singleton Pattern/[036]Monostate/CMakeFiles/036Monostate.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[006]Singleton Pattern/[036]Monostate/CMakeFiles/036Monostate.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[006]Singleton Pattern/[037]Multiton/CMakeFiles/037Multiton.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[006]Singleton Pattern/[037]Multiton/CMakeFiles/037Multiton.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[006]Singleton Pattern/[038]Summary/CMakeFiles/038Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[006]Singleton Pattern/[038]Summary/CMakeFiles/038Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[007]Adapter Pattern/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[007]Adapter Pattern/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[007]Adapter Pattern/[040]Vector-Raster Demo/CMakeFiles/040Vector-RasterDemo.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[007]Adapter Pattern/[040]Vector-Raster Demo/CMakeFiles/040Vector-RasterDemo.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[007]Adapter Pattern/[041]Adapter Caching/CMakeFiles/041AdapterCaching.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[007]Adapter Pattern/[041]Adapter Caching/CMakeFiles/041AdapterCaching.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[007]Adapter Pattern/[Exercise]Adapter Coding Exercise/CMakeFiles/ExerciseAdapterCodingExercise.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[007]Adapter Pattern/[Exercise]Adapter Coding Exercise/CMakeFiles/ExerciseAdapterCodingExercise.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[007]Adapter Pattern/[Exercise]Adapter Coding Exercise/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[007]Adapter Pattern/[Exercise]Adapter Coding Exercise/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[043]Overview/CMakeFiles/043Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[043]Overview/CMakeFiles/043Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[044]Pimpl Idiom/CMakeFiles/044PimplIdiom.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[044]Pimpl Idiom/CMakeFiles/044PimplIdiom.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[045]Shrink-Wrapped Pimpl/CMakeFiles/045ShrinkWrappedPimpl.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[045]Shrink-Wrapped Pimpl/CMakeFiles/045ShrinkWrappedPimpl.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[045]Shrink-Wrapped Pimpl/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[045]Shrink-Wrapped Pimpl/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[046]Bridge Implementation/CMakeFiles/046BridgeImplementation.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[046]Bridge Implementation/CMakeFiles/046BridgeImplementation.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[046]Bridge Implementation/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[046]Bridge Implementation/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[047]Summary/CMakeFiles/047Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[047]Summary/CMakeFiles/047Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[Exercise]Bridge Coding Exercise/CMakeFiles/ExerciseBridgeCodingExercise.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[Exercise]Bridge Coding Exercise/CMakeFiles/ExerciseBridgeCodingExercise.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[Exercise]Bridge Coding Exercise/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[008]Bridge Pattern/[Exercise]Bridge Coding Exercise/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[048]Overview/CMakeFiles/048Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[048]Overview/CMakeFiles/048Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[048]Overview/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[048]Overview/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[049]Geometric Shapes/CMakeFiles/049GeometricShapes.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[049]Geometric Shapes/CMakeFiles/049GeometricShapes.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[050]Neural Networks/CMakeFiles/050NeuralNetworks.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[050]Neural Networks/CMakeFiles/050NeuralNetworks.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[050]Neural Networks/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[050]Neural Networks/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[051]Array-backed Properties/CMakeFiles/051Array-backedProperties.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[051]Array-backed Properties/CMakeFiles/051Array-backedProperties.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[052]Summary/CMakeFiles/052Summary.cpp.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[052]Summary/CMakeFiles/052Summary.cpp.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[052]Summary/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[052]Summary/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[Exercise]Composite Coding Exercise/CMakeFiles/ExerciseCompositeCodingExercise.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[Exercise]Composite Coding Exercise/CMakeFiles/ExerciseCompositeCodingExercise.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[Exercise]Composite Coding Exercise/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[009]Composite Pattern/[Exercise]Composite Coding Exercise/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[053]Overview/CMakeFiles/053Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[053]Overview/CMakeFiles/053Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[053]Overview/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[053]Overview/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[054]Dynamic Decorator/CMakeFiles/054DynamicDecorator.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[054]Dynamic Decorator/CMakeFiles/054DynamicDecorator.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[055]Static Decorator/CMakeFiles/055StaticDecorator.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[055]Static Decorator/CMakeFiles/055StaticDecorator.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[055]Static Decorator/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[055]Static Decorator/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[056]Functional Decorator/CMakeFiles/056FunctionalDecorator.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[056]Functional Decorator/CMakeFiles/056FunctionalDecorator.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[057]Summary/CMakeFiles/057Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[057]Summary/CMakeFiles/057Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[057]Summary/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[057]Summary/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[Exercise]Decorator Coding Exercise/CMakeFiles/ExerciseDecoratorCodingExercise.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[Exercise]Decorator Coding Exercise/CMakeFiles/ExerciseDecoratorCodingExercise.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[Exercise]Decorator Coding Exercise/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[010]Decorator Pattern/[Exercise]Decorator Coding Exercise/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[011]Facade Pattern/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[011]Facade Pattern/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[011]Facade Pattern/[058]Overview/CMakeFiles/058Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[011]Facade Pattern/[058]Overview/CMakeFiles/058Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[011]Facade Pattern/[058]Overview/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[011]Facade Pattern/[058]Overview/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[011]Facade Pattern/[059]Facade/CMakeFiles/059Facade.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[011]Facade Pattern/[059]Facade/CMakeFiles/059Facade.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[011]Facade Pattern/[060]Summary/CMakeFiles/060Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[011]Facade Pattern/[060]Summary/CMakeFiles/060Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[062]Handmade Flyweight/CMakeFiles/062HandmadeFlyweight.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[062]Handmade Flyweight/CMakeFiles/062HandmadeFlyweight.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[063]Boost-Flyweight/CMakeFiles/063BoostFlyweight.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[063]Boost-Flyweight/CMakeFiles/063BoostFlyweight.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[064]Text Formating/CMakeFiles/064TextFormating.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[064]Text Formating/CMakeFiles/064TextFormating.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[064]Text Formating/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[064]Text Formating/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[065]Summary/CMakeFiles/065Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[065]Summary/CMakeFiles/065Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[065]Summary/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[065]Summary/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[Exercise]Flyweight Coding Exercise/CMakeFiles/ExerciseFlyweightCodingExercise.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[012]Flyweight Pattern/[Exercise]Flyweight Coding Exercise/CMakeFiles/ExerciseFlyweightCodingExercise.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/[066]Overview/CMakeFiles/066Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/[066]Overview/CMakeFiles/066Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/[067]Smart Pointers/CMakeFiles/067SmartPointers.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/[067]Smart Pointers/CMakeFiles/067SmartPointers.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/[069]Virtual Proxy/CMakeFiles/069VirtualProxy.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/[069]Virtual Proxy/CMakeFiles/069VirtualProxy.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/[070]Communication Proxy/CMakeFiles/070CommunicationProxy.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/[070]Communication Proxy/CMakeFiles/070CommunicationProxy.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/[071]Proxy VS Decorator/CMakeFiles/071ProxyVSDecorator.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/[071]Proxy VS Decorator/CMakeFiles/071ProxyVSDecorator.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/[071]Proxy VS Decorator/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[013]Proxy Pattern/[071]Proxy VS Decorator/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[014]Chain of Responsibility/[073]Overview/CMakeFiles/073Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[014]Chain of Responsibility/[073]Overview/CMakeFiles/073Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[014]Chain of Responsibility/[073]Overview/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[014]Chain of Responsibility/[073]Overview/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[014]Chain of Responsibility/[074]Pointer Chain/CMakeFiles/074PointerChain.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[014]Chain of Responsibility/[074]Pointer Chain/CMakeFiles/074PointerChain.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[014]Chain of Responsibility/[075]Broker Chain/CMakeFiles/075BrokerChain.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[014]Chain of Responsibility/[075]Broker Chain/CMakeFiles/075BrokerChain.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[014]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/CMakeFiles/ExerciseChainofResponsibilityCoding.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[014]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/CMakeFiles/ExerciseChainofResponsibilityCoding.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[014]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[014]Chain of Responsibility/[Exercise]Chain of Responsibility Coding Exercise/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[077]Overview/CMakeFiles/077Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[077]Overview/CMakeFiles/077Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[078]Command/CMakeFiles/078Command.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[078]Command/CMakeFiles/078Command.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[079]Undo Operations/CMakeFiles/079UndoOperations.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[079]Undo Operations/CMakeFiles/079UndoOperations.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[079]Undo Operations/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[079]Undo Operations/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[080]Composive Commands/CMakeFiles/080ComposiveCommands.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[080]Composive Commands/CMakeFiles/080ComposiveCommands.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[080]Composive Commands/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[080]Composive Commands/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[081]Summary/CMakeFiles/081Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[081]Summary/CMakeFiles/081Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[Exercise]Command Coding Exercise/CMakeFiles/ExerciseCommandCodingExercise.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[015]Command Pattern/[Exercise]Command Coding Exercise/CMakeFiles/ExerciseCommandCodingExercise.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[082]Overview/CMakeFiles/082Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[082]Overview/CMakeFiles/082Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[082]Overview/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[082]Overview/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[083]Handmade Interpeter - Lexing/CMakeFiles/083HandmadeInterpeter-Lexing.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[083]Handmade Interpeter - Lexing/CMakeFiles/083HandmadeInterpeter-Lexing.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[083]Handmade Interpeter - Lexing/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[083]Handmade Interpeter - Lexing/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[084]Handmade Interpeter - Parsing/CMakeFiles/084HandmadeInterpeter-Parsing.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[084]Handmade Interpeter - Parsing/CMakeFiles/084HandmadeInterpeter-Parsing.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[085]Coding Parsers with Boost.Spirit/CMakeFiles/085CodingParserswithBoost.Spirit.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[085]Coding Parsers with Boost.Spirit/CMakeFiles/085CodingParserswithBoost.Spirit.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[085]Coding Parsers with Boost.Spirit/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[085]Coding Parsers with Boost.Spirit/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[086]Summary/CMakeFiles/086Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[086]Summary/CMakeFiles/086Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[Exercise]Interpeter Coding Exercise/CMakeFiles/ExerciseInterpeterCodingExercise.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[Exercise]Interpeter Coding Exercise/CMakeFiles/ExerciseInterpeterCodingExercise.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[Exercise]Interpeter Coding Exercise/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[016]Interpreter Pattern/[Exercise]Interpeter Coding Exercise/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[087]Overview/CMakeFiles/087Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[087]Overview/CMakeFiles/087Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[087]Overview/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[087]Overview/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[088]Iterators In The Standard Library/CMakeFiles/088IteratorsInTheStandardLibrary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[088]Iterators In The Standard Library/CMakeFiles/088IteratorsInTheStandardLibrary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[089]Binary Tree Iterator/CMakeFiles/089BinaryTreeIterator.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[089]Binary Tree Iterator/CMakeFiles/089BinaryTreeIterator.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[089]Binary Tree Iterator/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[089]Binary Tree Iterator/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[090]Tree Iterator with Coroutines/CMakeFiles/090TreeIteratorwithCoroutines.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[090]Tree Iterator with Coroutines/CMakeFiles/090TreeIteratorwithCoroutines.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[091]Boost Iterator Facade/CMakeFiles/091BoostIteratorFacade.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[091]Boost Iterator Facade/CMakeFiles/091BoostIteratorFacade.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[091]Boost Iterator Facade/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[091]Boost Iterator Facade/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[092]Summary/CMakeFiles/092Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[092]Summary/CMakeFiles/092Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[092]Summary/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[092]Summary/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[Exercise]Iterator Coding Exercise/CMakeFiles/ExerciseIteratorCodingExercise.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[Exercise]Iterator Coding Exercise/CMakeFiles/ExerciseIteratorCodingExercise.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[Exercise]Iterator Coding Exercise/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[017]Iterator Pattern/[Exercise]Iterator Coding Exercise/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[018]Mediator Pattern/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[018]Mediator Pattern/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[018]Mediator Pattern/[093]Overview/CMakeFiles/093Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[018]Mediator Pattern/[093]Overview/CMakeFiles/093Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[018]Mediator Pattern/[094]Chat Room/CMakeFiles/094ChatRoom.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[018]Mediator Pattern/[094]Chat Room/CMakeFiles/094ChatRoom.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[018]Mediator Pattern/[096]Summary/CMakeFiles/096Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[018]Mediator Pattern/[096]Summary/CMakeFiles/096Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[018]Mediator Pattern/[Exercise]Mediator Coding Exercise/CMakeFiles/ExerciseMediatorCodingExercise.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[018]Mediator Pattern/[Exercise]Mediator Coding Exercise/CMakeFiles/ExerciseMediatorCodingExercise.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[018]Mediator Pattern/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[018]Mediator Pattern/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[097]Overview/CMakeFiles/097Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[097]Overview/CMakeFiles/097Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[098]Memento/CMakeFiles/098Memento.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[098]Memento/CMakeFiles/098Memento.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[098]Memento/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[098]Memento/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[099]Undo and Redo/CMakeFiles/099UndoandRedo.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[099]Undo and Redo/CMakeFiles/099UndoandRedo.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[100]Automatic Memento/CMakeFiles/100AutomaticMemento.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[100]Automatic Memento/CMakeFiles/100AutomaticMemento.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[100]Automatic Memento/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[100]Automatic Memento/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[101]Summary/CMakeFiles/101Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[101]Summary/CMakeFiles/101Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[Exercise]Memento Coding Exercise/CMakeFiles/ExerciseMementoCodingExercise.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[Exercise]Memento Coding Exercise/CMakeFiles/ExerciseMementoCodingExercise.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[Exercise]Memento Coding Exercise/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/[Exercise]Memento Coding Exercise/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[019]Memento Pattern/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/[103]Observer/CMakeFiles/103Observer.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/[103]Observer/CMakeFiles/103Observer.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/[104]Observable/CMakeFiles/104Observable.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/[104]Observable/CMakeFiles/104Observable.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/[106]The Problem Of Dependencies/CMakeFiles/106TheProblemOfDependencies.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/[106]The Problem Of Dependencies/CMakeFiles/106TheProblemOfDependencies.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/[107]Thread Safety and Reentrary/CMakeFiles/107ThreadSafetyandReentrary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/[107]Thread Safety and Reentrary/CMakeFiles/107ThreadSafetyandReentrary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/[Exercise]Observer Coding Exercise/CMakeFiles/ExerciseObserverCodingExercise.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/[Exercise]Observer Coding Exercise/CMakeFiles/ExerciseObserverCodingExercise.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/[Exercise]Observer Coding Exercise/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/[Exercise]Observer Coding Exercise/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[020]Observer Pattern/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[109]Overview/CMakeFiles/109Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[109]Overview/CMakeFiles/109Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[110]Classic State Implementation/CMakeFiles/110ClassicStateImplementation.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[110]Classic State Implementation/CMakeFiles/110ClassicStateImplementation.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[111]Handmade State Machine/CMakeFiles/111HandmadeStateMachine.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[111]Handmade State Machine/CMakeFiles/111HandmadeStateMachine.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[112]State Machine With Boost.MSM/CMakeFiles/112StateMachineWithBoost.MSM.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[112]State Machine With Boost.MSM/CMakeFiles/112StateMachineWithBoost.MSM.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[112]State Machine With Boost.MSM/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[112]State Machine With Boost.MSM/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[113]Summary/CMakeFiles/113Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[113]Summary/CMakeFiles/113Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[113]Summary/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/[113]Summary/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[021]State Pattern/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/[114]Overview/CMakeFiles/114Overview.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/[114]Overview/CMakeFiles/114Overview.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeFiles/115DynamicStrategy.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeFiles/115DynamicStrategy.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/[116]Static Strategy/CMakeFiles/116StaticStrategy.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/[116]Static Strategy/CMakeFiles/116StaticStrategy.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/[117]Summary/CMakeFiles/117Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/[117]Summary/CMakeFiles/117Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/[117]Summary/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/[117]Summary/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[022]Strategy Pattern/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[023]Template Pattern/[119]Template Method/CMakeFiles/119TemplateMethod.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[023]Template Pattern/[119]Template Method/CMakeFiles/119TemplateMethod.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[023]Template Pattern/[120]Summary/CMakeFiles/120Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[023]Template Pattern/[120]Summary/CMakeFiles/120Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[023]Template Pattern/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[023]Template Pattern/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[122]Intrusive Visitor/CMakeFiles/122IntrusiveVisitor.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[122]Intrusive Visitor/CMakeFiles/122IntrusiveVisitor.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[122]Intrusive Visitor/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[122]Intrusive Visitor/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[123]Reflective Visitor/CMakeFiles/123ReflectiveVisitor.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[123]Reflective Visitor/CMakeFiles/123ReflectiveVisitor.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[123]Reflective Visitor/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[123]Reflective Visitor/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[124]Classic Visitor [double patch]/CMakeFiles/124ClassicVisitor.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[124]Classic Visitor [double patch]/CMakeFiles/124ClassicVisitor.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[125]Acyclic Visitor/CMakeFiles/125AcyclicVisitor.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[125]Acyclic Visitor/CMakeFiles/125AcyclicVisitor.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[126]Multimethods/CMakeFiles/126Multimethods.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[126]Multimethods/CMakeFiles/126Multimethods.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[126]Multimethods/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[126]Multimethods/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[127]Variant and std..visit/CMakeFiles/127Variantandstdvisit.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[127]Variant and std..visit/CMakeFiles/127Variantandstdvisit.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[127]Variant and std..visit/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[127]Variant and std..visit/CMakeFiles/progress.marks" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[128]Summary/CMakeFiles/128Summary.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/src/[024]Visitor Pattern/[128]Summary/CMakeFiles/128Summary.dir/progress.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[018]Mediator Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[018]Mediator Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[018]Mediator Pattern/[093]Overview/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[018]Mediator Pattern/[093]Overview/[093]Overview.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[019]Memento Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[019]Memento Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[019]Memento Pattern/[097]Overview/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[019]Memento Pattern/[097]Overview/[097]Overview.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[020]Observer Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[020]Observer Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[020]Observer Pattern/[102]Overview/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[020]Observer Pattern/[102]Overview/[102]Overview.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[021]State Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[021]State Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[021]State Pattern/[109]Overview/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[021]State Pattern/[109]Overview/[109]Overview.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[022]Strategy Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[022]Strategy Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[022]Strategy Pattern/[114]Overview/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[022]Strategy Pattern/[114]Overview/[114]Overview.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[023]Template Pattern/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/[023]Template Pattern/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[023]Template Pattern/[118]Overview/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[023]Template Pattern/[118]Overview/[118]Overview.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[024]Visitor Pattern/[121]Overview/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/[024]Visitor Pattern/[121]Overview/[121]Overview.cpp" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -224,11 +435,6 @@
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.015BuilderFacets">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="All Tests" type="CMakeGoogleTestRunConfigurationType" factoryName="Google Test" nameIsGenerated="true" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="Google_Tests_run" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="Google_Tests_run" TEST_MODE="SUITE_TEST">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -656,11 +862,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="093Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="093Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="093Overview">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="094ChatRoom" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="094ChatRoom" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="094ChatRoom">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -672,11 +873,6 @@
       </method>
     </configuration>
     <configuration name="096Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="096Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="096Summary">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="097Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="097Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="097Overview">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -697,11 +893,6 @@
       </method>
     </configuration>
     <configuration name="101Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="101Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="101Summary">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="102Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="102Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="102Overview">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -736,11 +927,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="109Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="109Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="109Overview">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="110ClassicStateImplementation" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="110ClassicStateImplementation" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="110ClassicStateImplementation">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -761,11 +947,6 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
-    <configuration name="114Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="114Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="114Overview">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="115DynamicStrategy" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="115DynamicStrategy" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="115DynamicStrategy">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -777,11 +958,6 @@
       </method>
     </configuration>
     <configuration name="117Summary" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="117Summary" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="117Summary">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="118Overview" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="118Overview" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="DesignPatternsInCpp" RUN_TARGET_NAME="118Overview">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -941,6 +1117,11 @@
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="gmock" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="DesignPatternsInCpp" TARGET_NAME="gmock" CONFIG_NAME="Debug">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -1050,32 +1231,26 @@
       <item itemvalue="CMake Application.090TreeIteratorwithCoroutines" />
       <item itemvalue="CMake Application.091BoostIteratorFacade" />
       <item itemvalue="CMake Application.092Summary" />
-      <item itemvalue="CMake Application.093Overview" />
       <item itemvalue="CMake Application.094ChatRoom" />
       <item itemvalue="CMake Application.095EventBroker" />
       <item itemvalue="CMake Application.096Summary" />
-      <item itemvalue="CMake Application.097Overview" />
       <item itemvalue="CMake Application.098Memento" />
       <item itemvalue="CMake Application.099UndoandRedo" />
       <item itemvalue="CMake Application.100AutomaticMemento" />
       <item itemvalue="CMake Application.101Summary" />
-      <item itemvalue="CMake Application.102Overview" />
       <item itemvalue="CMake Application.103Observer" />
       <item itemvalue="CMake Application.104Observable" />
       <item itemvalue="CMake Application.105ObservablewithBoost.Signals" />
       <item itemvalue="CMake Application.106TheProblemOfDependencies" />
       <item itemvalue="CMake Application.107ThreadSafetyandReentrary" />
       <item itemvalue="CMake Application.108Summary" />
-      <item itemvalue="CMake Application.109Overview" />
       <item itemvalue="CMake Application.110ClassicStateImplementation" />
       <item itemvalue="CMake Application.111HandmadeStateMachine" />
       <item itemvalue="CMake Application.112StateMachineWithBoost.MSM" />
       <item itemvalue="CMake Application.113Summary" />
-      <item itemvalue="CMake Application.114Overview" />
       <item itemvalue="CMake Application.115DynamicStrategy" />
       <item itemvalue="CMake Application.116StaticStrategy" />
       <item itemvalue="CMake Application.117Summary" />
-      <item itemvalue="CMake Application.118Overview" />
       <item itemvalue="CMake Application.119TemplateMethod" />
       <item itemvalue="CMake Application.120Summary" />
       <item itemvalue="CMake Application.122IntrusiveVisitor" />
@@ -1161,14 +1336,8 @@
       <workItem from="1608636451476" duration="599000" />
       <workItem from="1608656349022" duration="1096000" />
       <workItem from="1608798387761" duration="636000" />
-      <workItem from="1611856229685" duration="1674000" />
-    </task>
-    <task id="LOCAL-00067" summary="SOLID principles corrections">
-      <created>1607291647398</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1607291647398</updated>
+      <workItem from="1611856229685" duration="1697000" />
+      <workItem from="1612386480527" duration="767000" />
     </task>
     <task id="LOCAL-00068" summary="Builder Pattern">
       <created>1607464184524</created>
@@ -1506,7 +1675,14 @@
       <option name="project" value="LOCAL" />
       <updated>1608696204161</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="Groovy-style Builder Corrections">
+      <created>1611858082197</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1611858082198</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

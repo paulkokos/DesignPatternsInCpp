@@ -1,4 +1,3 @@
-add_subdirectory([102]Overview)
 add_subdirectory([103]Observer)
 add_subdirectory([104]Observable)
 add_subdirectory([105]Observable\ with\ Boost.Signals)

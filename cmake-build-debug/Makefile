@@ -1359,19 +1359,6 @@ ExerciseIteratorCodingExercise/fast:
 .PHONY : ExerciseIteratorCodingExercise/fast
 
 #=============================================================================
-# Target rules for targets named 093Overview
-
-# Build rule for target.
-093Overview: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 093Overview
-.PHONY : 093Overview
-
-# fast build rule for target.
-093Overview/fast:
-	$(MAKE) -f "src/[018]Mediator Pattern/[093]Overview/CMakeFiles/093Overview.dir/build.make" "src/[018]Mediator Pattern/[093]Overview/CMakeFiles/093Overview.dir/build"
-.PHONY : 093Overview/fast
-
-#=============================================================================
 # Target rules for targets named 094ChatRoom
 
 # Build rule for target.
@@ -1422,19 +1409,6 @@ ExerciseMediatorCodingExercise: cmake_check_build_system
 ExerciseMediatorCodingExercise/fast:
 	$(MAKE) -f "src/[018]Mediator Pattern/[Exercise]Mediator Coding Exercise/CMakeFiles/ExerciseMediatorCodingExercise.dir/build.make" "src/[018]Mediator Pattern/[Exercise]Mediator Coding Exercise/CMakeFiles/ExerciseMediatorCodingExercise.dir/build"
 .PHONY : ExerciseMediatorCodingExercise/fast
-
-#=============================================================================
-# Target rules for targets named 097Overview
-
-# Build rule for target.
-097Overview: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 097Overview
-.PHONY : 097Overview
-
-# fast build rule for target.
-097Overview/fast:
-	$(MAKE) -f "src/[019]Memento Pattern/[097]Overview/CMakeFiles/097Overview.dir/build.make" "src/[019]Memento Pattern/[097]Overview/CMakeFiles/097Overview.dir/build"
-.PHONY : 097Overview/fast
 
 #=============================================================================
 # Target rules for targets named 098Memento
@@ -1500,19 +1474,6 @@ ExerciseMementoCodingExercise: cmake_check_build_system
 ExerciseMementoCodingExercise/fast:
 	$(MAKE) -f "src/[019]Memento Pattern/[Exercise]Memento Coding Exercise/CMakeFiles/ExerciseMementoCodingExercise.dir/build.make" "src/[019]Memento Pattern/[Exercise]Memento Coding Exercise/CMakeFiles/ExerciseMementoCodingExercise.dir/build"
 .PHONY : ExerciseMementoCodingExercise/fast
-
-#=============================================================================
-# Target rules for targets named 102Overview
-
-# Build rule for target.
-102Overview: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 102Overview
-.PHONY : 102Overview
-
-# fast build rule for target.
-102Overview/fast:
-	$(MAKE) -f "src/[020]Observer Pattern/[102]Overview/CMakeFiles/102Overview.dir/build.make" "src/[020]Observer Pattern/[102]Overview/CMakeFiles/102Overview.dir/build"
-.PHONY : 102Overview/fast
 
 #=============================================================================
 # Target rules for targets named 103Observer
@@ -1606,19 +1567,6 @@ ExerciseObserverCodingExercise/fast:
 .PHONY : ExerciseObserverCodingExercise/fast
 
 #=============================================================================
-# Target rules for targets named 109Overview
-
-# Build rule for target.
-109Overview: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 109Overview
-.PHONY : 109Overview
-
-# fast build rule for target.
-109Overview/fast:
-	$(MAKE) -f "src/[021]State Pattern/[109]Overview/CMakeFiles/109Overview.dir/build.make" "src/[021]State Pattern/[109]Overview/CMakeFiles/109Overview.dir/build"
-.PHONY : 109Overview/fast
-
-#=============================================================================
 # Target rules for targets named 110ClassicStateImplementation
 
 # Build rule for target.
@@ -1684,19 +1632,6 @@ ExerciseStateCodingExercise/fast:
 .PHONY : ExerciseStateCodingExercise/fast
 
 #=============================================================================
-# Target rules for targets named 114Overview
-
-# Build rule for target.
-114Overview: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 114Overview
-.PHONY : 114Overview
-
-# fast build rule for target.
-114Overview/fast:
-	$(MAKE) -f "src/[022]Strategy Pattern/[114]Overview/CMakeFiles/114Overview.dir/build.make" "src/[022]Strategy Pattern/[114]Overview/CMakeFiles/114Overview.dir/build"
-.PHONY : 114Overview/fast
-
-#=============================================================================
 # Target rules for targets named 115DynamicStrategy
 
 # Build rule for target.
@@ -1747,19 +1682,6 @@ ExerciseStrategyCodingExercise: cmake_check_build_system
 ExerciseStrategyCodingExercise/fast:
 	$(MAKE) -f "src/[022]Strategy Pattern/[Exercise]Strategy Coding Exercise/CMakeFiles/ExerciseStrategyCodingExercise.dir/build.make" "src/[022]Strategy Pattern/[Exercise]Strategy Coding Exercise/CMakeFiles/ExerciseStrategyCodingExercise.dir/build"
 .PHONY : ExerciseStrategyCodingExercise/fast
-
-#=============================================================================
-# Target rules for targets named 118Overview
-
-# Build rule for target.
-118Overview: cmake_check_build_system
-	$(MAKE) -f CMakeFiles/Makefile2 118Overview
-.PHONY : 118Overview
-
-# fast build rule for target.
-118Overview/fast:
-	$(MAKE) -f "src/[023]Template Pattern/[118]Overview/CMakeFiles/118Overview.dir/build.make" "src/[023]Template Pattern/[118]Overview/CMakeFiles/118Overview.dir/build"
-.PHONY : 118Overview/fast
 
 #=============================================================================
 # Target rules for targets named 119TemplateMethod
@@ -2008,18 +1930,15 @@ help:
 	@echo "... 091BoostIteratorFacade"
 	@echo "... 092Summary"
 	@echo "... ExerciseIteratorCodingExercise"
-	@echo "... 093Overview"
 	@echo "... 094ChatRoom"
 	@echo "... 095EventBroker"
 	@echo "... 096Summary"
 	@echo "... ExerciseMediatorCodingExercise"
-	@echo "... 097Overview"
 	@echo "... 098Memento"
 	@echo "... 099UndoandRedo"
 	@echo "... 100AutomaticMemento"
 	@echo "... 101Summary"
 	@echo "... ExerciseMementoCodingExercise"
-	@echo "... 102Overview"
 	@echo "... 103Observer"
 	@echo "... 104Observable"
 	@echo "... 105ObservablewithBoost.Signals"
@@ -2027,18 +1946,15 @@ help:
 	@echo "... 107ThreadSafetyandReentrary"
 	@echo "... 108Summary"
 	@echo "... ExerciseObserverCodingExercise"
-	@echo "... 109Overview"
 	@echo "... 110ClassicStateImplementation"
 	@echo "... 111HandmadeStateMachine"
 	@echo "... 112StateMachineWithBoost.MSM"
 	@echo "... 113Summary"
 	@echo "... ExerciseStateCodingExercise"
-	@echo "... 114Overview"
 	@echo "... 115DynamicStrategy"
 	@echo "... 116StaticStrategy"
 	@echo "... 117Summary"
 	@echo "... ExerciseStrategyCodingExercise"
-	@echo "... 118Overview"
 	@echo "... 119TemplateMethod"
 	@echo "... 120Summary"
 	@echo "... ExerciseTemplateMethodExercise"

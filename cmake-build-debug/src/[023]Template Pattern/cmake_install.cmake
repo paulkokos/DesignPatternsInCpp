@@ -39,7 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[118]Overview/cmake_install.cmake")
   include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[119]Template Method/cmake_install.cmake")
   include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[120]Summary/cmake_install.cmake")
   include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[Exercise]Template Method Exercise/cmake_install.cmake")

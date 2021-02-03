@@ -328,9 +328,6 @@
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[017]Iterator Pattern/[Exercise]Iterator Coding Exercise/CMakeFiles/ExerciseIteratorCodingExercise.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/CMakeFiles/rebuild_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/CMakeFiles/edit_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[093]Overview/CMakeFiles/rebuild_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[093]Overview/CMakeFiles/edit_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[093]Overview/CMakeFiles/093Overview.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[094]Chat Room/CMakeFiles/rebuild_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[094]Chat Room/CMakeFiles/edit_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[094]Chat Room/CMakeFiles/094ChatRoom.dir
@@ -345,9 +342,6 @@
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[Exercise]Mediator Coding Exercise/CMakeFiles/ExerciseMediatorCodingExercise.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/CMakeFiles/rebuild_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/CMakeFiles/edit_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/[097]Overview/CMakeFiles/rebuild_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/[097]Overview/CMakeFiles/edit_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/[097]Overview/CMakeFiles/097Overview.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/[098]Memento/CMakeFiles/rebuild_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/[098]Memento/CMakeFiles/edit_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/[098]Memento/CMakeFiles/098Memento.dir
@@ -365,9 +359,6 @@
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/[Exercise]Memento Coding Exercise/CMakeFiles/ExerciseMementoCodingExercise.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/CMakeFiles/rebuild_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/CMakeFiles/edit_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[102]Overview/CMakeFiles/rebuild_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[102]Overview/CMakeFiles/edit_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[102]Overview/CMakeFiles/102Overview.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[103]Observer/CMakeFiles/rebuild_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[103]Observer/CMakeFiles/edit_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[103]Observer/CMakeFiles/103Observer.dir
@@ -391,9 +382,6 @@
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[Exercise]Observer Coding Exercise/CMakeFiles/ExerciseObserverCodingExercise.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/CMakeFiles/rebuild_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/CMakeFiles/edit_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[109]Overview/CMakeFiles/rebuild_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[109]Overview/CMakeFiles/edit_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[109]Overview/CMakeFiles/109Overview.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[110]Classic State Implementation/CMakeFiles/rebuild_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[110]Classic State Implementation/CMakeFiles/edit_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[110]Classic State Implementation/CMakeFiles/110ClassicStateImplementation.dir
@@ -411,9 +399,6 @@
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[Exercise]State Coding Exercise/CMakeFiles/ExerciseStateCodingExercise.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/CMakeFiles/rebuild_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/CMakeFiles/edit_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[114]Overview/CMakeFiles/edit_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[114]Overview/CMakeFiles/rebuild_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[114]Overview/CMakeFiles/114Overview.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeFiles/rebuild_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeFiles/edit_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeFiles/115DynamicStrategy.dir
@@ -428,9 +413,6 @@
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[Exercise]Strategy Coding Exercise/CMakeFiles/ExerciseStrategyCodingExercise.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/CMakeFiles/rebuild_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/CMakeFiles/edit_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[118]Overview/CMakeFiles/rebuild_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[118]Overview/CMakeFiles/edit_cache.dir
-/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[118]Overview/CMakeFiles/118Overview.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[119]Template Method/CMakeFiles/rebuild_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[119]Template Method/CMakeFiles/edit_cache.dir
 /home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[119]Template Method/CMakeFiles/119TemplateMethod.dir

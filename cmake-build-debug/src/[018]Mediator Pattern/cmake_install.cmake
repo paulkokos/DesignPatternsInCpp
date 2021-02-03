@@ -39,7 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[093]Overview/cmake_install.cmake")
   include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[094]Chat Room/cmake_install.cmake")
   include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[095]Event Broker/cmake_install.cmake")
   include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[096]Summary/cmake_install.cmake")

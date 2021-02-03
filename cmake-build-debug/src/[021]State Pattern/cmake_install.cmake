@@ -39,7 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[109]Overview/cmake_install.cmake")
   include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[110]Classic State Implementation/cmake_install.cmake")
   include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[111]Handmade State Machine/cmake_install.cmake")
   include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[112]State Machine With Boost.MSM/cmake_install.cmake")

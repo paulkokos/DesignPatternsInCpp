@@ -5,7 +5,7 @@
 		<Option title="DesignPatternsInCpp"/>
 		<Option makefile_is_custom="1"/>
 		<Option compiler="gcc"/>
-		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\src\[002]SOLID Design Principles\;CMake Files\src\[002]SOLID Design Principles\[003]Single Responsibility Principle\;CMake Files\src\[002]SOLID Design Principles\[004]Open-Closed Principle\;CMake Files\src\[002]SOLID Design Principles\[005]Liskov Substitution Principle\;CMake Files\src\[002]SOLID Design Principles\[006]Interface Segmentation Principle\;CMake Files\src\[002]SOLID Design Principles\[007]Dependency Inversion Principle\;CMake Files\src\[002]SOLID Design Principles\[008]Summary\;CMake Files\src\[003]Builder Pattern\;CMake Files\src\[003]Builder Pattern\[009]Gamma Categorization\;CMake Files\src\[003]Builder Pattern\[011]Life Without Builders\;CMake Files\src\[003]Builder Pattern\[012]Builder\;CMake Files\src\[003]Builder Pattern\[013]Fluent Builder\;CMake Files\src\[003]Builder Pattern\[014]Groovy-Style Builder\;CMake Files\src\[003]Builder Pattern\[015]Builder Facets\;CMake Files\src\[003]Builder Pattern\[Exercise]Builder Coding Exercise\;CMake Files\src\[004]Factories Pattern\;CMake Files\src\[004]Factories Pattern\[018]Point Example\;CMake Files\src\[004]Factories Pattern\[019]Factory Method\;CMake Files\src\[004]Factories Pattern\[020]Factory\;CMake Files\src\[004]Factories Pattern\[021]Inner Factory\;CMake Files\src\[004]Factories Pattern\[022]Abstract Factory\;CMake Files\src\[004]Factories Pattern\[023]Functional Factory\;CMake Files\src\[004]Factories Pattern\[Exercise]Factory Coding Exercise\;CMake Files\src\[005]Prototype Pattern\;CMake Files\src\[005]Prototype Pattern\[025]Overview\;CMake Files\src\[005]Prototype Pattern\[026]Record Keeping\;CMake Files\src\[005]Prototype Pattern\[027]Prototype\;CMake Files\src\[005]Prototype Pattern\[028]Prototype Factory\;CMake Files\src\[005]Prototype Pattern\[029]Prototype Via serialization\;CMake Files\src\[005]Prototype Pattern\[Exercise]Prototype Coding Exercise\;CMake Files\src\[006]Singleton Pattern\;CMake Files\src\[006]Singleton Pattern\[031]Overview\;CMake Files\src\[006]Singleton Pattern\[032]Singleton Implementation\;CMake Files\src\[006]Singleton Pattern\[033]Testability Issues\;CMake Files\src\[006]Singleton Pattern\[034]Singleton in Dependency Injection\;CMake Files\src\[006]Singleton Pattern\[035]Singleton Lifetime in DI Container\;CMake Files\src\[006]Singleton Pattern\[036]Monostate\;CMake Files\src\[006]Singleton Pattern\[037]Multiton\;CMake Files\src\[006]Singleton Pattern\[038]Summary\;CMake Files\src\[006]Singleton Pattern\[Exercise]Singleton Coding Exercise\;CMake Files\src\[007]Adapter Pattern\;CMake Files\src\[007]Adapter Pattern\[039]Overview\;CMake Files\src\[007]Adapter Pattern\[040]Vector-Raster Demo\;CMake Files\src\[007]Adapter Pattern\[041]Adapter Caching\;CMake Files\src\[007]Adapter Pattern\[042]Summary\;CMake Files\src\[007]Adapter Pattern\[Exercise]Adapter Coding Exercise\;CMake Files\src\[008]Bridge Pattern\;CMake Files\src\[008]Bridge Pattern\[043]Overview\;CMake Files\src\[008]Bridge Pattern\[044]Pimpl Idiom\;CMake Files\src\[008]Bridge Pattern\[045]Shrink-Wrapped Pimpl\;CMake Files\src\[008]Bridge Pattern\[046]Bridge Implementation\;CMake Files\src\[008]Bridge Pattern\[047]Summary\;CMake Files\src\[008]Bridge Pattern\[Exercise]Bridge Coding Exercise\;CMake Files\src\[009]Composite Pattern\;CMake Files\src\[009]Composite Pattern\[048]Overview\;CMake Files\src\[009]Composite Pattern\[049]Geometric Shapes\;CMake Files\src\[009]Composite Pattern\[050]Neural Networks\;CMake Files\src\[009]Composite Pattern\[051]Array-backed Properties\;CMake Files\src\[009]Composite Pattern\[052]Summary\;CMake Files\src\[009]Composite Pattern\[Exercise]Composite Coding Exercise\;CMake Files\src\[010]Decorator Pattern\;CMake Files\src\[010]Decorator Pattern\[053]Overview\;CMake Files\src\[010]Decorator Pattern\[054]Dynamic Decorator\;CMake Files\src\[010]Decorator Pattern\[055]Static Decorator\;CMake Files\src\[010]Decorator Pattern\[056]Functional Decorator\;CMake Files\src\[010]Decorator Pattern\[057]Summary\;CMake Files\src\[010]Decorator Pattern\[Exercise]Decorator Coding Exercise\;CMake Files\src\[011]Facade Pattern\;CMake Files\src\[011]Facade Pattern\[058]Overview\;CMake Files\src\[011]Facade Pattern\[059]Facade\;CMake Files\src\[011]Facade Pattern\[060]Summary\;CMake Files\src\[012]Flyweight Pattern\;CMake Files\src\[012]Flyweight Pattern\[061]Overview\;CMake Files\src\[012]Flyweight Pattern\[062]Handmade Flyweight\;CMake Files\src\[012]Flyweight Pattern\[063]Boost-Flyweight\;CMake Files\src\[012]Flyweight Pattern\[064]Text Formating\;CMake Files\src\[012]Flyweight Pattern\[065]Summary\;CMake Files\src\[012]Flyweight Pattern\[Exercise]Flyweight Coding Exercise\;CMake Files\src\[013]Proxy Pattern\;CMake Files\src\[013]Proxy Pattern\[066]Overview\;CMake Files\src\[013]Proxy Pattern\[067]Smart Pointers\;CMake Files\src\[013]Proxy Pattern\[068]Property Proxy\;CMake Files\src\[013]Proxy Pattern\[069]Virtual Proxy\;CMake Files\src\[013]Proxy Pattern\[070]Communication Proxy\;CMake Files\src\[013]Proxy Pattern\[071]Proxy VS Decorator\;CMake Files\src\[013]Proxy Pattern\[072]Summary\;CMake Files\src\[014]Chain of Responsibility\;CMake Files\src\[014]Chain of Responsibility\[073]Overview\;CMake Files\src\[014]Chain of Responsibility\[074]Pointer Chain\;CMake Files\src\[014]Chain of Responsibility\[075]Broker Chain\;CMake Files\src\[014]Chain of Responsibility\[076]Summary\;CMake Files\src\[014]Chain of Responsibility\[Exercise]Chain of Responsibility Coding Exercise\;CMake Files\src\[015]Command Pattern\;CMake Files\src\[015]Command Pattern\[077]Overview\;CMake Files\src\[015]Command Pattern\[078]Command\;CMake Files\src\[015]Command Pattern\[079]Undo Operations\;CMake Files\src\[015]Command Pattern\[080]Composive Commands\;CMake Files\src\[015]Command Pattern\[081]Summary\;CMake Files\src\[015]Command Pattern\[Exercise]Command Coding Exercise\;CMake Files\src\[016]Interpreter Pattern\;CMake Files\src\[016]Interpreter Pattern\[082]Overview\;CMake Files\src\[016]Interpreter Pattern\[083]Handmade Interpeter - Lexing\;CMake Files\src\[016]Interpreter Pattern\[084]Handmade Interpeter - Parsing\;CMake Files\src\[016]Interpreter Pattern\[085]Coding Parsers with Boost.Spirit\;CMake Files\src\[016]Interpreter Pattern\[086]Summary\;CMake Files\src\[016]Interpreter Pattern\[Exercise]Interpeter Coding Exercise\;CMake Files\src\[017]Iterator Pattern\;CMake Files\src\[017]Iterator Pattern\[087]Overview\;CMake Files\src\[017]Iterator Pattern\[088]Iterators In The Standard Library\;CMake Files\src\[017]Iterator Pattern\[089]Binary Tree Iterator\;CMake Files\src\[017]Iterator Pattern\[090]Tree Iterator with Coroutines\;CMake Files\src\[017]Iterator Pattern\[091]Boost Iterator Facade\;CMake Files\src\[017]Iterator Pattern\[092]Summary\;CMake Files\src\[017]Iterator Pattern\[Exercise]Iterator Coding Exercise\;CMake Files\src\[018]Mediator Pattern\;CMake Files\src\[018]Mediator Pattern\[093]Overview\;CMake Files\src\[018]Mediator Pattern\[094]Chat Room\;CMake Files\src\[018]Mediator Pattern\[095]Event Broker\;CMake Files\src\[018]Mediator Pattern\[096]Summary\;CMake Files\src\[018]Mediator Pattern\[Exercise]Mediator Coding Exercise\;CMake Files\src\[019]Memento Pattern\;CMake Files\src\[019]Memento Pattern\[097]Overview\;CMake Files\src\[019]Memento Pattern\[098]Memento\;CMake Files\src\[019]Memento Pattern\[099]Undo and Redo\;CMake Files\src\[019]Memento Pattern\[100]Automatic Memento\;CMake Files\src\[019]Memento Pattern\[101]Summary\;CMake Files\src\[019]Memento Pattern\[Exercise]Memento Coding Exercise\;CMake Files\src\[020]Observer Pattern\;CMake Files\src\[020]Observer Pattern\[102]Overview\;CMake Files\src\[020]Observer Pattern\[103]Observer\;CMake Files\src\[020]Observer Pattern\[104]Observable\;CMake Files\src\[020]Observer Pattern\[105]Observable with Boost.Signals\;CMake Files\src\[020]Observer Pattern\[106]The Problem Of Dependencies\;CMake Files\src\[020]Observer Pattern\[107]Thread Safety and Reentrary\;CMake Files\src\[020]Observer Pattern\[108]Summary\;CMake Files\src\[020]Observer Pattern\[Exercise]Observer Coding Exercise\;CMake Files\src\[021]State Pattern\;CMake Files\src\[021]State Pattern\[109]Overview\;CMake Files\src\[021]State Pattern\[110]Classic State Implementation\;CMake Files\src\[021]State Pattern\[111]Handmade State Machine\;CMake Files\src\[021]State Pattern\[112]State Machine With Boost.MSM\;CMake Files\src\[021]State Pattern\[113]Summary\;CMake Files\src\[021]State Pattern\[Exercise]State Coding Exercise\;CMake Files\src\[022]Strategy Pattern\;CMake Files\src\[022]Strategy Pattern\[114]Overview\;CMake Files\src\[022]Strategy Pattern\[115]Dynamic Strategy\;CMake Files\src\[022]Strategy Pattern\[116]Static Strategy\;CMake Files\src\[022]Strategy Pattern\[117]Summary\;CMake Files\src\[022]Strategy Pattern\[Exercise]Strategy Coding Exercise\;CMake Files\src\[023]Template Pattern\;CMake Files\src\[023]Template Pattern\[118]Overview\;CMake Files\src\[023]Template Pattern\[119]Template Method\;CMake Files\src\[023]Template Pattern\[120]Summary\;CMake Files\src\[023]Template Pattern\[Exercise]Template Method Exercise\;CMake Files\src\[024]Visitor Pattern\;CMake Files\src\[024]Visitor Pattern\[122]Intrusive Visitor\;CMake Files\src\[024]Visitor Pattern\[123]Reflective Visitor\;CMake Files\src\[024]Visitor Pattern\[124]Classic Visitor [double patch]\;CMake Files\src\[024]Visitor Pattern\[125]Acyclic Visitor\;CMake Files\src\[024]Visitor Pattern\[126]Multimethods\;CMake Files\src\[024]Visitor Pattern\[127]Variant and std..visit\;CMake Files\src\[024]Visitor Pattern\[128]Summary\;CMake Files\src\[024]Visitor Pattern\[Exersice]Visitor Coding Exersice\;"/>
+		<Option virtualFolders="CMake Files\;CMake Files\src\;CMake Files\src\[002]SOLID Design Principles\;CMake Files\src\[002]SOLID Design Principles\[003]Single Responsibility Principle\;CMake Files\src\[002]SOLID Design Principles\[004]Open-Closed Principle\;CMake Files\src\[002]SOLID Design Principles\[005]Liskov Substitution Principle\;CMake Files\src\[002]SOLID Design Principles\[006]Interface Segmentation Principle\;CMake Files\src\[002]SOLID Design Principles\[007]Dependency Inversion Principle\;CMake Files\src\[002]SOLID Design Principles\[008]Summary\;CMake Files\src\[003]Builder Pattern\;CMake Files\src\[003]Builder Pattern\[009]Gamma Categorization\;CMake Files\src\[003]Builder Pattern\[011]Life Without Builders\;CMake Files\src\[003]Builder Pattern\[012]Builder\;CMake Files\src\[003]Builder Pattern\[013]Fluent Builder\;CMake Files\src\[003]Builder Pattern\[014]Groovy-Style Builder\;CMake Files\src\[003]Builder Pattern\[015]Builder Facets\;CMake Files\src\[003]Builder Pattern\[Exercise]Builder Coding Exercise\;CMake Files\src\[004]Factories Pattern\;CMake Files\src\[004]Factories Pattern\[018]Point Example\;CMake Files\src\[004]Factories Pattern\[019]Factory Method\;CMake Files\src\[004]Factories Pattern\[020]Factory\;CMake Files\src\[004]Factories Pattern\[021]Inner Factory\;CMake Files\src\[004]Factories Pattern\[022]Abstract Factory\;CMake Files\src\[004]Factories Pattern\[023]Functional Factory\;CMake Files\src\[004]Factories Pattern\[Exercise]Factory Coding Exercise\;CMake Files\src\[005]Prototype Pattern\;CMake Files\src\[005]Prototype Pattern\[025]Overview\;CMake Files\src\[005]Prototype Pattern\[026]Record Keeping\;CMake Files\src\[005]Prototype Pattern\[027]Prototype\;CMake Files\src\[005]Prototype Pattern\[028]Prototype Factory\;CMake Files\src\[005]Prototype Pattern\[029]Prototype Via serialization\;CMake Files\src\[005]Prototype Pattern\[Exercise]Prototype Coding Exercise\;CMake Files\src\[006]Singleton Pattern\;CMake Files\src\[006]Singleton Pattern\[031]Overview\;CMake Files\src\[006]Singleton Pattern\[032]Singleton Implementation\;CMake Files\src\[006]Singleton Pattern\[033]Testability Issues\;CMake Files\src\[006]Singleton Pattern\[034]Singleton in Dependency Injection\;CMake Files\src\[006]Singleton Pattern\[035]Singleton Lifetime in DI Container\;CMake Files\src\[006]Singleton Pattern\[036]Monostate\;CMake Files\src\[006]Singleton Pattern\[037]Multiton\;CMake Files\src\[006]Singleton Pattern\[038]Summary\;CMake Files\src\[006]Singleton Pattern\[Exercise]Singleton Coding Exercise\;CMake Files\src\[007]Adapter Pattern\;CMake Files\src\[007]Adapter Pattern\[039]Overview\;CMake Files\src\[007]Adapter Pattern\[040]Vector-Raster Demo\;CMake Files\src\[007]Adapter Pattern\[041]Adapter Caching\;CMake Files\src\[007]Adapter Pattern\[042]Summary\;CMake Files\src\[007]Adapter Pattern\[Exercise]Adapter Coding Exercise\;CMake Files\src\[008]Bridge Pattern\;CMake Files\src\[008]Bridge Pattern\[043]Overview\;CMake Files\src\[008]Bridge Pattern\[044]Pimpl Idiom\;CMake Files\src\[008]Bridge Pattern\[045]Shrink-Wrapped Pimpl\;CMake Files\src\[008]Bridge Pattern\[046]Bridge Implementation\;CMake Files\src\[008]Bridge Pattern\[047]Summary\;CMake Files\src\[008]Bridge Pattern\[Exercise]Bridge Coding Exercise\;CMake Files\src\[009]Composite Pattern\;CMake Files\src\[009]Composite Pattern\[048]Overview\;CMake Files\src\[009]Composite Pattern\[049]Geometric Shapes\;CMake Files\src\[009]Composite Pattern\[050]Neural Networks\;CMake Files\src\[009]Composite Pattern\[051]Array-backed Properties\;CMake Files\src\[009]Composite Pattern\[052]Summary\;CMake Files\src\[009]Composite Pattern\[Exercise]Composite Coding Exercise\;CMake Files\src\[010]Decorator Pattern\;CMake Files\src\[010]Decorator Pattern\[053]Overview\;CMake Files\src\[010]Decorator Pattern\[054]Dynamic Decorator\;CMake Files\src\[010]Decorator Pattern\[055]Static Decorator\;CMake Files\src\[010]Decorator Pattern\[056]Functional Decorator\;CMake Files\src\[010]Decorator Pattern\[057]Summary\;CMake Files\src\[010]Decorator Pattern\[Exercise]Decorator Coding Exercise\;CMake Files\src\[011]Facade Pattern\;CMake Files\src\[011]Facade Pattern\[058]Overview\;CMake Files\src\[011]Facade Pattern\[059]Facade\;CMake Files\src\[011]Facade Pattern\[060]Summary\;CMake Files\src\[012]Flyweight Pattern\;CMake Files\src\[012]Flyweight Pattern\[061]Overview\;CMake Files\src\[012]Flyweight Pattern\[062]Handmade Flyweight\;CMake Files\src\[012]Flyweight Pattern\[063]Boost-Flyweight\;CMake Files\src\[012]Flyweight Pattern\[064]Text Formating\;CMake Files\src\[012]Flyweight Pattern\[065]Summary\;CMake Files\src\[012]Flyweight Pattern\[Exercise]Flyweight Coding Exercise\;CMake Files\src\[013]Proxy Pattern\;CMake Files\src\[013]Proxy Pattern\[066]Overview\;CMake Files\src\[013]Proxy Pattern\[067]Smart Pointers\;CMake Files\src\[013]Proxy Pattern\[068]Property Proxy\;CMake Files\src\[013]Proxy Pattern\[069]Virtual Proxy\;CMake Files\src\[013]Proxy Pattern\[070]Communication Proxy\;CMake Files\src\[013]Proxy Pattern\[071]Proxy VS Decorator\;CMake Files\src\[013]Proxy Pattern\[072]Summary\;CMake Files\src\[014]Chain of Responsibility\;CMake Files\src\[014]Chain of Responsibility\[073]Overview\;CMake Files\src\[014]Chain of Responsibility\[074]Pointer Chain\;CMake Files\src\[014]Chain of Responsibility\[075]Broker Chain\;CMake Files\src\[014]Chain of Responsibility\[076]Summary\;CMake Files\src\[014]Chain of Responsibility\[Exercise]Chain of Responsibility Coding Exercise\;CMake Files\src\[015]Command Pattern\;CMake Files\src\[015]Command Pattern\[077]Overview\;CMake Files\src\[015]Command Pattern\[078]Command\;CMake Files\src\[015]Command Pattern\[079]Undo Operations\;CMake Files\src\[015]Command Pattern\[080]Composive Commands\;CMake Files\src\[015]Command Pattern\[081]Summary\;CMake Files\src\[015]Command Pattern\[Exercise]Command Coding Exercise\;CMake Files\src\[016]Interpreter Pattern\;CMake Files\src\[016]Interpreter Pattern\[082]Overview\;CMake Files\src\[016]Interpreter Pattern\[083]Handmade Interpeter - Lexing\;CMake Files\src\[016]Interpreter Pattern\[084]Handmade Interpeter - Parsing\;CMake Files\src\[016]Interpreter Pattern\[085]Coding Parsers with Boost.Spirit\;CMake Files\src\[016]Interpreter Pattern\[086]Summary\;CMake Files\src\[016]Interpreter Pattern\[Exercise]Interpeter Coding Exercise\;CMake Files\src\[017]Iterator Pattern\;CMake Files\src\[017]Iterator Pattern\[087]Overview\;CMake Files\src\[017]Iterator Pattern\[088]Iterators In The Standard Library\;CMake Files\src\[017]Iterator Pattern\[089]Binary Tree Iterator\;CMake Files\src\[017]Iterator Pattern\[090]Tree Iterator with Coroutines\;CMake Files\src\[017]Iterator Pattern\[091]Boost Iterator Facade\;CMake Files\src\[017]Iterator Pattern\[092]Summary\;CMake Files\src\[017]Iterator Pattern\[Exercise]Iterator Coding Exercise\;CMake Files\src\[018]Mediator Pattern\;CMake Files\src\[018]Mediator Pattern\[094]Chat Room\;CMake Files\src\[018]Mediator Pattern\[095]Event Broker\;CMake Files\src\[018]Mediator Pattern\[096]Summary\;CMake Files\src\[018]Mediator Pattern\[Exercise]Mediator Coding Exercise\;CMake Files\src\[019]Memento Pattern\;CMake Files\src\[019]Memento Pattern\[098]Memento\;CMake Files\src\[019]Memento Pattern\[099]Undo and Redo\;CMake Files\src\[019]Memento Pattern\[100]Automatic Memento\;CMake Files\src\[019]Memento Pattern\[101]Summary\;CMake Files\src\[019]Memento Pattern\[Exercise]Memento Coding Exercise\;CMake Files\src\[020]Observer Pattern\;CMake Files\src\[020]Observer Pattern\[103]Observer\;CMake Files\src\[020]Observer Pattern\[104]Observable\;CMake Files\src\[020]Observer Pattern\[105]Observable with Boost.Signals\;CMake Files\src\[020]Observer Pattern\[106]The Problem Of Dependencies\;CMake Files\src\[020]Observer Pattern\[107]Thread Safety and Reentrary\;CMake Files\src\[020]Observer Pattern\[108]Summary\;CMake Files\src\[020]Observer Pattern\[Exercise]Observer Coding Exercise\;CMake Files\src\[021]State Pattern\;CMake Files\src\[021]State Pattern\[110]Classic State Implementation\;CMake Files\src\[021]State Pattern\[111]Handmade State Machine\;CMake Files\src\[021]State Pattern\[112]State Machine With Boost.MSM\;CMake Files\src\[021]State Pattern\[113]Summary\;CMake Files\src\[021]State Pattern\[Exercise]State Coding Exercise\;CMake Files\src\[022]Strategy Pattern\;CMake Files\src\[022]Strategy Pattern\[115]Dynamic Strategy\;CMake Files\src\[022]Strategy Pattern\[116]Static Strategy\;CMake Files\src\[022]Strategy Pattern\[117]Summary\;CMake Files\src\[022]Strategy Pattern\[Exercise]Strategy Coding Exercise\;CMake Files\src\[023]Template Pattern\;CMake Files\src\[023]Template Pattern\[119]Template Method\;CMake Files\src\[023]Template Pattern\[120]Summary\;CMake Files\src\[023]Template Pattern\[Exercise]Template Method Exercise\;CMake Files\src\[024]Visitor Pattern\;CMake Files\src\[024]Visitor Pattern\[122]Intrusive Visitor\;CMake Files\src\[024]Visitor Pattern\[123]Reflective Visitor\;CMake Files\src\[024]Visitor Pattern\[124]Classic Visitor [double patch]\;CMake Files\src\[024]Visitor Pattern\[125]Acyclic Visitor\;CMake Files\src\[024]Visitor Pattern\[126]Multimethods\;CMake Files\src\[024]Visitor Pattern\[127]Variant and std..visit\;CMake Files\src\[024]Visitor Pattern\[128]Summary\;CMake Files\src\[024]Visitor Pattern\[Exersice]Visitor Coding Exersice\;"/>
 		<Build>
 			<Target title="all">
 				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug"/>
@@ -4261,50 +4261,6 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[017]Iterator\ Pattern/[Exercise]Iterator\ Coding\ Exercise/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="093Overview">
-				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[093]Overview/093Overview" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[093]Overview"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator\ Pattern/[093]Overview/Makefile&quot;  VERBOSE=1 093Overview"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator\ Pattern/[093]Overview/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator\ Pattern/[093]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator\ Pattern/[093]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="093Overview/fast">
-				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[093]Overview/093Overview" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[093]Overview"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator\ Pattern/[093]Overview/Makefile&quot;  VERBOSE=1 093Overview/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator\ Pattern/[093]Overview/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator\ Pattern/[093]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator\ Pattern/[093]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="094ChatRoom">
 				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[094]Chat Room/094ChatRoom" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator Pattern/[094]Chat Room"/>
@@ -4479,50 +4435,6 @@
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator\ Pattern/[Exercise]Mediator\ Coding\ Exercise/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator\ Pattern/[Exercise]Mediator\ Coding\ Exercise/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[018]Mediator\ Pattern/[Exercise]Mediator\ Coding\ Exercise/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="097Overview">
-				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/[097]Overview/097Overview" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/[097]Overview"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento\ Pattern/[097]Overview/Makefile&quot;  VERBOSE=1 097Overview"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento\ Pattern/[097]Overview/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento\ Pattern/[097]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento\ Pattern/[097]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="097Overview/fast">
-				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/[097]Overview/097Overview" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento Pattern/[097]Overview"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento\ Pattern/[097]Overview/Makefile&quot;  VERBOSE=1 097Overview/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento\ Pattern/[097]Overview/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento\ Pattern/[097]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento\ Pattern/[097]Overview/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="098Memento">
@@ -4743,50 +4655,6 @@
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento\ Pattern/[Exercise]Memento\ Coding\ Exercise/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento\ Pattern/[Exercise]Memento\ Coding\ Exercise/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[019]Memento\ Pattern/[Exercise]Memento\ Coding\ Exercise/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="102Overview">
-				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[102]Overview/102Overview" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[102]Overview"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer\ Pattern/[102]Overview/Makefile&quot;  VERBOSE=1 102Overview"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer\ Pattern/[102]Overview/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer\ Pattern/[102]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer\ Pattern/[102]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="102Overview/fast">
-				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[102]Overview/102Overview" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[102]Overview"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer\ Pattern/[102]Overview/Makefile&quot;  VERBOSE=1 102Overview/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer\ Pattern/[102]Overview/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer\ Pattern/[102]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer\ Pattern/[102]Overview/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="103Observer">
@@ -5097,50 +4965,6 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer\ Pattern/[Exercise]Observer\ Coding\ Exercise/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="109Overview">
-				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[109]Overview/109Overview" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[109]Overview"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State\ Pattern/[109]Overview/Makefile&quot;  VERBOSE=1 109Overview"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State\ Pattern/[109]Overview/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State\ Pattern/[109]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State\ Pattern/[109]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="109Overview/fast">
-				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[109]Overview/109Overview" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[109]Overview"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State\ Pattern/[109]Overview/Makefile&quot;  VERBOSE=1 109Overview/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State\ Pattern/[109]Overview/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State\ Pattern/[109]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State\ Pattern/[109]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="110ClassicStateImplementation">
 				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[110]Classic State Implementation/110ClassicStateImplementation" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State Pattern/[110]Classic State Implementation"/>
@@ -5361,50 +5185,6 @@
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[021]State\ Pattern/[Exercise]State\ Coding\ Exercise/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
-			<Target title="114Overview">
-				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[114]Overview/114Overview" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[114]Overview"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy\ Pattern/[114]Overview/Makefile&quot;  VERBOSE=1 114Overview"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy\ Pattern/[114]Overview/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy\ Pattern/[114]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy\ Pattern/[114]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="114Overview/fast">
-				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[114]Overview/114Overview" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[114]Overview"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy\ Pattern/[114]Overview/Makefile&quot;  VERBOSE=1 114Overview/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy\ Pattern/[114]Overview/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy\ Pattern/[114]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy\ Pattern/[114]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
 			<Target title="115DynamicStrategy">
 				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[115]Dynamic Strategy/115DynamicStrategy" prefix_auto="0" extension_auto="0"/>
 				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy Pattern/[115]Dynamic Strategy"/>
@@ -5579,50 +5359,6 @@
 					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy\ Pattern/[Exercise]Strategy\ Coding\ Exercise/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
 					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy\ Pattern/[Exercise]Strategy\ Coding\ Exercise/Makefile&quot;  VERBOSE=1 clean"/>
 					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[022]Strategy\ Pattern/[Exercise]Strategy\ Coding\ Exercise/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="118Overview">
-				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[118]Overview/118Overview" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[118]Overview"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template\ Pattern/[118]Overview/Makefile&quot;  VERBOSE=1 118Overview"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template\ Pattern/[118]Overview/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template\ Pattern/[118]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template\ Pattern/[118]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-				</MakeCommands>
-			</Target>
-			<Target title="118Overview/fast">
-				<Option output="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[118]Overview/118Overview" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template Pattern/[118]Overview"/>
-				<Option object_output="./"/>
-				<Option type="1"/>
-				<Option compiler="gcc"/>
-				<Compiler>
-					<Add directory="/usr/include/c++/9"/>
-					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
-					<Add directory="/usr/include/c++/9/backward"/>
-					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
-					<Add directory="/usr/local/include"/>
-					<Add directory="/usr/include/x86_64-linux-gnu"/>
-					<Add directory="/usr/include"/>
-				</Compiler>
-				<MakeCommands>
-					<Build command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template\ Pattern/[118]Overview/Makefile&quot;  VERBOSE=1 118Overview/fast"/>
-					<CompileFile command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template\ Pattern/[118]Overview/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template\ Pattern/[118]Overview/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j2 -f &quot;/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[023]Template\ Pattern/[118]Overview/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="119TemplateMethod">
@@ -6488,9 +6224,6 @@
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[017]Iterator Pattern/[Exercise]Iterator Coding Exercise/[Exercise]Iterator Coding Exercise.cpp">
 			<Option target="ExerciseIteratorCodingExercise"/>
 		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[018]Mediator Pattern/[093]Overview/[093]Overview.cpp">
-			<Option target="093Overview"/>
-		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[018]Mediator Pattern/[094]Chat Room/[094]Chat Room.cpp">
 			<Option target="094ChatRoom"/>
 		</Unit>
@@ -6502,9 +6235,6 @@
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[018]Mediator Pattern/[Exercise]Mediator Coding Exercise/[Exercise]Mediator Coding Exercise.cpp">
 			<Option target="ExerciseMediatorCodingExercise"/>
-		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[019]Memento Pattern/[097]Overview/[097]Overview.cpp">
-			<Option target="097Overview"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[019]Memento Pattern/[098]Memento/[098]Memento.cpp">
 			<Option target="098Memento"/>
@@ -6520,9 +6250,6 @@
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[019]Memento Pattern/[Exercise]Memento Coding Exercise/[Exercise]Memento Coding Exercise.cpp">
 			<Option target="ExerciseMementoCodingExercise"/>
-		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[020]Observer Pattern/[102]Overview/[102]Overview.cpp">
-			<Option target="102Overview"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[020]Observer Pattern/[103]Observer/[103]Observer.cpp">
 			<Option target="103Observer"/>
@@ -6545,9 +6272,6 @@
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[020]Observer Pattern/[Exercise]Observer Coding Exercise/[Exercise]Observer Coding Exercise.cpp">
 			<Option target="ExerciseObserverCodingExercise"/>
 		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[021]State Pattern/[109]Overview/[109]Overview.cpp">
-			<Option target="109Overview"/>
-		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[021]State Pattern/[110]Classic State Implementation/[110]Classic State Implementation.cpp">
 			<Option target="110ClassicStateImplementation"/>
 		</Unit>
@@ -6563,9 +6287,6 @@
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[021]State Pattern/[Exercise]State Coding Exercise/[Exercise]State Coding Exercise.cpp">
 			<Option target="ExerciseStateCodingExercise"/>
 		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[022]Strategy Pattern/[114]Overview/[114]Overview.cpp">
-			<Option target="114Overview"/>
-		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[022]Strategy Pattern/[115]Dynamic Strategy/[115]Dynamic Strategy.cpp">
 			<Option target="115DynamicStrategy"/>
 		</Unit>
@@ -6577,9 +6298,6 @@
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[022]Strategy Pattern/[Exercise]Strategy Coding Exercise/[Exercise]Strategy Coding Exercise.cpp">
 			<Option target="ExerciseStrategyCodingExercise"/>
-		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[023]Template Pattern/[118]Overview/[118]Overview.cpp">
-			<Option target="118Overview"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[023]Template Pattern/[119]Template Method/[119]Template Method.cpp">
 			<Option target="119TemplateMethod"/>
@@ -6965,9 +6683,6 @@
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[018]Mediator Pattern/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\[018]Mediator Pattern\"/>
 		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[018]Mediator Pattern/[093]Overview/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\src\[018]Mediator Pattern\[093]Overview\"/>
-		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[018]Mediator Pattern/[094]Chat Room/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\[018]Mediator Pattern\[094]Chat Room\"/>
 		</Unit>
@@ -6982,9 +6697,6 @@
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[019]Memento Pattern/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\[019]Memento Pattern\"/>
-		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[019]Memento Pattern/[097]Overview/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\src\[019]Memento Pattern\[097]Overview\"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[019]Memento Pattern/[098]Memento/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\[019]Memento Pattern\[098]Memento\"/>
@@ -7003,9 +6715,6 @@
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[020]Observer Pattern/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\[020]Observer Pattern\"/>
-		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[020]Observer Pattern/[102]Overview/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\src\[020]Observer Pattern\[102]Overview\"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[020]Observer Pattern/[103]Observer/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\[020]Observer Pattern\[103]Observer\"/>
@@ -7031,9 +6740,6 @@
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[021]State Pattern/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\[021]State Pattern\"/>
 		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[021]State Pattern/[109]Overview/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\src\[021]State Pattern\[109]Overview\"/>
-		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[021]State Pattern/[110]Classic State Implementation/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\[021]State Pattern\[110]Classic State Implementation\"/>
 		</Unit>
@@ -7052,9 +6758,6 @@
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[022]Strategy Pattern/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\[022]Strategy Pattern\"/>
 		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[022]Strategy Pattern/[114]Overview/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\src\[022]Strategy Pattern\[114]Overview\"/>
-		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[022]Strategy Pattern/[115]Dynamic Strategy/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\[022]Strategy Pattern\[115]Dynamic Strategy\"/>
 		</Unit>
@@ -7069,9 +6772,6 @@
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[023]Template Pattern/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\[023]Template Pattern\"/>
-		</Unit>
-		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[023]Template Pattern/[118]Overview/CMakeLists.txt">
-			<Option virtualFolder="CMake Files\src\[023]Template Pattern\[118]Overview\"/>
 		</Unit>
 		<Unit filename="/home/paulkokos/CLionProjects/DesignPatternsInCpp/src/[023]Template Pattern/[119]Template Method/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\src\[023]Template Pattern\[119]Template Method\"/>

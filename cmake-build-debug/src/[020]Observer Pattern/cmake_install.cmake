@@ -39,7 +39,6 @@ endif()
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[102]Overview/cmake_install.cmake")
   include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[103]Observer/cmake_install.cmake")
   include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[104]Observable/cmake_install.cmake")
   include("/home/paulkokos/CLionProjects/DesignPatternsInCpp/cmake-build-debug/src/[020]Observer Pattern/[105]Observable with Boost.Signals/cmake_install.cmake")
